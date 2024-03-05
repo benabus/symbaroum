@@ -21,32 +21,35 @@ The number of players in a gaming group preferably ranges between two and four, 
 Before you create your character it might be a good idea to ask the Game Master about the upcoming adventure or the campaign: what kind of character would be appropriate to play? You should also talk with the other players in the group. What are they playing and in what way can the characters complement each other? 
 
 
-THE CHARACTER'S GOAL 
-Establish at least one distinct goal for your character -something that he or she wants to achieve, 
+#### THE CHARACTER'S GOAL 
 
-72 
-defend or avoid. The goal(s) will change over time as the character evolves but there should always be at least one clear goal that helps in propelling the game forward. 
+Establish at least one distinct goal for your character -something that he or she wants to achieve, defend or avoid. The goal(s) will change over time as the character evolves but there should always be at least one clear goal that helps in propelling the game forward. 
+
 As a guideline, it can be said that some goals are inappropriate for characters and gaming groups. Goals that are an inevitable effect of playing and therefore lack dramatic potential fall into this category -for instance, "to get better equipment", "to get more money", "to gain more Experience" and "to have more and better abilities". You will find examples of more suitable goals in the box The Character's Goal. 
-THE GROUP'S GOAL 
+
+#### THE GROUP'S GOAL 
+
 It is good for the group to share a common goal besides the characters' personal ones. Discuss with the other players what your group would like to accomplish, in the short or the long run. Grander goals will probably be more constant over time, while lesser ones may come to change and be replaced as the game moves forward. 
-BRING THE CHARACTER TO LIFE 
+
+#### BRING THE CHARACTER TO LIFE 
+
 Describe your character to the group so that everybody gets a sense of who he or she is. Play and act as if you were there, experiencing it all, and trying to achieve the character's goals. When things happen, react to them. Describe what your character wants to do and the Game Master will explain what is needed for that to succeed. 
-INITIATE SCENES 
+
+#### INITIATE SCENES 
 
 You should not be afraid to initiate things, to let your character respond to and interact with the game world. Describe your intentions and the Game Master will decide what you need to do in order to make it happen. Sometimes the Game Master will turn your initiative into a challenge, for you or for the entire group. 
 
+#### DEVELOP YOUR CHARACTER 
 
-Mow to (Create a (Character 
-RULESWISE, YOUR CHARACTER is defined by some numbers and notes on a character sheet. The numbers indicate what your character is good at, what abilities and powers it has and how much damage its weapons can inflict on an enemy. The notes can describe what kind of equipment the character carries, what its goals are and what kind of personality it has. 
-Where you get your inspiration from when creating a character may vary, but it often comes from movies, TV-shows and books. Some may only need the texts and pictures within this book, or they may use their ordinary selves as a starting point DEVELOP YOUR CHARACTER 
 Allow your character to change as an effect of what he or she experiences and what happens in the game world -just as Frodo and Bilbo are changed by their adventures. Depending on what he or she has to suffer, it is possible for a character to change anything from beliefs and goals to appearance and the focus of its abilities. Between game sessions you can use the Experience that your character has gained to increase abilities that correspond to what challenges he or she has faced, or acquire new abilities that mirror the character's hardearned experiences. 
-DESCRIBE FUTURE PLANS 
-When a game session ends, describe what your character intends to do next, so the Game Master can prepare for it. Should the session instead mark the end of an entire adventure, describe what your player character will do until the start of the next adventure. 
-1/ 
 
-The Character's Goal 
- 
-Restore your family's honor 
+#### DESCRIBE FUTURE PLANS 
+
+When a game session ends, describe what your character intends to do next, so the Game Master can prepare for it. Should the session instead mark the end of an entire adventure, describe what your player character will do until the start of the next adventure. 
+
+> **The Character's Goal**
+> 
+> - Restore your family's honor 
 
  
 Become the leader of a guild, chapter or an organization 
@@ -68,6 +71,11 @@ Lifta curse that has fallen on the character or someone else
 
  
 Retrieve a lost heirloom or weapon 
+
+### How to Create a Character 
+
+RULESWISE, YOUR CHARACTER is defined by some numbers and notes on a character sheet. The numbers indicate what your character is good at, what abilities and powers it has and how much damage its weapons can inflict on an enemy. The notes can describe what kind of equipment the character carries, what its goals are and what kind of personality it has. 
+Where you get your inspiration from when creating a character may vary, but it often comes from movies, TV-shows and books. Some may only need the texts and pictures within this book, or they may use their ordinary selves as a starting point 
 
 
 for building their character. In the end the source of inspiration is irrelevant, but your character has to feel alive, has to have goals and a personality that belongs in the setting ofSymbaroum. If you manage to create that, then acting as the character should be both fun and easy. 
