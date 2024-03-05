@@ -6,7 +6,9 @@ AS THE NAME SUGGESTS, this part of the book is primarily meant for the players o
 
 THIS FIRST CHAPTER begins with a section describing what aspects of roleplaying are meant to be handled by the players, followed by an introduction to the process of creating a character. The eight chapters that come thereafter explain the different parts of character creation in depth from Attributes and Abilities to what equipment a character has from the start. 
 
-The last chapter in the Player's Guide describes the players' ruleset. There you can learn how combat works, how to handle wounds and healing, as well as how to improve a character and develop 
+The last chapter in the Player's Guide describes the players' ruleset. There you can learn how combat works, how to handle wounds and healing, as well as how to improve a character and develop its abilities using the Experience gained from completing adventures. 
+
+In this book you will hopefully find all of the tools needed in order to create colorful characters and to let them make a name for themselves among Ambrians and barbarians. If you, for any reason, would like to deviate from or add to the rules presented below -feel free to bring it up for discussion with your gaming group. Your character is your conduit and avatar in the setting of Symbaroum, so it is vitally important that you make it your own and create it just the way you want it. 
 
 ### Role of the Player 
 
@@ -14,11 +16,7 @@ THE PLAYERS AND the Game Master have an equal responsibility for the shared expe
 
 #### CREATING CHARACTERS
 
-The number of players in a gaming group preferably ranges between two and four, though it is fully possible to play with only one player and a Game its abilities using the Experience gained from completing adventures. 
-
-In this book you will hopefully find all of the tools needed in order to create colorful characters and to let them make a name for themselves among Ambrians and barbarians. If you, for any reason, would like to deviate from or add to the rules presented below -feel free to bring it up for discussion with your gaming group. Your character is your conduit and avatar in the setting of Symbaroum, so it is vitally important that you make it your own and create it just the way you want it. 
-
-Master. The number of players aside, each player is in control of one character through which he or she experiences and interacts with the game world. 
+The number of players in a gaming group preferably ranges between two and four, though it is fully possible to play with only one player and a Game Master. The number of players aside, each player is in control of one character through which he or she experiences and interacts with the game world. 
 
 Before you create your character it might be a good idea to ask the Game Master about the upcoming adventure or the campaign: what kind of character would be appropriate to play? You should also talk with the other players in the group. What are they playing and in what way can the characters complement each other? 
 
