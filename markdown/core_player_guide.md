@@ -1,0 +1,2279 @@
+# Symbaroum Player Guide
+
+## Introduction
+
+AS THE NAME SUGGESTS, this part of the book is primarily meant for the players of Symbaroum. The Game Master will have to be familiar with the rules as well, but the content of this section mainly focuses on how to create a character and the rules that the players will use while playing the game. 
+
+THIS FIRST CHAPTER begins with a section describing what aspects of roleplaying are meant to be handled by the players, followed by an introduction to the process of creating a character. The eight chapters that come thereafter explain the different parts of character creation in depth from Attributes and Abilities to what equipment a character has from the start. 
+
+The last chapter in the Player's Guide describes the players' ruleset. There you can learn how combat works, how to handle wounds and healing, as well as how to improve a character and develop 
+
+### Role of the Player 
+
+THE PLAYERS AND the Game Master have an equal responsibility for the shared experience, even if their roles are a bit different when playing. Below you will find suggestions regarding what aspects of the game session the players should take the main responsibility for. It is entirely up to you and your group if you wish to deviate from what is said below, in which case the suggestions may serve as a guideline for your discussions and decisions. 
+
+#### CREATING CHARACTERS
+
+The number of players in a gaming group preferably ranges between two and four, though it is fully possible to play with only one player and a Game its abilities using the Experience gained from completing adventures. 
+
+In this book you will hopefully find all of the tools needed in order to create colorful characters and to let them make a name for themselves among Ambrians and barbarians. If you, for any reason, would like to deviate from or add to the rules presented below -feel free to bring it up for discussion with your gaming group. Your character is your conduit and avatar in the setting of Symbaroum, so it is vitally important that you make it your own and create it just the way you want it. 
+
+Master. The number of players aside, each player is in control of one character through which he or she experiences and interacts with the game world. 
+
+Before you create your character it might be a good idea to ask the Game Master about the upcoming adventure or the campaign: what kind of character would be appropriate to play? You should also talk with the other players in the group. What are they playing and in what way can the characters complement each other? 
+
+
+THE CHARACTER'S GOAL 
+Establish at least one distinct goal for your character -something that he or she wants to achieve, 
+
+72 
+defend or avoid. The goal(s) will change over time as the character evolves but there should always be at least one clear goal that helps in propelling the game forward. 
+As a guideline, it can be said that some goals are inappropriate for characters and gaming groups. Goals that are an inevitable effect of playing and therefore lack dramatic potential fall into this category -for instance, "to get better equipment", "to get more money", "to gain more Experience" and "to have more and better abilities". You will find examples of more suitable goals in the box The Character's Goal. 
+THE GROUP'S GOAL 
+It is good for the group to share a common goal besides the characters' personal ones. Discuss with the other players what your group would like to accomplish, in the short or the long run. Grander goals will probably be more constant over time, while lesser ones may come to change and be replaced as the game moves forward. 
+BRING THE CHARACTER TO LIFE 
+Describe your character to the group so that everybody gets a sense of who he or she is. Play and act as if you were there, experiencing it all, and trying to achieve the character's goals. When things happen, react to them. Describe what your character wants to do and the Game Master will explain what is needed for that to succeed. 
+INITIATE SCENES 
+
+You should not be afraid to initiate things, to let your character respond to and interact with the game world. Describe your intentions and the Game Master will decide what you need to do in order to make it happen. Sometimes the Game Master will turn your initiative into a challenge, for you or for the entire group. 
+
+
+Mow to (Create a (Character 
+RULESWISE, YOUR CHARACTER is defined by some numbers and notes on a character sheet. The numbers indicate what your character is good at, what abilities and powers it has and how much damage its weapons can inflict on an enemy. The notes can describe what kind of equipment the character carries, what its goals are and what kind of personality it has. 
+Where you get your inspiration from when creating a character may vary, but it often comes from movies, TV-shows and books. Some may only need the texts and pictures within this book, or they may use their ordinary selves as a starting point DEVELOP YOUR CHARACTER 
+Allow your character to change as an effect of what he or she experiences and what happens in the game world -just as Frodo and Bilbo are changed by their adventures. Depending on what he or she has to suffer, it is possible for a character to change anything from beliefs and goals to appearance and the focus of its abilities. Between game sessions you can use the Experience that your character has gained to increase abilities that correspond to what challenges he or she has faced, or acquire new abilities that mirror the character's hardearned experiences. 
+DESCRIBE FUTURE PLANS 
+When a game session ends, describe what your character intends to do next, so the Game Master can prepare for it. Should the session instead mark the end of an entire adventure, describe what your player character will do until the start of the next adventure. 
+1/ 
+
+The Character's Goal 
+ 
+Restore your family's honor 
+
+ 
+Become the leader of a guild, chapter or an organization 
+
+ 
+Become the acknowledged master of a particular area of expertise 
+
+ 
+Take revenge on a person or a creature 
+
+ 
+Save a person from captivity 
+
+ 
+Find a missing person 
+
+ 
+Lifta curse that has fallen on the character or someone else 
+
+ 
+Retrieve a lost heirloom or weapon 
+
+
+for building their character. In the end the source of inspiration is irrelevant, but your character has to feel alive, has to have goals and a personality that belongs in the setting ofSymbaroum. If you manage to create that, then acting as the character should be both fun and easy. 
+The easiest way to create a character is to pick an archetype (Warrior, Mystic or Rogue), one of its associated occupations (Berserker, Witch or Treasure Hunter, for example) and follow the recommendations regarding Attributes, Race, Abilities and so on. That way you will be ready to play in no time. 
+
+74 
+Christian Rimmi (Order #41720700) 
+
+
+The Group's Goal 
+ 
+Lead a large group of people to safety 
+
+ 
+Establish an organization together 
+
+ 
+Establish a base for the group 
+
+ 
+Obtain more land, ships or wagons 
+
+ 
+Gain control of a specific location 
+
+ 
+Overthrow a leader 
+
+
+ 
+Become a force to be reckoned with in a specific location or in a particular area of expertise 
+
+ 
+Remove a serious and known threat towards the group 
+
+ 
+Lift a curse 
+
+
+ 
+Form an alliance with another faction in the area 
+
+ 
+Mediate peace between two fighting parties 
+
+ 
+Fulfill a prophecy 
+
+ 
+Find a legendary artifact or site 
+
+
+
+However, there is nothing that stops you from creating a character entirely from scratch, without regard to archetypes and occupations, just the way you want it in terms of Attributes and powers. The archetypes and their respective occupations are only meant to inspire and to offer a quick and easy way into the game and the setting. 
+ARCHETYPES (PAGE 82) 
+The three archetypal backgrounds presented Warrior, Mystic, Rogue -cover the most common roles for combat and problem-solving found in a group of adventurers. A balanced group contains representatives from all three of these archetypes, which means that the group can handle different types of challenges. This kind of composition also gives each character a greater chance ofbeing in the spotlight at some point during each game session. 
+Warriors are typically heavily armored and armed fighters who excel in melee combat. Many Warriors are natural leaders that can command and assist their fellow adventurers on the battlefield. Mystics are a diverse lot and can act as a scorcher of enemies or as a healer of allies in battle. The Mystics are often skilled problem-solvers as well, many times thanks to their access to mystical rituals. The Rogue is an agile and cunning combatant, whether fighting from a distance or in close quarters. Rogues are also skillful problem-solvers, especially when it comes to practical or socially oriented challenges. 
+Each archetype is further exemplified by a number of occupations -a Rogue may for example be a Treasure-Hunter, a Ranger or a Charlatan. In other words, the occupations are suggestions of different kinds of vocations which bring life and variation to the characters. 
+Example: Let us follow the player Mira as she creates a character. Mira decides to play a mystic of some kind, but doesn't want to start as any of the occupations described as part of the archetype. She therefore writes Mystic under "Archetype" on her character sheet and continues her character's creation with an open mind. 
+
+ATTRIBUTES (PAGE 100) 
+Numerically a character is defined by his or her Attributes, eight values that every creature has, but at varying levels: Accurate, Cunning, Discreet, Persuasive, Quick, Resolute, Strong and Vigilant. 
+These Attributes can be interpreted as talents, skills and interests that the character has acquired so far during his or her lifetime, and correspond to all challenges the character may face in the game. When a character attempts to achieve something of importance within the game world, the player rolls a 20-sided die, called a 020, and compares the result with the value of one of the Attributes. The test is successful if the outcome of the dice roll is equal to or lower than the Attribute value. In other words: the higher the number a character has in an Attribute, the better. 
+A central part of character creation is to decide which of the Attributes are important and which are less so. Choosing Abilities will help you in that decision, since abilities are often based on certain Attributes, and therefore indicate what Attributes the player should put most emphasis on. 
+There are two ways to determine a character's Attributes: 
+ 
+Typical distribution: Distribute the values 5, 7, 9, 10, 10, 11, 13, 15 among the character's Attributes. If the player wishes, he or she may then transfer points between the Attributes. Only one attribute value may be as high as 15 and none can be higher than 15 or lower than 5. 
+
+ 
+Point Buy: Distribute 80 points among the eight Attributes. Only one attribute value may be as high as 15 and none can be higher than 15 or lower than 5. 
+
+
+Example: Mira places 15 in Resolute, since it's an important Attribute for Mystics. She then places the rest of the values like so:Accurate 10, Cunning 13, Discreet 5, Persuasive 7. Quick 11, Strong 10 and Vigilant 9. These values can be changed and moved later on as the character starts to take shape. 
+According to Master 
+Malliano these signs, carved in the tower ruin in Old Kadizar, seem to name the settlement that lay there at the height of Symbaroums power. He has proposed 
+Agrathor or Ergatharor as possible pronunciations. 
+
+RACE (PAGE 102) 
+There are many and varied creatures in Ambria and Davokar, but the races available to players when they create their characters are changeling, human, ogre and goblin. Humans are further divided into two subgroups: Ambrians and barbarians. 
+Example: Mira likes ogres; those hulking loners of unknown origin. On the surface they may seem more suited to be Warriors than Mystics, but Mira is not bothered by that. She writes ogre under Race on her character sheet. She also makes some changes in her Attributes. She imagines her character to be tall and wiry, if not massive as a troll, so she changes Strong to 11 and Quick to 10. 
+ABILITIES (PAGE 112) 
+Abilities cover the talents and special skills which give the character more alternatives in combat or when solving a problem. The Abilities are divided into three levels of expertise, from Novice through Adept to Master. A new character most often starts with two abilities or powers at novice level and one at adept level, but you may instead choose to start with five abilities at novice level and none at adept level. Gaming groups that would rather have more experienced characters right from the start can of course decide on another starting level. 
+Example: Since Mira's character is an ogre she first decides to take the Robust trait at novice level. She does not have to select that trait, but it somehow feels right. To make her character less one-dimensional Mira decides to take five abilities at novice level, rather than two at novice level and one at adept level. After picking Robust Mira has four more to choose. When she is done browsing the abilities Mira picks Mystical Power (Confusion), Ritualist (the Telepathic Interrogationritual), Natural Warrior and Recovery. 
+MYSTICAL TRADITIONS (PAGE 126) 
+Any character can learn to use mystical powers and rituals, but for those who intend to use them frequently it is wise to learn the theory and practice of some mystical tradition. The reason for this is Corruption. When Mystics make use of their powers and rituals, their bodies and Shadows (see below) are tainted by corruption, which one day may lead to ruin. 
+The Mystics of the Queen's folk are the cunning wizards of Ordo Magica (the Wizardry ability) and the theurgs predominantly found within the Church of Prios (the Theurgyability}. The barbarian witches wield a much older, more natural, magic, shunned by the southerners but highly regarded by the barbarians and their chieftains (the Witchcraft ability). Sorcerers (the Sorceryability) are desperate and power-hungry mystics that instead of trying to avoid corruption, embrace it and use its tainting powers for their own nefarious purposes. 
+Again, a character does not have to belong to any of these traditions to learn individual mystical powers. However, the mystic who decides to go that way should take heed, and must be prepared to face the inevitable corruption alone. 
+Example: Mira has decided that her player character should only partially rely on her mystical powers and does not want the ogre to belong to any tradition. She therefore disregards the traditions and keeps the creation points that she already has placed in Natural Warrior. That way her ogre becomes more diverse rather than a purebred mystic. 
+SHADOW 
+
+Every creature and object in the game world has a Shadow, an expression ofits spiritual alliances or its innermost essence. The Shadow indicates to which of the three primal principles a character has the strongest bond (to the discipline of civilization, the wildness of nature or the corruption of darkness), whether the character knows about this bond or not. 
+Characters can learn to see the Shadow of other 
+creatures by using abilities like Witchsightor rituals 
+like Holy Smoke. Creatures that are close to nature 
+have shadows that range in the colors of green, red 
+or white, while the shadows of civilized people tend 
+to appear in gold, silver or copper. Many who dwell 
+in the southern parts of Davokar or in northern 
+Ambria are of a mixed nature and their shadows 
+can therefore consist of a combination of colors. The 
+shadows of true blight beasts are abysmally black, 
+while a corrupted creature of nature is revealed 
+Table4: Starting Equipment 
+ABILITY OR POWER 
+Man-at-arms 
+Marksman 
+Polearm Mastery 
+Shield Fighter 
+Steel Throw 
+by sickly spots on green, red with streaks of rust or with ashen grey among the white. In the case of corrupted creatures of civilization the shadows tend to be chipped gold, blackened silver or corroded copper. A character's Shadow is closely connected with the character's level of Corruption, a circumstance that Mystics should be extra aware of. 
+Example: Mira provides her ogre with a white shadow, as she feels it fits the idea of a spiritual side to the solitary giant. She describes the Shadow as "white as morning mists over the meres of Davokar: Trailing flakes of ash can occasionally be seen within the mist. as a sign of the ogre's dawning corruption. The ogre gets one (1) permanent Corruption for its ritual and another one (1) for its Confusion power. Mira writes down 2 points of permanent Corruption on her character sheet. 
+EQUIPMENT (PAGE 148) 
+A character's starting equipment, weapons and money are decided by its archetype or by abilities and powers picked by the player. 
+All characters start with camping gear consisting of a sleeping roll, cooking equipment and firewood. Trinkets suited to the character's backstory may be added at no cost: a deck of cards, pipe and tobacco, fishing rod and a case of bait, a signal horn or the like are welcomed since they make the character come alive. Memorabilia like a lock of hair from a lover, a wooden figurine from a deceased relative or an embroidered handkerchief as the only clue to the murderer of the character's father really do enrich the history of a character. Abilities that are based on Cunning (like Alchemy, Beast Lore, Loremaster, Poisoner and Tactician) are likely accompanied by impressive tomes and well-thumbed scrolls regarding the topic in question. 
+When it comes to starting weapons, a character receives the weapon or weapons associated with a 
+STARTING EQUIPMENT 
+Medium armor 
+Crossbow or bow 
+Spear Shield One throwing weapon 
+
+Twin Attack One single-handed weapon (novice), two single-handed weapons (adept) Two-handed Force One heavy weapon Witch hammer One single-handed weapon 
+
+INTRODUCTION 8 
+
+specific ability for free, as well as a dagger. Should a character lack abilities or powers that are based on weaponry, then he or she may instead start with any of the following combinations: 
+ 
+a sturdy staff and a dagger 
+
+ 
+a single-handed weapon and a dagger 
+
+ 
+a ranged weapon and a dagger 
+
+
+Other than weapons, a character starts with an ordinary light armor. If a player should want heavier armor, then he or she has to purchase it with the character's starting funds. It may be wise to purchase armor with the Flexible quality, should you be able to afford it: Mystics can buy a witch gown, a wizard's cloak or a priest robe. 
+MONEY 
+The character starts with 5 thaler in its purse, unless any of its traits say differently. The player can use these thaler to purchase additional weapons, armor and equipment. 
+The primary currency used in Ambria consists of shillings and ortegs, besides the thaler. Ten ortegs makes one shilling and ten shillings makes one thaler. For an orteg, you can afford common quality living for a day in the countryside, while an equal standard in a city or a town costs a shilling. Tools, weapons and armor usually cost one thaler or more. 
+Example: Since Mira's ogre has the Pariah trait, she doesn't start with much more than the basic equipment. The ogre gets a club as a weapon, as well as a dagger for eating and a leather apron for light armor. Mira writes down 5 shillings in the ogre's purse, but adds a flute to the equipment list, which she thinks that the ogre should have. On the flute the ogre is going to play sad tunes, their origin unknown even to the ogre herself. 
+PERSONALITY 
+Fill your character with details that will help to breathe life into the numbers. The character will of course need a name and a detailed background, maybe even a quote that captures its way of speaking and expressing itself. Decide on at least one personal goal for the character, as well as a goal for the whole group, so that the characters have something in common to fight for when the game starts. 
+Example: An ogre should have a rough name, given to her by the people she has spent time with. After some consideration Mira decides to name her character Grumpa, based on the fact that ogres can sometimes be cranky and, well, a bit grumpy. 
+On the character sheet there is space for a fitting quote, something the player thinks captures the essence of the character or its views on life. Mira writes "You helped me, I'll help you" as Grumpa's quote, as it coincides with the ogre's goal (see below). 
+Regarding her background, Mira imagines that Grum pa was found wandering aimlessly along one of the many roads connecting keeps and villages on the southern border of Davokar. Grum pa was adopted by a traveling theater company, which had her do the heavy work like raising tents and digging latrines. Soon the leader of the company discovered that the ogre knew how to read people's minds. After that, the theater company added the act "Xavagunda -the Horrendous Witch" to their repertoire. 
+GOALS 
+It is hard to say something generic as to which goals a character or a group should choose. However, what is important is that the goals should make for exciting and interesting stories; the Game Master should be able to use the goals as a starting point for designing individual encounters or entire adventures. 
+It is also nice if the goals are tied to the game world of Symbaroum. The Campaign Book provides a wide collection oflocations, persons and events that the players can use for inspiration -for instance, names of noble families for a character to have a feud with. 
+Example: After some thought Mira decides on a primary goal for her character: someone in Davokar taught her to use magic and play sad songs on the flute. Grumpa doesn't remember who this person was. Her goal is to find this person and repay her debt of gratitude. Mira lets the GM decide how and when this will come into play. She then decides on some goals together with the rest of the players in the group. The others like the idea of a theater company and they decide that all their characters should be tied to the company. They name it The White Dove's Theater Company. Collectively they make an addition to the backstory: the group is really a gang of thieves that's fronting as a theater company to be able to travel freely and to find suitable victims. Grumpa 's mind reading ritual is very useful when it comes to the latter. Together with the Game Master the group decides that 
+The White Dove's Theater Company is headed for the plateau of Karvosti after a series of successful breakins (the group adds "Escape the fury of Baron Flagros" as one of their common goals). The barbarians are said to be gathering at the Thingstead, and many are drawn to Karvosti -an excellent opportunity for an exotic theater company with very nimble fingers! 
+
+
+Creating a Character 
+
+Pick Occupation Page82 
+You can either pick one of the occupations suggested among the Archetypes, or make something up. 
+
+Attributes Page100 
+Assign a value to each of the eight Attributes and calculate the values of the Secondary Attributes based on the primary ones. 
+
+Pick Race Page102 
+Pick a race for your character. 
+
+Abilities & Powers Page112 
+Write the name of each selected power in a box, followed by its effect and what type of power it is (Ability, Trait, Mystic Power or Ritual).If relevant. also check one of the boxes to indicate the power's level. (Novice, Adept. Master). 
+
+Describe your Shadow 
+Describe how your character's Shadow appears to those who can see it. 
+V,,,1.;;1. .,. ...,-,.:, ...,;o;,,:. o"'("
+"'\..t... Wt.tit., 9'. 't),,w"t<.r. 
+
+
+}5 n 1 
+
+
+
+Bo 
+======== 
+
+( ."""."' ."' 
+.C 
+
+uo;,: ~
+...J:,fl"I if),J...
+9',u:.\;;.,..
+
+--OCCUl'AD:'<11 _ft.i!ITQ
+R..,._
+G,.d,1,..-,, 
+,,,'<.-1-1.it.;--
+
+O<alDUlW "URI 
+A....b.., .. "' T,c,.."-.11. .. ur f!!.d;a
+""' OO<IIO.fflO ... 
+- 
+
+.... rf\04' 
+
+
+,... 
+ICll-allUM1llfi, 
+.emo,-i DfflC,,...,,. 
+
+
+Money & Equipment Page148 
+A character usually starts with 5 thaler in his or her purse, as well as some basic equipment, and also weapons and armor associated with specific Abilities. 
+
+Personality & Background 
+Does your character have any family, friends, enemies and contacts? Write a quote that captures your character's way of expressing himor herself. 
+
+Friends & Companions 
+Here you can keep track of the rest of the party's players and their characters. If the group has a name, write it here. In the example shown, the player Rodina has chosen to make up an occupation -Pickpocket -for her character . 
+
+Artifacts 
+If you find Artifacts and mystical treasures, describe them here. 
+
+Draw a Portrait 
+Here you can depict your character, should you have an artistic inclination. 
+
+81 
+
+
+THIS CHAPTER DESCRIBES the archetypes that the player may use as a starting point when creating a character. Together the Warrior, Mystic and Rogue archetypes cover the most common functions needed for combat and problem-solving in a group of adventurers. Each archetype is exemplified by five occupations and each occupation comes with suggestions on suitable Attributes and Abilities. 
+Warrior 
+"Here you got twin blade-wielding goblins, barbarian axe dancers, ogre pit fighters and fully armored knights ofthe finest stock -pick one ofthem to give you your first painful lesson!" 
+Agna Trollslayer, Sword Master in Thistle Hold. 
+THE BARBARIAN CLANS ofDavokar and the kingWARRIORS AND THE RACES dom of Ambria house many traditions of war and Ogres are commonly considered to be the exemplary combat. Some Warriors are professionals -soldiers Warrior, closely followed by humans. Changelings with a pragmatic point of view, regarding warfare are seldom regarded as classical Warrior material, as a vocation. Others stem from noble families and the same goes for goblins. You can definitely and bloodlines, and consider the glory of battle find Warriors among changelings and goblins, but to be a part of their heritage. To some the art of these tend to rely on agility and finesse rather than war is nothing more than a method needed to on raw physical strength. survive, while others use their prowess in battle for a higher purpose, such as serving Prios the WARRIOR ATTRIBUTES 
+Sun God or restoring family honor lost during A Warrior's primary Attribute is Strong,followed The Great War. by Accurateand Quick -it is of course necessary 
+Regardless of culture and origins, the for a Warrior to endure pain and damage, to have Warrior's main arena is the battlefield, where true aim and to swiftly seize the initiative. Beyond he or she often assumes the role of a heavily armed that, it is a question of whether the Warrior is a shock trooper. The Warrior can also contribute leader (Persuasive), resilient against mystical to effective problem-solving, mainly through powers (Resolute) or especially aware of his or her their capacity to lead. surroundings (Vigilant). 
+82 
+WARRIOR ABILITIES 
+Warriors are usually a rough and hardy lot, yet some have more of a tactical mind and many are strong leaders. Finesse is rarely the trademark of a Warrior but there are definitely those among them who take pride not just in winning, but also in how they win. 
+The following abilities are often found in a Warrior's arsenal, sorted according to Attributes. 
+ Accurate: Polearm Mastery, Shield Fighter, TwinAttack, Two-handedForce 
+ 
+Persuasive: Dominate, Leader 
+
+ 
+Quick: Acrobatics, Quickdraw 
+
+
+ 
+Resolute: Bodyguard, Steadfast 
+
+ 
+Strong: Iron Fist, Steadfast 
+
+ 
+General: Berserker, Equestrian, Exceptional Attribute, Man-at-arms, Recovery 
+
+
+BERSERKER 
+"Keep your distance! I wouldn't want to hurt you." 
+Spirits ofrage follow you and fill you with uncontrolled ferocity in battle. When you are not in combat you are of a thoughtful and patient disposition, a contrast that makes you both appreciated and feared. The barbarians speak of the Guard of the Slumbering Wrath, a handpicked group ofberserkers serving as the High Chieftain's bodyguard -do you dream of joining their ranks, or do you seek to defeat one of them as revenge for taking your place among them? 
+ 
+Important Attributes: Strong 13+, Quick 11+ 
+
+ 
+Suggested race: Barbarian or ogre 
+
+
+ Appropriate abilities: Berserker, Iron Fist, Recovery, Two-handed Force 
+DUELIST 
+"Please. refrain from bleeding on me when I run you through. " 
+Honor and glory is everything for a Warrior, and even better if one can defend their name with some flair. You have been living your life guided by that code and the fact that you are still alive undoubtedly speaks well of your talent. 
+ 
+Important Attributes: Accurate13+, Quick or Discreet11+ 
+
+ 
+Suggested race: Ambrian or changeling 
+
+
+
+.  Appropriate abilities: Acrobatics, Feint, Man-at-arms, TwinAttack 
+.. 
+
+.  
+. . 
+ 
+.. 
+
+ . . 
+ 
+
+
+ 
+... 
+� 
+
+CAPTAIN 
+"Everything will work out fine -just follow my lead!" 
+� 
+
+You are a natural born leader and have built your military career on that. Swordplay is only a way to keep yourself alive and maybe gain the respect of your subordinates at the same time. You bring out the best in your allies, guiding and protecting them so 
+you can achieve your military goals. That is how you gain their trust. 
+� Important Attributes: 
+Persuasive 13+ 
+� 
+Suggested race: Human (usually Ambrian) 
+
+� 
+Appropriate abilities: 
+
+
+Dominate, Leader, Man-at�
+arms, Shield Fighter 
+85 
+Christian Rimmi (Order #41720700) 
+
+SELLSWORD 
+"My sword and my life, in exchange for you gold. " 
+Fighting has been a way of life for you -for payment. The lords of Ambria often employ hired swords in their campaigns against the barbarians oftDavokar, while the clan leaders of Davokar do the same in return. Merchants need guards, as do pilgrims. You may have fought for different masters over the years, but the key to your survival has always been your skill and an instinct for judging what battles can or cannot be won. 
+� 
+Important Attributes: Strong 13+ 
+
+� 
+Suggested race: Human 
+
+
+� Appropriate abilities: Iron Fist, Man-at-arms, Polearm Mastery, Shield Fighter 
+
+.. 
+
+86 
+� 
+KNIGHT 
+"You may take my life, but not my honor." 
+You are a knight who fights to break the enemy's lines or to hold your own. Heavily armored on the .outside and with a deep sense of duty on the inside, you fight for the favor of your lord, the lives of your allies or your own glory. Maybe you dream of one day becoming a member of the Queen's royal guard or a Templar fighting in the name of Prios. 
+� 
+Important Attributes: Strong 13+, Quick 11+ 
+
+� 
+Suggested race: Ambrian 
+
+
+
+� Appropriate abilities: Bodyguard, Iron Fist, Man-at-arms, Two-handed Force 
+
+
+.Mystic 
+"Each time you light a candle you also create a shadow." 
+Seldonio, Grand Master of Ordo Magica 
+THERE ARE MANY SOURCES of mystical power in the world. These can be tapped by one who understands the underlying laws of nature or through alliances with either the light of the heavens, the spirits of the forest or the darkness of corruption. Some Mystics consider themselves to be scholars of reality and existence; others would claim they are part of a pact that offers them an intimate relationship with the source of their power. 
+MYSTICS AND THE RACES 
+Changelings and humans dominate the domain of the mystical, at least according to public opinion. The stories of the witches of the barbarian clans are spread far and wide and it is near impossible not to notice the Ordo Magica of Ambria. The theurgs of the Light are a less obvious group since they tend to keep to the temples or move among the faithful, but the Lawgiver is known to bless some of his champions with extraordinary powers. 
+Mystics among the goblins are shamans, bound to no mystic tradition but earning high status among their own kind with their home-brewed theories regarding the world and its spirits. Changelings often have the mystical gift -those who grow up among the barbarians are sent away to train with the witches, while changelings in the slums of Ambria become self-taught mystics without any specific tradition. Ogres with the mystical gift may seem like a rarity, but Ordo Magic a has documented at least a few cases since the Ambrians arrived in the region. 
+MYSTIC ATTRIBUTES 
+Mystics hold a strong mind in high regard (Resolute), and among witches it is the will of the individual that decides if they are to be accepted as appren�tices or not. To the mages of Ordo Magica classical education (Cunning) is just as important and the theurges of Prios are often considered as having a strong personality (Persuasive). Mystics trained outside these traditions are often armed with a 
+88 
+tremendous willpower, just like sorcerers, who also have extensive experience in how to not attract any unwanted attention (Discreet). 
+MYSTIC ABILITIES 
+
+Many Mystics, though not all of them, possess abilities tied to the traditions of Wizardry, Sorcery, Theurgy or Witchcraft. Furthermore, even if most Mystics are associated with wisdom and learning, there are those who are drawn to the art of war and who have developed abilities for using mystical powers in battle. 
+The following abilities are common among Mystics, sorted according to Attributes. 
+� 
+Accurate: Natural Warrior, Polearm Mastery 
+
+� 
+Cunning: Alchemy, Beast Lore, Loremaster, Medicus 
+
+
+� Persuasive: Dominate, Leader 
+� Quick:Acrobatics 
+
+� 
+Resolute: Mystical Power, Steadfast 
+
+� 
+Strong: Steadfast 
+
+
+
+� 
+Vigilant: Sixth Sense, Witchsight 
+
+� 
+General: Berserker, Exceptional Attribute, Wizardry, Recovery, Ritualist, Sorcery, Theurgy, Witchcraft 
+
+
+WITCH 
+
+"Your will is inferior to the will of Nature. Accept it! Or die." 
+Your home is the wilds; to balance your own needs with the ones of nature is your calling. As a witch you have a strong connection to the land itself and can add its primal powers to your inner strength. You negotiate with the spirits ofnature, understand theflow and needs of the land, and your powers are derived from the circle oflife and death. 
+� 
+Important Attributes: Resolute13+, Accurate 11+ 
+
+� 
+Suggested race: Barbarian or changeling 
+
+
+� Appropriate abilities: Mystical Power, Natural Warrior, Ritualist, Witchcraft 
+SORCERER 
+''There is another way, an easier way ... " 
+Driven by desperation or a lust for power, you walk the path of sorcery and will soon find yourselfboth touched by Corruption and hunted by fanatical witchhunters. Maybe you perceive your vulner�ability as a proof of your need to grow even more powerful? Or are you truly remorseful and seeks a way back to forgiveness and salvation? 
+
+� Important Attributes: Resolute 13+, DiscreetI�� or Cunning 11+ 
+� 
+Suggested race: Human 
+
+� 
+Appropriate abilities: Alchemy, Mystical Power, Ritualist, Sorcery 
+
+
+� 
+
+90 
+
+
+ARCH ETY PES 9 
+THEURG 
+"Prios sees thee, heretic!" 
+You are a theurg, a priest with mystical powers. Your faith in the Lawgiver is unwavering: Prios is the sun and the light of the soul, the One who saved mankind from the bondage of the Old Gods, the creator of the world and protector of all life. From this pure spring flows extraordinary power. Your mystical knowledge would have been aimless and dangerous without your faith as a compass and foundation, as is often shown when godless Mystics wield their powers. 
+� 
+Important Attributes: Resolute 13+, Cunning or Vigilant 11+ 
+
+� 
+Suggested race: Ambrian 
+
+
+� Appropriate abilities: Medicus, Mystical Power, Ritualist, Theurgy 
+
+
+91 
+
+
+WIZARD 
+"Remarkable, this must be brought back for 
+further research!" 
+You are schooled in the secrets of the old magic of the Order, wisdoms born in the southern kingdom and refined by a millennium ofresearch and education. To you, mystical powers are an extension of the funda�mental laws of the world, laws that you have studied carefully and know how to use for effects both grand and impressive. 
+� 
+Important Attributes: Resolute 13+, Cunning 11+ 
+
+� 
+Suggested race: Ambrian 
+
+� 
+Appropriate abilities: Loremaster, Mystical Power, Ritualist, Wizardry 
+
+
+92 
+
+
+
+iRogue 
+"Treasure hunters, pathfinders, thugs, diplomats, swindlers, innkeepers, 
+spies -all ofthem rogues!" 
+Radomei Dalg, bitter guard captain in Yndaros. 
+IN AMBRIA THE WORD "rogue" is used broadly and refers to all who "steal" something from others, be it their trust, secrets, money or life. The calling of the Warrior, to proudly face the opponent face-to�face, is an exception to this rule: it is the sneaky assassin that counts among the thieving Rogues. In essence, warriors, craftsmen and scholars are the ideal occupations among the Ambrians; the rest are more or less regarded as rogues. 
+ROGUES AND THE RACES 
+People at large would say that changelings and gob�lins are synonymous with rogues, and are usually surprised when they realize that ogres and humans can also be found amongst their number. 
+ROGUE ATTRIBUTES 
+Craftiness (Cunning) or reflexes (Quick) are what keep most Rogues alive. While discretion is never out of place in their line of work, it is far from their most prominent feature; instead a certain amount of curiosity about the outside world (Vigilant) is usually found among them. Some Rogues even find that the best life insurance is a smooth tongue and witty remarks (Persuasive). 
+ROGUE ABILITIES 
+Rogues usually have more than one string to their bow and many tend to be versatile rather than spe�cialized. Two characters might share a common field but remain different from one another based on their 
+94 
+chosen abilities. What Rogues do have in common is that they prefer to surprise and use knowledge, cunning and skill to stack the odds in their favor. 
+The following abilities are common among Rogues, sorted according to Attributes. 
+� 
+Accurate: Marksman, Natural Warrior, Polearm Mastery, Steel Throw, Twin-attack 
+
+� 
+Cunning:Alchemy, Beast Lore, Medicus, Poisoner, Loremaster, Strangler, Tactician 
+
+� 
+Discreet: Backstab, Feint 
+
+� 
+Persuasive: Dominate, Leader 
+
+� 
+Quick: Acrobatics, Quick Draw 
+
+� 
+Resolute: Steadfast 
+
+� 
+Strong: Steadfast 
+
+
+� 
+Vigilant: Sixth Sense, Witchsight 
+
+� 
+General: Equestrian, Exceptional Attribute, Recovery, Ritualist 
+
+
+CHARLATAN 
+
+"Two drops a day and you'll never be ill again!" 
+You have chosen the social arena as your battle�field. There, your quick tongue is your sharpest weapon and your confidence-inspiring eyes your best shield. If these should fail, then you had better trust in your light weapons and sneaky moves. 
+� 
+Important Attributes: Quick 13+, Discreet 11+ 
+
+� 
+Suggested race: Human (usually Ambrian) or changeling 
+
+� 
+Appropriate abilities: Acrobatics, Backstab, Feint, TwinAttack 
+
+
+WITCHHUNTER 
+"I'd rather put an innocent in the dirt than have a blight beast walk upon it." 
+You have dedicated your life to fighting blight beasts, maybe as a consequence of having your own life torn apart by the growing and infectious darkness: a farm burned to the ground, the grave of your family, a friend's horrendous transformation -something that reminds you of what will happen if the power of the blighted ones is not broken in time. You will stop at nothing in your fight against evil: you wield steel, fire and maybe even rituals learned from defeated sorcerers. You realize that the use of mystical powers may ultimately corrupt you too, but you turn a blind eye to that and instead fight on with the fervor of the fanatic. 
+� 
+Important Attributes: Resolute 13+, Cunning or Accurate 11+ 
+
+� 
+Suggested race: Human 
+
+� 
+Appropriate abilities: Beast Lore, Marksman, Ritualist, Steadfast 
+
+
+
+� 
+96 
+THUG 
+"Your money or your blood -your choice!" 
+The eastern districts oftYndaros are a wilderness as dangerous as Davokar, and just as rewarding for those who know how to harvest its fruits. You grew up on streets whose gangs have taught you the art of making a profit from others' hard work, right under the noses of the city watch. Other thugs rise through the ranks by becoming employed by barons or counts, free to act as ruffians and enforcers without being bothered by the Queen's watchmen. 
+� 
+Important Attributes: Quick 13+, Cunning 11+ 
+
+� 
+Suggested race: Human, ogre or goblin 
+
+
+� Appropriate abilities: Acrobatics, Poisoner, Strangler, TwinAttack 
+
+97 
+Christian Rimmi (Order #41720700) 
+
+
+
+
+TREASURE-HUNTER 
+"This altar ... I wonder if you can't push it sideways ... " 
+The depths ofDavokar hide many treasures; to locate, salvage and return them to civilization is your bread and butter. You dream of overgrown ruins and fan�tasize about sunken temples. Unlike many others, you have proven yourself willing to risk your life in order to succeed. You have developed an impressive set of skills in order to do just that and there are few situations within Davokar for which you have not prepared a strategy. 
+� 
+Important Attributes: Cunning 13+, Quick 11+ 
+
+� 
+Suggested race: Human, ogre or goblin 
+
+
+� Appropriate abilities: Acrobatics, Alchemy, Steel Throw, Tactician 
+98 
+RANGER 
+"Anything that lives can be tracked. And brought down ... " 
+Your home is in the deep forest or the mountain 
+
+
+99 
+valley, where you hunt beasts for food and fur or to protect inhabitants and travelers from harm. You have learned how to stay clear of your enemies' reach while your arrows still find their mark. 
+� 
+Important Attributes: Vigilant 13+, Discreet 11+ 
+
+� 
+Suggested race: Barbarian or changeling 
+
+� 
+Appropriate abilities: Acrobatics, Beast Lore, Marksman, Sixth Sense 
+
+
+
+
+THE ATTRIBUTES are the backbone of the character, the core of its game mechanics. Simply put: whenever a character attempts to perform an action of dramatic significance, the player has to make a success test -the action is successful if the player rolls less than or equal to the value in one of the character's Attributes. This chapter describes the eight Attributes and how they are used within the game. 
+Names ofAttributes 
+Any of the Attributes can be renamed by players who wish them to suit his or her character better. Resolute might be better referred to as Faithful, Luckyor Fanatical. By the same token, Discreetcan be Sneaky, Cunning can be Learnedand Vigilantcan be changed into Paranoid. The player decides what is best for the character. 
+'iithe Attributes 
+ATTRIBUTES ARE USED to determine just how prepared a character is to face different kinds of challenges in the game world. A character's value in an Attribute, such as Strongor Quick,indicates what kind oflife he or she has lived growing up. In other words, the attribute values make out a fairly stable foundation which will not change dramatically but that can be built upon and refined. 
+ACCURATE 
+
+A character's hand-eye coordination, precision and timing are all represented by Accurate. This Attribute is for instance used to hit an intended target with punches, strikes, throws or a missile from a ranged weapon. Accurate is in most cases opposed by an enemy's Quick. 
+CUNNING 
+
+The Cunning Attribute represents a character's wit and knowledge, its common sense as well as actual schooling and education. You usually test Cunning when trying to remember facts, when solving a logical problem or puzzle, or when doing research in a library. Cunningis usually tested against a specific level of Difficulty, decided by the Game Master. 
+DISCREET 
+A player character's value in Discreetmirrors its aptitude for and training in being silent, agile and, well, discreet. This Attribute can be used to avoid being detected, to hide or smuggle something, to shadow someone or to steal something out of a person's pocket. Discreet is often opposed by an enemy's Vigilant. 
+PERSUASIVE 
+Persuasive reflects how well a player character can influence others by use of words, voice, body language and looks. The Attribute is often used when trying to persuade another person to do (or refrain from doing) something, either verbally, in writing or by song. Persuasive is usually opposed by an enemy's Resolute. 
+QUICK 
+Quickrepresents a character's reflexes, balance, nimbleness and how fleet-footed he or she is. It determines the order of initiative in combat and is used actively when jumping, avoiding harm and performing similar acrobatic maneuvers. Quickis often opposed by an enemy's Accurate. 
+
+100 
+Table 5: Examples of Success Tests 
+SITUATION SYSTEM 
+The character sneaks up on a guard Test the character's Discreet, modified by the guards Vigilant, written [Discreet<-Vigilant] An enemy is sneaking up on the character Test the character's Vigilant, modified by the enemy's Discreet, written [Vigilant<-Discreet] The character enchants an enemy Test the character's Resolute, modified by the enemy's Resolute, written [Resolute<-Resolute] The character gets close to a hidden trap Test the character's Vigilant, modified by the trap's Difficulty, written [Vigilant -X], where Xis 
+the trap's Difficulty 
+RESOLUTE 
+Resolute represents a character's resistance to influ�ence, whether it is social pressure, mind-bending magic or Corruption. Resolute is also tied to the use of mystical powers. The Attribute is often opposed by either an enemy's Resolute or Persuasive. Note that having a very low value in this Attribute is inadvisable, because of the risk for Corruption. 
+STRONG 
+Strong mirrors a character's capacity to use its physical strength in order to, for instance, lift some�thing heavy or break down a door. It also covers the capacity to withstand physical damage and to resist poisons and diseases. Strongis usually modified by a level of Difficulty, sometimes by an enemy's Strong. 
+VIGILANT 
+Vigilantrepresents a character's general awareness, the attunement ofits senses and its ability to detect the details of its surroundings. Vigilant is often opposed by an enemy's Discreet. 
+1Auccess 'iitest 
+BETWEEN THEM, the Attributes can be used to undertake any kind of challenge in the game world. Sometimes they are used actively, when the char�acter tries to achieve something; at other times they are used reactively to negate the actions of enemies or avoid being afflicted by environmental hazards. It is always the player who performs the test, whether it is made actively (the character affects the world) or passively (the world affects the character). The Game Master tells the player which Attribute must be tested and what modifications to apply (if any). 
+A success test is performed by rolling a 20-sided die, called a 020. In the most simple challenges success is only a matter of the die landing on a num�ber which is equal to or lower than the character's attribute value. However, most often the attribute value is first modified according to the opposition or the difficulty of the challenge -for instance, if the character tries to hit someone with a spear, the SECONDARY ATTRIBUTES 
+The following statistics are calculated based on the character's Attributes: 
+� 
+Toughnesst= Strong (though never below 10) 
+
+� 
+Pain Thresholde= Strong/2 (rounded up) 
+
+� 
+Defensee= [Quickt-Armor's Impeding value] 
+
+� 
+Corruption Thresholde= Resolute/2 (rounded up) 
+
+
+THE MEANING OF LOW ATTRIBUTES 
+Having a low value in an Attribute is actually a great starting point for deciding a character's appearance and personality. For instance, a char�acter with a low value inAccurate can be one-eyed, or generally clumsy and prone to bumping into things. A low Cunning value can represent both impulsiveness and a lack of education; a low Quick could mean that the character is either indecisive or limping. Someone with a low Resolute could be afraid of conflicts or perhaps very superstitious. A loud and careless character probably has a low value in Discreet, while a low Vigilant value could result in a myopic and absent-minded daydreamer. 
+relevant attribute value is modified by the target's Defense; when trying to open a lock, the attribute value is modified by how difficult the lock is to open. 
+In the latter case the Game Master determines the modification, typically from +5 (very easy) to -5 (very hard). When it comes to the spear attack, the actual modifier is determined with the formula [10 -the enemy's defense value] (see table to the right). 
+When a challenge is described in the text of this book it is always written with the char�acter's Attribute first, like this: [Character's Attribute<-Modifier}. When the modification orig�inates from passive resistance, as in the case of a lock, it is instead written [Character's Attribute -ModificationeX]. Finally, if the test is meant to be performed without any modifications the relevant Attribute is written in plain text with an initial capital letter: Quick. 
+For more details and examples, see the narrative tutorial starting on page 237. 
+Concerning the . 
+The arrow pointing leftwards and which is used in the formula for describing challenges means "modified by''. Consequently, the for�mula [Quick<-Accurate] means "Quick modified by (the opponent's) Accurate�: a modification which can be either posi�tive (+)or negative (-). 
+Attributes and Modifiers 
+Value  Modifier  
+5  +5  
+6  +4  
+7  +3  
+8  +2  
+9  +l  
+10  �0  
+11  -1  
+12  -2  
+13  -3  
+14  -4  
+15  -5  
+
+
+THERE ARE LOTS of strange creatures in Ambria, and even stranger life forms in the depths of Davokar. However, when creating a character with the basic ruleset, the player is limited to choosing from the races described in this chapter; races whose representatives are relatively numerous and live in or near Ambria's many towns and settlements. 
+Human 
+ACCORDING TO THE SCHOLARS of Ordo Magica, the people of Ambria and Davokar are descendants of the same tribe, although the barbarians and the Queen's Folk hardly consider themselves so closely related. Queen Korinthia's claim to Ambria, the land south oftDavokar forest, is motivated by her ancestral connection to the region, and even the most novice of Ambrian linguists can explain in what ways the gibbering speech of the barbarians and the melodious tongue of the Queen's Folk are similar. More disputed are claims saying that the two peoples originate from the same stem, rooted in the old and long forgotten empire ofSymbaroum whose ruins are hidden deep within Davokar. 
+Whatever the case, there are significant differ�ences between the two peoples in a cultural sense. The Ambrians abandoned their blighted homeland Alberetor twenty years ago, to settle down in the well-preserved ruins oftLindaros. On their journey they brought along their architecture, knowledge, economic system and social hierarchies. Thanks to its discipline the Ambrian army outmatches the barbarian clan warriors when they meet in the open fields, but in the woods where the skill of the individual becomes a decisive factor they are more evenly matched. That, coupled with the advantage of having greater local knowledge, has so far kept the Ambrians from entering very deep into the forest -with the exception of treasure-hunters, religious fanatics searching for lost sun temples and free settlers hoping to escape the Queen's control. 
+Since the days of old, the barbarians have been ruled by chieftains, but have enjoyed much greater independence and freedom compared to the chas�tened crofters and peasants in the south. Nor do the barbarian leaders seek to enforce a strict or rigid way oflife upon their subjects. The witches, the spiritual leaders among the barbarians, rule with a light hand in the form of taboos and general rules -revere nature, never abuse it and avoid the darker parts of the forest. The clans lead their lives independent from one another, with the occasional exception of skirmishes over resources in the border regions. By tradition, the clan leaders answer to the High Chieftain on the plateau oftKarvosti, but he is in reality more of an arbitrator between feuding clans than a strong ruler. However, the High Chieftain is expected to lead the united barbarians to repel 
+102 
+any invaders, particularly the Ambrians, if it ever comes to open war. 
+This possibility, a united barbarian resistance commanded by the High Chieftain, gives the Queen and her advisors nightmares, and would explain why the Ambrians officially are so cautious regarding Davokar. Since the battle in Year 10, when Korinthia's troops attacked and destroyed Haloban and his Jezites, only the Templars serving the Sun Church have made any outright attacks against barbarian settlements. Most infamous is their assault on Karvosti in Year 16 when they attempted to seize the plateau with force of arms -an attempt which ended in a discouraging defeat. 
+AMBRIAN TRAITS 
+Characters of the Queen's Folk can choose either the Contacts or the Privileged trait. 
+AMBRIAN NAMES 
+Female Ambrian names usually end with-a while the male names end with -o, but there are many exceptions since their native kingdom was so exten�sive. One distinct exception is that the names of most Ambrian nobles ends in -gai, -goi or -mei. The use of the letter "x" is uncommon but existing and the letter "j" is replaced by the letter "i" in almost every case. The vowels e and i are used frequently. 
+� 
+Male Ambrian names: Aro, Beremo, Demeon, Edogai, Gadramei, lasogoi, Jomilo, Karlio, Malliano, Peonio. 
+
+� 
+Female Ambrian names: Abesina, Elindra, Elionara, Levia, Mehira, Ordelia, Revina, Suria, Variol, Vidina. 
+
+
+BARBARIAN TRAITS 
+Characters ofbarbarian heritage can choose either the Contacts or the Bushcra. trait. 
+BARBARIAN NAMES 
+Just like the Ambrians, barbarian female names usually end with -a, while male names tend to end with-mar, -mon or-mer. It is customary that every other letter is a consonant and a vowel; double vowels are common, while double consonants are almost never used. Like the Ambrians, barbarians tend not to use the letter "j", instead changing it to "y". The greatest difference between the two people is the barbarians' love for the vowels a, o and u. 
+� 
+Male barbarian names: Adelar, Gadramon, Haloban, Konarad, Lothar, Odaban, Rabaiamon, Taran, Tharaban, Vikomer. 
+
+� 
+Female barbarian names: Adela, Aloeta, Eferneya, Elmea, Elda, Galoma, Horosa, Karona, Verama, Yagaba. 
+
+
+
+(Changeling 
+THAT THE ELVES sometimes steal a human child from its crib and place a changeling in its stead has been known amongst the barbarians for as long as the witches can remember. Since the arrival of the Ambrians, changelings have started to emerge among them as well. While a rare occur�rence, it is still a traumatic experience for every family affected. It is unknown what exact purpose the elves have for doing this, but Ordo Magica's catalogue of known cases in Ambria implies that children have been taken throughout the entire population, literally from both high and low. 
+A changeling looks human during childhood and starts to develop more elf-like features in their ado�lescent years, though without ever becoming an elf in the true sense of the word. A changeling reaches adulthood at approximately the same age as a human; the changeling then continues to live a long life but apparently without taking any further steps in the life cycle of the elves. This has made some scholars develop theories stating that changelings are a race of their own, created by elven magic. Others claim that changelings indeed are elf-spawn but that their natural life cycle has been truncated in some mystical way by growing up among humans. 
+A changeling's lot in life is usually a hard one, since few of them are allowed to stay with their families when their true nature has been revealed. Changelings are sometimes taken in by witches or wizards to serve as assistants, but most of them end up on the street where they have to fend for themselves as best they can. Exiled from human society, the changeling wanders a long and lonely road, often bitter and dark minded, in other cases frivolous and indifferent to the hardship of others. 
+CHANGELING TRAITS 
+All changelings have the Long-livedtrait and most also have the Shapeshiftertrait (costs as an ability). 
+CHANGELING NAMES 
+Some changelings chose elven names when they are thrown out into the street or left in the forest, maybe in an attempt to reclaim a lost identity. Others -like the infamous gutter mage Grimorio Abramelin in Yndaros -take a new and often bombastic name as a defiant gesture or an expression ofindependence. 
+� 
+Changeling male names: Aka, Ardri, Eneano, Feon, Ganderald, Goriol, Ibliglin, Kalfu, Radomaramei, Sinue. 
+
+� 
+Changeling female names: Bekora, Danive, Yeloena, Elorinda, Hineua, Kinlegelana, Riamata, Roha, Seanua, Varaneia. 
+
+
+Ogre 
+OGRES ARE SOLITARY and odd creatures that come wandering out of the depths of Davokar, fully grown but devoid of memories and with no sense of identity. It is up to the humans or goblins who eventually take them in to give them a name and teach them the ways of the world. 
+The tales told of ogres vary from being hilarious through mystical to horrific. What is known is that the witches oftDavokar sometimes take ogres under their wings and raise them to be guards and ser�vants. Explorers have also reported that an Ambrian outpost near the Black Pitch Mire has adopted an ogre called Armstout and the soldiers there have the giant dig ditches, lift heavy equipment and draw the plow from time to time. A similar phenomenon is the ogres that are snatched by goblin gangs in the slums oftYndaros to serve as heavy-handed enforcers. 
+In southern Davokar they tell of the companions Deterror and Vitrona, the latter a skillful scout employed by the witches and the former a huge ogre 
+
+Goblin 
+LITTLE IS KNOWN about the origin of goblins, but their presence in the southern outskirts oftDavokar is quite obvious. The tribe that left the darkness of Davokar to settle down close to Thistle Hold swarms and makes such a racket that they have made themselves quite unpopular among the town's human populace. Their fiery temperament and strange ways of socializing have contributed to the disapproval: "Hide the Boot", "Tame the Ogre", "Trim the Thistle", "Tighten the Temple" and "Want a Smack, Molok?" are party games that outsiders are reluctant to even watch. 
+The life of a goblin is short -a goblin is considered a youngster at the age of five, adult at ten and an elder at the age of twenty. To meet a thirty-year-old goblin is a rarity, as most of them voluntarily return to seek a lonesome death in Davokar before then. Meeting one who is forty is all but unheard of. 
+The only reason why goblins are tolerated in Thistle Hold is that they are practical when it comes to doing dirty work like draining marshes, emptying latrines and flailing about on scaffoldings. Thanks to that, a gibbering horde of sinewy goblins flows into the town every morning to work hard with a number of heavy, dangerous or thankless tasks. Come nightfall, they are once again driven away, and a bunch of uncharacteristically silent goblins march back to their beds in simple huts of straw and clay. 
+Some goblins stray from this pattern, mainly treasure-hunters and goblins employed in the and the scout's best friend. Word of the duo has also reached Thistle Hold where they have become the subjects of a series of popular songs, telling about their adventures in the ruins of Symbaroum. 
+OGRE TRAITS 
+All ogres have the Long-lived and Pariahtraits. Most have the Robust trait as well (costs as an ability). 
+OGRE NAMES 
+Ogres seem to lack any given names and are there�fore nicknamed by people around them. These nicknames often allude to the ogres' size or the taciturn calm that many mistake for stupidity. Ordo Magica speculates that such lonesome creatures actually have no use for proper names -the ogre knows who it is and that is enough. 
+� Ogre names: Bauta, Ugly, Angry, Odd, Gawky, Heavy, Big Brute, Roughneck, Freak, Oaf, Ox, Rageor. 
+households of wealthy individuals in Thistle Hold. A dozen or so goblin younglings can also be found in the convent school in the capital city, where a handful of extremely patient monks have com�mitted themselves to save whatever soul resides inside the wild whelps. The most renowned goblin to represent both of these phenomena is Garm Wormwriggler, brought up at the convent school to later become a successful treasure-hunter. 
+GOBLIN TRAITS 
+All goblins have both the Short-lived and Pariah traits. Most have the Survival Instinct trait as well {costs as an ability). 
+GOBLIN NAMES 
+Goblin names are varied and it is hard to see any clear naming conventions. It is also common for goblins to change their names or add a syllable depending on what they experience in life. If one were to attempt to point out something general regarding their names, it would be that the length of the names usually goes hand-in-hand with the bearer's rank -the longer the name, the higher the status within the tribe. 
+� 
+Goblin male names: Alfbolg, Barra, Goltas, Illefons, Ler, Rosti, Shigg, Tengel, UL 
+
+� 
+Goblin female names: Aa, Fosa, Guhula, Hugalea, Tulga, Udelia, Ufa, Wamba, Yla, Yppa. 
+
+
+THIS CHAPTER DESCRIBES the different traits that representatives of the playable races either have or can have. Some of the traits only have one level and come automatically with the selection of a race, at no additional cost in creation points. Others function and cost as abilities, aside from the fact that they are tied to a certain race. Such a trait is optional and the player decides whether or not to purchase it when creating the character. 
+CONTACTS 
+
+The character has served in an organization or traveled far and wide, and has therefore spun a wide web of contacts. With a successful roll against Persuasive,the character can call to mind a contact that should be able to help with a specific question or in a precarious situation. The contact may not be available directlyt-that depends on who is included in the web of contacts. Suitable factions and people when it comes to specifying the character's con�tacts are: the Queen's Army, the Queen's Rangers, Witches, Ordo Magica, the Church of Prios, the Noble Houses and Treasure Hunters. 
+BUSH CRAFT 
+
+The character can survive on meager resources and is used to finding food and shelter in harsh terrain. 
+With a successful Vigilant test, the character can find enough food and water to feed him-or herself while being on the move in the wilderness or among Davokar's ruins. If the character is part ofta small group (up to five individuals), food and water can be found for them as well, but that will take much more time. The group cannot be on the move during that time. 
+LONG-LIVED 
+Once adulthood is reached, the aging process of the character slows down. The character can live up to two or even three centuries if its life is not short�ened by violence, poison or disease. The creature's long lifespan makes it prone to do things at a slow pace, but this is compensated by the attitude that what is worth doing is worth doing well, which over time results in a considerable degree of expertise. 
+Long-lived has no effect besides what it implies in terms of playing the role. 
+PARIAH 
+The character belongs to a race which is ill-reputed among the ruling majority and is more or less openly discriminated against. Lone individuals in society might be less inclined to prejudice, but the character's social interactions are generally hampered. Persecuted groups tend to stand together against the world and provide each other with aid and support. 
+When taking on a social challenge, the player has to roll twice and pick the worst result to decide the outcome of the test. On the other hand, the character is awarded a second chance to succeed 
+
+108 
+TRAITS 12 
+while interacting with members ofits own race, in which case it only has to roll the dice when it strives to accomplish something which is questionable or next to impossible to achieve. 
+Additionally, the character starts with only five shillings in its purse. 
+PRIVILEGED 
+The character belongs to a race of high social standing within its society, and is therefore given advantages that others simply cannot have or must pay for, in either silver or hard work, to obtain. 
+The character gets a second chance to succeed when taking on social challenges within its own society, and does not have to roll the dice unless it strives to accomplish something which is question�able or that may be next to impossible to achieve. 
+Additionally, the character starts with 50 thaler in its purse. 
+ROBUST 
+The character belongs to a race of creatures that are naturally tall and often continue to grow their entire lives. But there are variations: some grow quickly, others more slowly while some hardly seems to grow at all. 
+Novice Special. The character is close to seven feet tall and very strong. Such a towering body is easier to hit in combat, which is bal�anced by a greater natural toughness. The character's Defense is based on [Quick -2] and it can only use light armor, which must be custom-made and therefore costs twice the normal price. In return, the character naturally ignores 104 damage from each hit taken, in addition to any armor it wears. Fur�thermore, it can deal 104 extra damage with one melee attack each turn. 
+Adept Special.The character is over eight feet tall, weighs about 500 pounds and has skin as though as bark. A creature like this packs quite the punch but is also easy to hit. The character's Defense is based on [Quick -3] and it can only use light armor, which must be custom-made and costs three times the nor�mal price. In return, the character naturally ignores 106 damage from each hit taken, in addition to any armor it wears. Furthermore, it can deal 106 extra damage with one melee attack each turn. 
+Master Special. The character is close to ten feet tall, weighs about half a ton and crushes lesser creatures while enemy weapons have a hard time penetrating its stone-like skin. It 
+is very easy to hit a creature of this size, but equally hard to wound it seriously. The char�acter's Defense is based on [Quick -4] and it can only use light armor (custom-made, costing four times the normal price). In return, the character ignores 108 damage from each hit taken, in addition to any armor it wears. Finally, it can deal 108 extra damage with one melee attack each turn. 
+SHAPE SHIFTER 
+The character has the capability to borrow the appearance ofothers for a period of time. For young changelings this ability comes naturally, and it can be hard for them not to adopt the appearance and mannerisms of people around them. Mature change�lings usually develop greater control over the trait. 
+Novice Free. With a successful die roll against Reso�lute, the character may adopt a false shape; the form, appearance, voice and clothes of another creature, but not that of a specific individual. The changeling can keep up the appearance for the duration of a scene, but then the illusion fades away. Everyone that the character interacts with will see through the illusion, unless the character succeeds with a[Discreet+-Vigilant]etest. 
+Adept Free. The character may, for a short period of time and with a successful Resolute test. adopt the form of specific individuals that the character has met. and can include clothes and attributes in the image. In combat against multiple opponents, the similarity is good enough to make it hard for enemies to hit their mark -there is a 50% chance that enemies attempting to hit the character hit their depicted com�panion instead. It takes concentration to maintain the illusory form, which means that the character must make a Resolute test each turn as well as a successful [Resolute -Damage] test each time the changeling suffers damage. Master Free. With a successful Resolute test the character may adopt the form of a specific individual and maintain it for the duration of a scene. Anyone who speaks with the character will be able to see through the illusion unless the character succeeds with a[Discreet+-Vigilant]. For a character to be able to fool people familiar with the depicted person, he or she must succeed with two tests, first at a distance and then another one if they start a conversation. 
+Writing carved into the stone foundation of Otra Dorno and, though difficult to decipher, believed to contain the symbol for what is presumed to read "massacre" or "blood bath''. 
+SHORT-LIVED 
+The character's life is short, even under favorable living conditions. All members of its race tend to reach adulthood in a handful of years, after which they start to lose their youthful vigor so that only a few ever live to see the age of forty. On the other hand, they are quick to learn and adapt to new surroundings, and they are often ready to face the world at the age of five. 
+Short-lived has no effect besides what it implies in terms of playing the role. 
+SURVIVAL INSTINCT 
+The character belongs to a race with a powerful life-force and an equally powerful will to survive. For some individuals this energy shows itselfin clamorous hollering and an acute restlessness; for others it manifests itself in a more useful survival instinct. 
+Novice Free. Thanks to its explosive survival instinct. the character may perform one extra Movement Action once per scene. 
+Adept Reaction. The character trusts its instincts and has learned that rolling with the punches often saves your life. The charac�ter's finely honed survival instinct provides it with a permanenta+ 104 to Armor. 
+Master Free. There resides a powerful fighting spirit within each member of the character's race, and that spirit can show itself when the character is backed into a corner. The character has nurtured this hot-tempered aggression and may sacrifice a Movement Action once per scene to perform an extra Combat Action. 
+
+SOME ABILITIES are almost exclusively meant for combat, while others are more focused on prob�lem-solving. Many can be used for both, in which case this is stated in the description of the ability. Also note that many abilities require the player to spend different kinds of Actions -read more about this in the chapter Player's Rules (page 158). 
+Abilities are rated in three levels: Novice, Adept and Master. An Adept may of course use the ability's Novice level effect, while a Master can make use of all three levels of the ability. 
+All abilities are described using the same tem�plate, with keywords defined as follows: 
+� Active Action: The ability is an attack or similar Combat Action. Some of the active abilities generate extra Actions. These extra Actions may not be used to perform an additional active Action, but they benefit from any passive abilities that the character may have. 
+� 
+Free Action: This Action may be used an unlimited number of times per turn in addition to a character's usual two Actions, for as long as it is allowed by any conditions specified in the description of the ability. 
+
+� 
+Passive Action: The ability does not require a Combat Action to be activated; in other words, the ability is always active. If a character has two or more passive abilities, then they are all considered active at the same time. 
+
+� 
+Reaction: The ability is a Reaction to some other Action and therefore doesn't count against the two Actions a character can perform each turn. Reactive Actions work outside the usual order oflnitiative, since a Reaction is performed as a consequence of a triggering Action, regardless oflnitiative. Reactions can always make use of passive abilities, but never active ones. 
+
+� 
+Special Action: The ability works in a special way, detailed in its description. 
+
+
+View from within one of the Earth Towers of the 
+Black Leech Rift. There are different estimates on exactly how deep down they reach, but rumors say between three and six hundred feet. 
+
+Elixirs 
+NOVICE ELIXIRS 
+Antidote (Weak) Herbal Cure Poison (Weak) Waybread 
+ADEPT ELIXIRS 
+Antidote (Moderate) Choking Spores Elemental Essence Eye Drops Ghost Candle Magic Concentrate Poison (Moderate) Protective Oil 
+MASTER ELIXIRS 
+Antidote (Strong) Elixir of Life Poison (Strong) Spore Bomb Wraith Dust 
+ACROBATICS 
+
+The character has learned the art of acrobatic maneuvering, having spent time with a theater company, in one of the fencing schools ofYndaros or climbing the trees of Davokar. The nimbleness of the acrobat provides an advantage when trying to withdraw from close combat or when quickly wanting to reach the center of an enemy formation. 
+Novice Reaction. The character may roll against Quick to avoid Free Attacks from enemies in melee combat, either when trying to slip past an enemy or when attempting to withdraw from melee. Should the test fail, the player must choose to either remain in its original place or to move anyway and suffer a Free Attack from the opponent. 
+Adept Free. If the character is knocked down he or she may attempt to jump back up again as a Free Action by making a Quick test. If the test fails the character has to spend a Movement Action to get back on its feet, as usual. 
+Master Reaction. The character can utilize its enemies as shields in battle. In combat with more than one opponent, the cha�racter may once per turn use an enemy as a shield and have that enemy suffer a successful hit instead of the character. That opponent cannot defend against the attack, but the master acrobat has to make a successful roll against Quick for the enemy to take the hit. 
+
+ALCHEMY 
+
+The character is schooled in the mysteries of alchemy. With the right ingredients, the character can prepare various elixirs to help it survive in the dark depths of Davokar. A list of alchemical mixtures and potions are featured in Chapter 16: Equipment (page 153). 
+In problem-solving situations, Alchemy can be used to identify drugs and poisons and to gain clues as to where they come from. Other than that, the character may attempt to prepare an elixir once per adventure. This attempt can be performed before the start of an adventure or at any appropriate moment during the adventure -for example when traveling through a forest or when passing through a cave where potent ingredients may be found. 
+Novice Special. With a successful roll against Cunning the character can gather herbs and minerals to create one dose of a novice elixir. 
+Adept Special. As an acknowledged alchemist the character can roll against Cunningto gather herbs and minerals to create one dose of an adept elixir or 104 doses of a novice elixir. 
+Master Special. The character can, as a widely renowned alchemist, roll against Cunning to gather herbs and minerals to create one dose of a master elixir, 104 doses of an adept elixir or 108 doses of a novice elixir. 
+
+
+BACKSTAB 
+The palace ofYndaros, the alleys of Thistle Hold and the gloom ofDavokar are extremely different surroundings, but they have at least one thing in common: when arguments fail, the blades speak up. The character has learned how to exploit weak�nesses in an enemy's defense, and will not let an opportunity go by without making a Backstab. 
+Novice Reaction. One attack per turn made from Advantage deals + 104 damage in addition to any damage already inflicted thanks to the Advantage. The character may use Discreet instead of Accurate when making attacks while at an Advantage. Backstab may only be performed once per turn, regardless of other circumstances. 
+Adept Reaction. The character's Backstab deals extra damage (as above) and also causes a bleeding wound to the enemy. The attack opens a wound that bleeds heavily, inflicting 104 damage each turn following the attack. The enemy continues to bleed until healed by an herbal cure, the Medicus ability or in some other way. 
+Master Reaction. The character's Backstab deals 108 extra damage and causes a bleeding wound to the enemy, just like at adept level. There are no longer any limits to how many backstabs a Master can perform each turn. All attacks are backstabs as long as the con�ditions for Advantage are met (see page 162). 
+
+
+BEAST LORE 
+The character is schooled in the lore of beasts and knows the secrets of most monsters. Many mon�sters possess special abilities and unique attacks as well as weaknesses which are good to know about when trying to bring them down. At higher levels the character must pick a specialization �Abominations, Beasts, Cultural Beings or Undead -and receives further advantages against members of that specific category. 
+A character with Beast Lore can identify the tracks of many monsters and beings, and use that 
+
+114 
+Christian Rimmi (Order #41720700) 
+information to draw conclusions regarding the size and general behavior of the creature -is it hunting, on the run or just passing through? 
+Novice Free. The character has studied monsters and can make a Cunning test to recognize or recollect a monster's strengths and weaknesses. The Game Master describes the monster and its statistics to the player. 
+Adept Free. The character is an acknowledged scholar that has been studying a particular sub-category of monsters (pick Abomina�tions, Beasts, Cultural Beings or Undead). The character now deals 104 additional da�mage to monsters from that category. This extra damage applies to the character's allies as well, if they have been instructed in how best to fight the creature. 
+Master Free. The character now deals 106 extra damage to creatures from the sub-category that the player picked at the adept level. This extra damage applies to the character's allies as well, if they have been instructed in how best to fight the creature. 
+BERSERKER 
+The feared barbarian warriors of Davokar have developed the practice of working themselves into a berserker frenzy before battle. By letting the repressed anger of the heart strengthen its limbs, the character can unleash a fuming rage that, if channeled correctly, might determine which side will emerge victorious from the battle. 
+Novice Free. As a Free Action, the character may enter into a murderous frenzy to solely focus on hurting the enemy, dealing 106 extra damage when fighting in melee combat. The downside of this frenzy is that the character cannot defend itself properly. The attribute on which Defense is based, is considered to be 5 when calcu�lating Defense. 
+Adept Reaction. The rage is like armor to the cha�racter. He or she ignores 104 damage from each hit suffered while in a berserker rage. 
+Master Free. The character has managed to har�ness its rage without losing any of its power. The character can utilize this capacity to both deal and ignore extra damage, while still being able to defend itself as normal. 
+BODYGUARD 
+High-bornAmbrians, rich merchantlords and other potentates surround themselves with bodyguards. 
+Even among the barbarians there are housecarls who serve to protect the life of their chieftain. The character is trained to place itself in the way of painful strikes and lethal blows aimed at the protected person. 
+Novice Reaction. With a successful Resolute, the character may take blows directed against an ally. The character may not defend itself against these attacks, they hit automatically. 
+Adept Reaction. As Novice, but the character's capacity as a guardian allows it to defend itself against all attacks aimed at the person he or she is protecting. 
+Master Reaction. As Adept, but the character is a veritable guardian saint. As a Reaction, the master Bodyguard also gets to make a Free Attack against anyone making a me lee attack aimed at the person under its protection. 
+DOMINATE 
+With nothing but presence, gaze and voice, strong personalities can force weaker minds to bend in the midst of a raging battle. The character is trained in this art of subduing combat. Among the gladiators ofYndaros, this is considered to be a particularly impressive way to win a battle, and it is even regarded as extremely honorable among the barbarian clans to overcome your enemy in such a manner. 
+In social situations, this ability can also be used to scare someone into obedience and force secrets out of them. 
+Novice Passive. The character can dominate and outmaneuver an enemy combatant by using its convincing personality. The character may use Persuasive instead of Accurate in melee combat. 
+Adept Free. The character can, as a Free Action and with a successful [Persuasive�-Reso/ute] test, force an enemy to hesitate in melee combat. A hesitating enemy will not attack the character this turn. If possible, it attacks one of the character's allies instead. 
+Master Active. The character can subdue an ene�my with a passed [Persuasive�-Resolute] test. A subdued enemy can be forced to stand down and negotiate, to flee from an ongoing battle (if possible), or surrender if it is impossible to flee. When already in com�bat, the enemy must first be wounded by the character or by one of the character's allies before it can be subdued. 
+Monster categories 
+ABOMINATIONS 
+The horrible twisted life forms unique to Davokar. 
+BEASTS 
+All animals and creatures that belong to nature, such as wolves, reptiles and spider-like pests. 
+CULTURAL BEINGS 
+Humans, elves, chang�elings, ogres, goblins and trolls, for example. 
+UNDEAD 
+All manner of restless dead, such as ghosts and dragouls of any kind. 
+
+EQUESTRIAN FEINT 
+Heavy cavalry dominates the plains of Ambria, a truth proven time and again by Queen Korinthia when she sent her armored horsemen against stubborn barbarians during the first decade of her invasion. It takes training to be able to use a mount in combat, both for the rider and the mount, but if they are able to work together as one, they become a deadly combination. This ability is also efficiently used by the barbarians of the western plains, who launch raids against the settlements of westernAmbria using their horse-drawn chariots. 
+A character with the Equestrian ability also has a good hand with other kinds of farm animals and the like, and can therefore use the ability to calm agitated beasts, for instance keeping watch dogs from barking. 
+Novice  Reaction. The character is an experienced  
+rider and used to fighting while mounted.  
+The character knows how to use the weight  
+of the mount in a cavalry charge and deals  
+106 additional damage with one melee at� 
+tack if the mount moves prior to the attack.  
+Adept  Active. The bond between a mount and its  
+rider makes it possible for them to make  
+sweeping attacks, meaning that they use  
+parts of their Move Action before an attack,  
+and the rest afterwards. This way, they are  
+able to perform a melee attack without  
+being locked into melee combat. The enemy  
+can only retaliate by using Reactions, or by  
+spending their Movement Action trying to  
+catch up with the rider.  
+Master  Reaction. The master rider can use a cavalry  
+charge even more effectively and therefore  
+deals + 1010 damage with one melee attack  
+if the mount moves prior to the attack.  
+
+EXCEPTIONAL ATTRIBUTE 
+All the character's senses, as well as its physical and mental capacity, can be improved. By practicing a little bit each day, the muscles can grow stronger, the eyes sharper and intellect vaster. This ability enhances the character's basic survival capability. 
+This ability may be chosen multiple times, each time related to a different Attribute. 
+Novice Special. The character has cultured one of its Attributes through hard work, which increases the Attribute value by+ 1. 
+Adept Special. As novice, but the ability increases the Attribute value by +2 in total. Master Special. As novice, but the ability increases the Attribute value by +3 in total. 
+Persons and creatures that lack the will or strength to wield heavy melee weapons have instead developed techniques for feinting. This ability demands a weapon with either the Short or the Precise quality. Thanks to the skill of the character, these weapons can be handled in a both discreet and confusing manner. 
+Novice Passive. The character can choose to attack with Discreet instead of Accurate when the attack is made with a melee weapon which is either Short or Precise. Also, every such attack gains the same Advantage as if the opponent was surprised. 
+Adept Reaction. The character presents a false weakness in its defense and tricks the opponent into attacking that weakness. The character can choose to defend itself with Discreet instead of Quick. 
+Master Active. With a successful roll against [Discreet,,...Vigilant] the character can surprise an enemy in the middle of an ongoing fight. A successful test gives the character a Free Attack against that enemy in addition to its ordinary attack. The cha�racter may still perform an ordinary attack even if the attempted Feint fails. 
+IRON FIST 
+The character is trained to use its strength for max�imum effect on a target in melee combat. Knights, members of the barbarian Wrathguard and other heavily armed warriors rely on their strength in combat and leave precision and finesse for others to worry about. 
+Novice Passive. The character can fully utilize its strength and therefore uses Strong instead ofAccurate when making melee attacks. 
+Adept Passive. The character's melee attacks now deal 104 additional damage. 
+Master Active. The character knows how to truly put its back into an attack. The character can perform a devastating melee attack once per turn that delas + 108, instead of 
++104, additional damage. 
+LEADER 
+There are many who fight their way to a position ofleadership, but there are few who get pointed out as true leaders by the people they are meant to lead. If equipped with this ability the character is an inspiring, charismatic and eloquent person whom others listen to and follow, sometimes to their death. 
+
+116 
+Christian Rimmi (Order #41720700) 
+Outside of combat, the Leader ability can be useful to seize command over a group of strangers, organize a militia and the like. 
+Novice Passive. Due to its strong personality, the character can use Persuasive in place of Resolute, for instance when weaving mys�tical powers, though not as a basis for the corruption threshold. 
+Adept Active. The character can nominate a crea�ture or an object to be the focused target of his or her allies for the duration of a scene. All allies who attack that target inflict 104 additional damage with each hit. Changing the target requires a new active Action from the Leader. 
+Master Active. The Leader gives a rousing speech to its allies. This allows them to use his or her Persuasive instead of their own Resolute for the duration of a scene. 
+LO REMASTER 
+The character is educated and well-versed in the ways of the world: its cultures, its history, languages and artifacts. For centuries heroes, monsters and kingdoms have come and gone and left behind pow�erful items and secret texts. This ability represents knowledge about such objects. Through extensive studies a character with this ability knows not only the story of an object but also its properties and applications. 
+TheLoremaster ability also makes the character skilled at researching records and administra�tive documents, something which might be very useful when faced with those kinds of problems and puzzles. 
+Novice Free. With a successful Cunning test, a Lore�master can figure out the properties of a specific artifact without being bound to it. In the same way, the novice can use Cunning to translate a text or understand what is being said in another human language. A cha�racter does not need to make a test when uttering simple words and phrases, but a successful roll against Cunning is required when trying to have a proper conversation. 
+Adept Free. The character is a cultivated scholar of artifacts -in cases when an artifact power is activated by a simple attribute test, the adept can roll against Cunning instead of whichever attribute is specified in the description of the power. Also, with a successful Cunning test, the adept can read and understand the ungainly tongues of 
+Table 6: Abilities 
+
+ABILITY COMMON FOR 
+Acrobatics Warrior, Rogue Alchemy Mystic, Rogue Backstab Rogue Beast Lore Mystic, Rogue Berserker Warrior Bodyguard Warrior Dominate Warrior, Mystic, Rogue Equestrian Warrior, Mystic, Rogue Exceptional Attribute Warrior, Mystic, Rogue Feint Rogue Iron Fist Warrior Leader Warrior, Mystic, Rogue Loremaster Mystic, Rogue Marksman Warrior, Rogue Man-at-arms Warrior Medicus Mystic, Rogue Mystical Power Mystic Natural Warrior Warrior Poisoner Mystic, Rogue Polearm Mastery Warrior, Rogue Quick Draw Warrior, Rogue Recovery Warrior, Mystic, Rogue Ritualist Warrior, Mystic, Rogue Shield Fighter Warrior Sixth Sense Warrior, Rogue Sorcery Mystic Steadfast Warrior, Mystic, Rogue Steel Throw Warrior, Rogue Strangler Rogue Tactician Mystic, Rogue Theurgy Mystic Twin Attack Warrior, Rogue 
+Two-handed Force Warrior 
+Witchcraft Mystic Witchsight Mystic, Rogue Wizardry Mystic 
+THUS SPOKE AROALETA 
+" ... and he who was called 'first among equals' was neverthe�less the fastest, the toughest and the most skilled with the spear; he was Maiesticar, the pillager who thrust Spiderbane at the heart ofthe Spider King, and all the way through." 
+Ability and Powers 
+A clarification may be warranted regarding the ability Mystical Power and the actual powers presented with start on page 130. Each of the latter represent one purchase of the ability in question: if your cha�racter learns both Lay on Hands and Holy Aura, this means it learns two different versions of the ability Mystical Power. What is in common for all powers is included in the ability; what is specific is detailed in the description of the powers. 
+both elves and trolls. To say simple phrases in Elvish or Troll Tongue requires no test, but to initiate a conversation requires a successful roll against Cunning. 
+Master Free. As an acknowledged interpreter of scrolls, the character may with a success�ful roll against Cunning activate mystical powers directly from scrolls and parch�ments. The Loremaster may also use Cun�ning instead of Resolute to resist mystical effects. Furthermore, the master is familiar with the secrets of Symbaroum. A success�ful Cunning test is required to be able to read a text written in its ancient and extinct language. It requires no test to utter simple phrases, but to initiate a conversation requi�res a successful roll against Cunning. 
+MAN-AT-ARMS 
+
+A real warrior wears armor and is trained in how to move and fight while doing so. This is true among Ambrians and barbarians alike, even if the most heavily armored warriors usually are of Ambrian stock. No matter what the armor is made from, be it leather, steel or any other material, the Man-at-arms ability gives the character increased protection against hostile strikes and blows. 
+Novice Passive. The character knows how to use its armor for maximum effect, which increases the armor's Armor tier by one step: light ar�mor protects 106, medium armor protects 108 and heavy armor protects 1010. 
+Adept Passive. The character is used to wearing armor and can adapt his or hers actions to its limitations. The armor no longer has a negative effect on Quick or abilities based on Quick (including Defense). The Impeding quality of the armor still has a negative effect when using mystical powers. 
+Master Reaction. The character may roll against Quick to counteract effects from Abilities or equipment that make enemy attacks ignore or reduce its Armor value; if the test is successful the Armor protects as usual. Mystical powers that ignore Armor may not be blocked this way; they are not affected by the Man-at-arms ability. 
+MARKSMAN 
+
+Marksmen have their natural position in every army, scouting party and band of brigands. The character can inflict serious damage on its enemies with a bow or crossbow, hoping to either bring them down or at least make sure that they do not reach those of the character's allies that are equipped for melee combat. 
+Novice Passive. Thanks to the character's skill, damage dealt with bows and crossbows is increased to 1010 and 1012 respectively, from the usual 108 and 1010. 
+Adept Active. The character's precision provides his or her projectiles a crippling effect. The attack deals damage as usual and if the target is wounded the character may make an [Accurate+...Strong] test every time the target attempts to move. A successful test means that the target cannot move and its Movement Action is forfeit. As soon as the target manages to move (the character fails the test), the crippling effect is gone. 
+Master Active. The master's projectiles become armor piercing. The shot hits a weak spot and completely ignores the target's Armor. 
+MEDICUS 
+The character is schooled in the art of healing and therefore a greatly coveted asset in its society, whether he or she keeps diseases from spreading, takes care of wounded warriors or tends to the ruling elite. The art of healing has been developed in parallel with alchemy, and many healers are also trained in alchemy for this reason, especially those who operate far from civilization where there are no herbal cures to buy from well-stocked merchants. 
+A character with the Medicus ability can diag�nose and cure diseases and identify a poison by its symptoms. Medicus also gives the character a coroner's point of view, which might come in handy when examining a crime scene or a dead body. 
+Novice Active. As a clever surgeon, the character can make a test against Cunning to heal 104 of a patient's Toughness, or 106 when using an herbal cure. This ability can only be used once per patient and day. 
+Adept Active. The character is an acknowledged Medicus. A successful Cunning test heals 106 of a patient's Toughness, or 108 when using an herbal cure. This ability can only be used once per patient and day. 
+Master Active. The master Medicus has a vast medical knowledge. A successful Cunning test now heals 108 Toughness, or 1010 when using an herbal cure. Even a failed test heals some of the patient's Toughness; 104 when only using Medicus or 106 when also applying an herbal cure. This ability can only be used once per patient and day. 
+
+118 
+MYSTICAL POWER 
+The character has access to one or more mystical powers. These powers have either been obtained as a gift, a curse, through assiduous studies or as a consequence of a deep and dedicated faith. The character's power may belong to a mystical tradition (Wizardry, Sorcery, Theurgy or Witchcraft), which all have their benefits and disadvantages. The character may also be a Mystic without a tradition, with a home�brewed theory as to where these powers come from and what they are meant for. For more information see Chapter 18: Mystical Traditions (page 126). 
+Each Mystical Power is its own ability and is pur�chased separately. For a more detailed description of the different mystical powers, see Chapter 19: Mystical Powers (page 130). 
+The character suffers one point (1) of permanent Corruption each time he or she learns a new mystical power. The Corruption can be reduced if the power is part of a mystical tradition that the character belongs to. The character also suffers 104 temporary Corruption each time this power is used. Again, the Corruption suffered can be reduced if the power is considered a part of a tradition that the character belongs to (see Shadow & Corruption, page 174). 
+Novice Special. The character has mastered the power's novice level. Adept Special. The character has mastered the power's adept level. Master Special. The character has mastered the power's master level. 
+NATURAL WARRIOR 
+A sword or a bow is not always needed to fight. Through long and hard training, the character has become a dangerous opponent even when unarmed. The barbarians of the forests have proud traditions of wrestling and boxing. Another example is the fighting style developed in the gutters of eastern Yndaros, a style that nowadays can be seen at the Dome since a pair of the city's renowned gladiators have embraced its techniques. 
+Novice Passive. The character has learned to use its natural-born warrior capabilities with great efficiency. The character"s unarmed attacks now deal 106 damage. If the crea�ture has the Natural Weapons trait as well, then the damage is further increased accor�ding to the level of that monstrous trait. 
+Adept Active. With the speed of an adept, the character may now perform a double attack against a single target. The two attacks are rolled separately. 
+Master Passive. By attacking an opponent's weak points with flawless precision -such as throat and knees -the master's unarmed strikes are truly devastating. Each attack that hits deals 106 extra damage. 
+POISONER 
+Davokar hides many alchemically potent and poisonous plants, and the character is familiar with the effective use of poisoned weapons in combat. Poisons can be purchased from less scru�pulous peddlers, but to actually brew a poison requires some understanding of alchemy (the Alchemy ability). 
+The Poisoner ability can be used to identify dif�ferent poisons or the effect of a poison on a wounded or dead person. 
+Novice Free. As a free action, the character can apply one dose of poison or any other alche�mical elixir to a weapon. That one dose of poison is enough for one hit with the weapon before more of the poison must be applied. A[Cunning+--Strong] test is needed for the poison to take effect; if successful the victim starts to take damage. The damage suffered per turn and the duration of the poison depends on its strength (see page 153). 
+Adept Free. As novice, but the character under�stands how to make a dose of poison last an entire battle. After applying a dose, all attacks counts as poisonous for the duration of the combat scene. 
+Master Free. The character has mastered the art of poisoning and knows how to get the most out of a poison. If the character succeeds with a Cunningtest. any poison applied to a weapon counts as one level higher than usual. Weak poison counts as Moderate, Moderate counts as Strong. Strong poison does not deal any additional damage but gives the character a second chance to succeed with the [Cunning+--Strong]test instead. 
+POLEARM MASTERY 
+The character is initiated in the secrets oflong�shafted weapons. The spear is a simple weapon and anyone can quickly learn how to make good use of its length. For this reason, the militia armies of the plains and forests are often armed with spears. 
+The character's advanced skill with long weap�ons really shows that a simple shaft of hardened wood can be a fearsome weapon in the hands of a trained warrior. 
+The defensive 
+strength of 
+Polearm Mastery 
+If you want a strong�
+ly defensive char�
+acter. then Polearm 
+Mastery is not a bad 
+option. The adept 
+level provides Free 
+Attacks against any 
+enemy who attempts 
+to come close, 
+which is very good 
+in a fight against 
+multiple opponents. 
+The master level of 
+Polearm Mastery 
+is one of the most 
+powerful abilities 
+in terms of holding 
+enemies in check. 
+But also note that an 
+enemy armed with a 
+polearm more or less 
+cancels the effect of 
+Polearm Mastery. 
+
+Novice Passive. The damage dealt by Long weapons is increased one step, to 1010 for spears and halberds and to 108 for staves. 
+Adept Reaction. The character has truly mastered the long thrust. The character receives a Free Attack against all enemies who come into range of melee combat -whether it is the enemy who engages the character or vice versa is irrelevant. The only exception is when the enemy also wields a long weapon: in such a situation the character receives no Free Attack. 
+Master Reaction. As a Master of long weapons, the character has the skill to keep his or her enemies at bay. The character can use the Free Attack with a polearm to keep an ene�my from coming close enough to attack. For as long as the character succeeds in hitting the enemy, the enemy remains unable to attack the character with melee weapons �whether or not the damage penetrates the enemy's armor. 
+QUICK DRAW 
+Dealing the first blow can decide the outcome of a battle, and with this ability the character has an advantage when an unexpected ambush happens. The character also becomes a much more dynamic warrior, able to quickly switch weapons to meet the demands of any situation -a skill particularly appreciated among barbarian skirmishers and Ambrian archers. 
+Novice Free. With a successful test against Quick, the character may unsheathe and draw a weapon as a Free Action, thereby being able to use the weapon as if it was already drawn. The character can also reload a crossbow as a Free Action with a successful Quick Test. 
+Adept Free. With a successful Quick test. the cha�racter may switch weapons as a Free Action, meaning that the character can sheathe one weapon and draw another in one fluid motion. 
+Master Free. The character handles elixirs swiftly and may with a successful Quick test pour one dose down its own or someone else's throat as a Free Action. 
+RECOVERY 
+Among both Black Cloaks and Mystics, meditative techniques that provide strange bodily capabili�ties have been developed. The character can use its inner power reserves with an almost magical self-discipline to rejuvenate the energy ofits body, even when in the midst of combat. 
+120 
+Novice Active. With a successful die roll against Resolute, the character regains 104 Tough�ness. Multiple attempts can be made, but only one successful attempt is allowed per day. 
+Adept Active. Just as novice level, but the charac�ter recovers 106 Toughness. Master Active. Just as adept level, but the charac�ter recovers 108 Toughness. 
+RITUALIST 
+
+The character has learned how mystical powers can be channeled through rituals -powerful but time-consuming magical practices. This knowledge may come from studying under a teacher or from self-studies with a ritual codex. 
+The character suffers one (1) permanent Corruption from each ritual it learns, except if the ritual belongs to a mystical tradition practiced by the character. In the latter case the character is spared the blight of Corruption. 
+When it comes to performing rituals, the character suffers rn4 temporary Corruption if the ritual does not belong to a tradition he or she has mastered. Performing rituals covered by the character's tradition only gives one (1) point of temporary Corruption. 
+The Ritualist ability makes it possible for the char�acter to recognize what ritual has been performed by examining symbols and components remaining on the scene, and also to deduce the effects of the ritual, even ifhe or she has not mastered it. 
+Novice Special. The character has learned to perform one (1) ritual. The ritual may belong to any mystical tradition, but the character must have access to the ritual in order to learn and memorize it. The knowledge may be gained from a tutor involved in the same organization as the character, from a codex found in the ruins of Symbaroum or from another ritualist who imparts the knowled�ge as a reward for services rendered. 
+Adept Special. The character has learned to perform up to two additional rituals (three in total), again from any mystical tradition, but bound to the same conditions as those presented at the novice level. 
+Master Special. The character has learned to perform up to three additional rituals (six rituals in total). Just as before, the Master Ritualist is not limited to the rituals of a single mystical tradition, but must have access to the ritual to be able to learn and memorize it. 
+
+
+A B I L I T I E S 13 
+SHIELD FIGHTER 
+The character is trained in how to make good use of a shield, and how to actively fight using the shield as a weapon. Behind the protection of the shield, the character can generate a great momentum to fuel its attacks, as well as strike with the shield itself. This is an effective combination which probably explains why it is so common among both barbarian and Ambrian warriors. 
+The buckler, the light shield usually utilized by archers, is too light to be used with the Shield Fighterability. The warrior has to carry a sturdy shield made of either wood or steel to generate the required amount of force. 
+Novice Passive. The damage dealt by weapons held in the character's sword arm is increased by one step; to 1010 if the character fights with a single-handed weapon or to 108 if using a Short wea�pon. The novice Shield Fighter also wields its shield as an instrument of protection with greater efficiency and therefore receives a +2 Defense bonus instead of the usual + 1 when using a shield. 
+Adept Reaction. The character has learned how to combine weapon and shield so well that every successful attack may be followed up by a shield bash against the same target (separate attack roll). If it hits. the dama�ge of the shield bash is 104, and should the shield fighter make a successful test against [Strong+-Strong] the target is also knocked to the ground. 
+Master Reaction. The damage of the shield bash is increased from 104 to 108 and the target is knocked to the ground if the character succeeds with a [Strong+-Strong] test. 
+SIXTH SENSE 
+When moving through dark forests and under�ground tunnels, one's eyes are no longer very useful. Lighting a lantern or torch may summon dangers, so the explorer had better learn to rely on his or her other senses. With dedicated training it is possible to awaken these other senses and sharpen them to the brink of eeriness. The Sixth Sense ability provides the character with unique capabilities when fighting at a distance or in sit�uations where eyesight can no longer be trusted. 
+A character with Sixth Sense may under calm circumstances navigate unhindered in dim light, as well as maintain a sense of direction in complete darkness, though at a pace of only a quarter of its normal, daytime speed. 
+Novice Passive. The character has a strong intuition, which lets him or her use Vigilant instead of Accurate when attacking with ranged weapons. 
+Adept Passive. The character's intuition has expanded and the character may now use Vigilant instead of Quick for Initiative and when calculating his or her Defense. 
+Master Passive. The character can move and fight unhindered when blinded or in complete darkness. 
+SORCERY 
+
+The character is one of those who are arrogant or desperate enough to cling to the darkness. While other mystical traditions do everything they can to avoid the soul-eroding powers of Corruption, the sorcerer chooses to do the opposite. 
+The powers and rituals of Sorcery rely on the force of corruption and the possibilities offered by the taint. The sorcerer must always balance between grasping the black power that is just within its reach and remaining independent of the darkness. Most sorcerers realize that their chosen path only holds one possible end, and the most depraved among them have already come to terms with this, seeing their final and inevitable enslavement as some sort of salvation. 
+Novice Special. The sorcerer has taken its first faltering steps down the slippery slope of darkness and has found a way to not lose its foothold entirely. The sorcerer can reduce the Corruption he or she suffers from. By ma�king a successful roll against Resolute each time the sorcerer suffers Corruption, he or she only receives one (1) point of Corruption. 
+Adept Reaction. The sorcerer can draw from its own Corruption to successfully use mystical powers. A sorcerer who fails in an attempt to use a power may try again, this time rolling against his or her Total Corrup�tion value. Should this test be successful, then the power is activated as normal, but the sorcerer also suffers an additional 104 temporary Corruption. 
+Master Special. The sorcerer can use the Corrup�tion of others in order to enforce its will. Each time the sorcerer attempts to affect the Resolute attribute of another creature, he or she may choose to roll against the creature's Shadow instead (the creatures Resolute -Total Corruption). Thoroughly corrupted creatures are strangely immune to this; it is as if they feed off the darkness of the world to carry on with their dark calling. 
+
+STEADFAST 
+Mental disciplines and stratagems for resisting improper influences have been developed among the ranks of the Templars and Black Cloaks. Also among Mystics there are individuals who study the art ofresistance. 
+The character has a mind as hard as steel, inspir�ing it to fight on even against insurmountable odds. Mystics rarely succeed when trying to hurt or seize control of the character's senses, and sometimes a truly steadfast character manages to defend itself mentally and even turn the magic back on the hostile mystic. 
+Novice Reaction. The character can make a second attempt to succeed with a Strong or Resolute test when trying to break an ong�oing physical effect from, for instance, traps or alchemical elixirs. This includes energies from mystical powers, as long as these are manifested physically in the forms of fire, acid or similar. 
+Adept Reaction. The character is unshakable, and can make a second attempt to shrug off ongoing powers that affects either its will or its senses. 
+Master Reaction. The psyche of the character stri�kes back against anyone who tries to affect it. Whenever the character is the victim of a mental attack (in other words, those attacks that are modified by Resolute) that fails, the attacker suffers 106 damage that ignores Armor. 
+
+
+STEEL THROW 
+There are traditions and groups whose representa�tives have practiced the art of the thrown weapon for generations. Throwing knives are for instance common among thieves and thugs in the cities, and in the woods many clan warriors are equipped with throwing axes or spears. In fact, most barbarian fighters (especially those within the clan of Zarek) regularly use throwing weapons as part of their combat tactics, unleashing a shower of steel just before they charge into the fray. 
+Novice Passive. The character has begun to understand the riddle of steel-throwing. The damage dealt by throwing weapons is increased to 108. 
+Adept Active. The character can perform a double throw with one Action. The attacks are rolled separately and are either aimed at the same target, or at two different ones. The character can also use melee weapons 
+
+122 
+Christian Rimmi (Order #41720700) 
+as throwing weapons, but can only throw 
+one such weapon per Action. The damage 
+for this kind of attack is the base damage 
+of the melee weapon, including any passive 
+abilities that the thrower might have. 
+Master Active. The character can unleash a devas�tating triple throw and send three throwing weapons towards his or her enemies, all of them against a single target or distributed among multiple ones. 
+STRANGLER The character has been initiated into the dirty, but sometimes necessary, art of strangulation. This fighting technique has a bad reputation among 
+Ambrians and barbarians alike, but that does 
+not mean that it is not widely desired by those 
+who want enemies or their guards discreetly 
+taken care of. With this ability the character can do a lot of damage to an unprepared or slow enemy with either a garrote or, if more advanced, with the alchemical Choking Spores. 
+Novice Active. The novice Strangler may attack when at an Advantage. A successful attack deals 106 damage each turn and ignores Armor. The target cannot act until the Strangler's hold is aborted; the character maintains the stranglehold with a success�ful [Cunning.Cunning]. 
+Adept Active. The character knows how to use the deadly Choking Spores, gathered deep within Davokar by alchemists. With a successful [Cunning.Quick], the spores are thrown at an enemy and deal 104 damage per turn for 104 turns, ignoring Armor. There is no known countermeasure against the effect of the Choking Spores, other than healing the victim when the damage appears. Affected victims may act as usual, in contrast to the novice level of this ability. Master Active. The character can use the delicate and lethal Spore Bombs created from Choking Spores by master alchemists. If thrown over a distance, it requires a suc�cessful Cunning test for the bomb to land on the intended spot. The Spore Bomb fills a corridor, a smaller area or an ordinary room with a suffocating cloud. Anyone who stands within that area, enemies as well as allies, are affected by the Choking Spores, which ignore Armor and deal 104 damage per turn for a duration of 104 turns. 
+TACTICIAN 
+According to Ambrians, scholarly knowledge is counted as one of the highest virtues. Hence, it is hardly surprising that Ambrian scholars have studied skirmishes meticulously to see if the tac�tics of battles can work on a lesser scale, among smaller groups and even in duels. The result is a style of combat governed by strict principles and calculations, which over time can out-maneuver even the most aggressive attacker. The character is trained in this scholarly warrior tradition. 
+A schooled tactician may also use this ability to analyze a tactical approach and find both its strengths and weaknesses. This can be done for offensive purposes when facing a hostile group or defensively, to establish a strong defense. 
+Novice Passive. The character has studied the tactics of warfare and grasped its funda�mental principles. The character may use Cunning instead of Quick when calculating its Initiative. 
+Adept Passive. The character has mastered the art of a good defensive posture, which allows him or her to use Cunning instead of Quick when calculating Defense. 
+Master Passive. The character is a genius when it comes to offensive warfare, which allows the character to use Cunning instead of Accurate when attacking with anything but heavy weapons. 
+THEURGY 
+Theurgy is the mystical tradition championed by the chosen priest mages of the Church of Prios. Theurgy is the doctrine of the inner flame, where the ember of the soul is seen as a reflection of the divine and life-giving light of the sun. 
+Novice Special. The theurg no longer suffers per�manent Corruption when learning powers at novice level belonging to the tradition of Theurgy, nor when learning its rituals. Despite this, the character still has no protection against the temporary Corrup�tion that comes from using the powers and rituals of Theurgy. 
+Adept Special. The theurg no longer suffers per�manent Corruption when learning powers at adept level belonging to the tradition of Theurgy. The adept theurg has also learned to rest the powers and rituals of Theurgy on a foundation of faith so that the theurg now only suffers one (1) temporary Corruption when casting them. 
+Master Special. The theurg has reached a higher understanding of the essence of its powers, and therefore gains+ 104 in effect when using healing and holy powers, including when these damage abominations and the undead. Adding to this, the theurg suffers no permanent Corruption when learning powers at master level belonging to the tradition of 
+Theurgy. 
+TWIN ATTACK 
+Barbarians, Ambrians and goblins all have fighting techniques involving the use of more than one weapon. The character has learned how to fight with two weapons, an advanced but effective tech�nique that gives the warrior an offensive advantage. 
+Twin Attack is especially effective against lightly armored targets. 
+Novice Active. The character can safely wield two weapons, one in each hand. The novice can fight with a single-handed weapon in its primary hand and a Short weapon in the other. The character can make two attacks against the same target, dealing 108 and 106 damage respectively. The enemy must defend itself separately against the attacks. The novice also receives a +l bonus to its Defense as a Passive ability, but only when wielding a weapon in each hand. 
+Adept Active. The adept can use two single�handed weapons, each attack dealing lD8adamage. 
+Master Active. With the skill of a Master, the damage dealt by the main-hand weapon is 1010 while the weapon in the other hand deals 108. 
+TWO-HANDED FORCE 
+The knights of Ambria as well as the Wrathguards ofKarvosti dress themselves in steel from head to toe and have realized that with that much armor, they are free to focus on dealing massive amounts of damage. 
+Heavy two-handed weapons rest comfortably in the character's callused hands and can have an astoundingly destructive effect on all sorts of targets. Heavy weapons are extra effective against heavily armored enemies. 
+Novice Passive. The damage dealt by heavy weapons is increased to 1012. 
+Adept Reaction. The character has mastered the use of its weapon, so when an attack misses a target the character may instead use the returning swing in an attempt to hit the 
+124 
+target again. The character makes a new attack roll, which deals 108 damage if it hits. 
+Master Active. A heavy weapon in the hands of a master is truly a tool of armor-crushing destruction. When the attacks of a master hit the target, they completely ignore the target's Armor. 
+WITCHCRAFT 
+From the deep soils and wild spirits of Davokar comes the tradition of witchcraft. For generations, its teachings have been passed on to witches who, alongside the chieftains, have led the people of the forests through mishaps and triumphs alike. Surely, it is the primal powers of witchcraft that enables the barbarian clans to live within Davokar. 
+Novice Special. The witch has learned the teachings of witchcraft and how to with�stand its darker elements. The witch no longer suffers any permanent Corruption from learning powers at novice level belon�ging to the Witchcrafttradition, nor when learning any of its rituals. Despite this, the character still suffers the temporary Cor�ruption that follows when using the powers and rituals of Witchcraft. 
+Adept Special. The witch suffers no Corruption from learning the powers of Witchcraft at adept level. The adept witch has also learned to bind the powers and rituals of the craft in earth, blood and spirit so that they only give one (1) temporary Corruption when used. 
+Master Special. The witch suffers no Corruption from learning the powers of Witchcraft at the master level. 
+WITCHSIGHT 
+By way of the shadows surrounding creatures, locations and objects the world's deeper conflicts are observable for a character with the Witchsight ability. Opening up one's mind in order to exam�ine the world of shadows can provide invaluable insights, but it also entails great risk: the more open the mind is and the deeper the insights are, the greater the risk ofbecoming tainted by the darkness of the world. It is for this reason that masters of this ability seldom use it to their full capacity. 
+As previously stated, the color of the Shadows can give the character clues regarding the spiritual alliance of the inspected creature (see Shadow & Corruption, page 174). The Game Master manages the nuances and powers of the Shadows and describes what the character sees with its Witchsight. 
+Novice Free. As a Free Action, the character can make a roll against [Vigilant.Discreet] in an attempt to see the dominant Shadow of a creature, location or object. Each such attempt forces the character to suffer 1 temporary Corruption. 
+Adept Free. The character has gained the greater insight of an adept regarding auras and mystical phenomenon. Witchsight now re�veals all Shadows of an inspected target but not their respective strengths. The charac�ter suffers 104 temporary Corruption each time he or she attempts to see the Shadows of a creature, location or object. 
+Master Free. The character has achieved the master's superior insights and can now see all Shadows and their respective strengths clearly. The character suffers 106 tempora�ry Corruption each time an attempt is made to see the Shadows of a creature, location or object. 
+WIZARDRY 
+Wizardry is taught by Ordo Magica and is a tradition whose practitioners are well-versed in the mysteries of fire, the will's triumph over matter and the labyrinths of the senses. To wizards of the Order, these phenomena are intimately connected. 
+Novice Special. The wizard no longer suffers permanent Corruption when learning powers at novice level belonging to the tradition of Wizardry, nor when learning its rituals. Despite this, the character has no protection against the temporary Corrup�tion that comes from using the powers and rituals of Wizardry. 
+Adept Special. The wizard no longer suffers Corruption from learning the adept level of the powers belonging to the tradition of Wizardry. The adept has also learned to ground the powers and rituals of Wizardry in theories so well that the character now only suffers one (1) temporary Corruption when casting them. 
+Master Special. The master wizard's understan�ding of linked magic is all but complete and the player character may therefore re-roll one (1) failed test each turn when attemp�ting to establish a Chain of mystical effects (see page 130). The wizard no longer suffers permanent Corruption from learning the master level of the powers belonging to the tradition of Wizardry. 
+IT IS WIDELY ACCEPTED that the world does not only consist of matter, and it is obvious to everyone that there are individuals who can manipulate the flows of both material and non-material energies. The use of mystical powers is in no way commonplace, not in Ambria, nor among the barbarians. But it is common enough for many cultures to have formed traditions around it. 
+THE MYSTICAL TRADITIONS answer questions regarding how these powers are to be understood, how they may be taught as well as in what ways they are meant to be used. They have also worked out ways to avoid or at least lessen the dark side-effects of casting mystical powers and rituals. The powers not only manipulate but also violate the fabric of the world, something which makes the world strike back -in the form of Corruption. That effect can be reduced with the help of the traditions. 
+Player characters need not belong to or practice any of the traditions to be able to use mystical pow�ers. Mystics without connections to a tradition are often called Untamed and are considered dangerous by their traditionally trained colleagues. Schooled mystics sometimes perceive the independent ones as no better than sorcerers, but mostly regard them as their less fortunate and less successful cousins. 
+'iitheurgy 
+
+THEURGY IS NOWADAYS understood as the teachings of the mystical force that radiates from the sun and which burns at the heart of the human spirit. Its powers are only found among the most loyal worshipers of the light: the chosen champions of Prios. The theurgs are considered the emissaries of Prios in the world of the living, and their burden is truly a great one. They lead the faithful in prayer, thereby guiding the sun through the darkness of the underworld each night. And their passion keeps the heavenly light from fading; without their strenuous work the ailing Sun God would surely die and the world would plunge into The Eternal Night. 
+Theurgy is an ancient tradition, first developed by the priesthoods devoted to the Old Gods. It is disputed among scholars and the learned whether witchcraft 
+126 
+is older than theurgy or if it is the other way around. Either way, the golden age of theurgy is now. Ever since Prios earned himself the devotion and faith of most Ambrians, the bearers of the tradition have thrived. It is not important to them which of the traditions came first and which is the oldest. As far as the theurgs are concerned, the worshiping of moss and veneration of trees are unworthy of mankind's holy spirit, and most consider witchcraft to be a path that leads only to decay and sorcery. They regard wizardry -the mystical order built on the foundation of older theurgy -in much the same way, as a truly godless and morally questionable practice. 
+THE TITLES OF THEURGY 
+The titles within the tradition of theurgy are inter�twined with the Church of Prios, since theurgs are the defenders of the Church, chosen by Sun God himself. Obedience to one's elders is both highly regarded and enforced, and the punishments for disobedience are severe. Lowest in rank are the initiates, who assist and are tutored by the Church's Brothers and Sisters, who in turn serve under the elder theurgs, called Fathers or Mothers. Within the organization of the Sun Church there are also priests who have not been granted the God-given powers of the theurgs, and they are called liturgs. 
+POWERS 
+The blessings and curses of theurgy include Anathema, Blessed Shield, Holy Aura, Inherit Wound, Lay on Hands, Levitate, Prios' Burning Glass, True Form, Unnoticeable and Witch Hammer. 
+RITUALS 
+The rituals of theurgy, often performed as religious ceremonies, are Command Confession, Exorcism, Heretic's Trail, Holy Smoke, Judging Bonds, Oracle, Patron Saint, Purging Fire and Sanctifying Rite. 
+CORRUPTION 
+The theurgs of Prios teach that Corruption occurs when nature is allowed to grow without being cultivated and tamed. The Corruption thrives in the wild, in chaos, that which is uncontrolled by humans -and in their encounters with Davokar they seem to find all the evidence needed to support this interpretation of the world order. 
+Every devotee of Prios must accept the threat of Corruption and keep their inner flame burning despite the risk of taint; just as the Lightbringer Ofelya Attio is said to have proclaimed while stand�ing at the threshold of the Dark Lords' stronghold: "Fire shall with fire be fought, darkness shall with darkness be vanquished!" 
+.orcery 
+
+THE LEGENDS ARE teeming with sorcerers: mystics who draw their power from musty wellsprings or gain their corrupt gifts from creatures of evil. It is harder to find them in the real world, but those who know how to read the Shadows can sense their pres�ence or see traces of their tainted work. Korinthia' s people faced the undead servants of the Dark Lords during The Great War, and while the Dark Lords perished, their parasitic powers continued to drain the life out of Alberetor, forcing the Ambrians to flee north. There they instead faced the blighted creatures oftDavokar, born from another kind of evil that festers in the fallen ruins of Symbaroum. 
+Sorcery is the mystical tradition that comprises powers and rituals fueled by Corruption and taint, whose usage provides power in the short run, but corrodes the mystic's body and soul in the long run. Theurgs active among the Twilight Friars gather rituals of sorcery as well as blight-stricken artifacts in an attempt to understand this new, dark enemy. Within their monastery in the Titans, it is said that the Black Cloaks hide dark vaults oozing with cor�ruptive energies and echoing with the lamentations of the poor, tainted souls kept there for study. 
+Witchcraft 
+
+THE WITCHES' WORLD is composed of winds, blood and all things growing, together forming the three hazardous paths a witch has to wander: the white path where the wind wails and spirits howl; the red path of the slow-running blood; and the green path, overgrown by thickets and roots. According to the mythology of the witches, there are places where these three paths converge, such as the cliff oftKarvosti deep within Davokar. 
+Witchcraft is believed to be the oldest and most deeply rooted of the traditions. Some tutors at Ordo Magica even claim that witchcraft -despite its primitive flaws -forms the basis oftheurgy, and because of this, both theurgs and wizards have the wise witches of old to thank for understanding the fundamental principles of magic. 
+THE TITLES OF WITCHCRAFT 
+Witches believe in independence, thus they are watchful of titles and hierarchal structures. The harsh living conditions oftDavokar have resulted in each barbarian village housing a witch, and every witch is expected to have a helper (an apprentice). Furthermore, within each clan there is a witches' node supervised by a Keeper, often called a Hex Mistress by southern scholars. All nodes convene 
+POWERS 
+The incantations of Sorceryinclude Bend Will, Curse, Larvae Boil, Revenant Strike and Unholy Aura. 
+RITUALS 
+The sacrificial practices of the dark arts include such rituals as Desecrating Rite, Enslave, Exchange Shadow and Possess. 
+CORRUPTION 
+In the view of the sorcerer the world is dying or already dead, and Corruption is but one of many symptoms of its irredeemable state. To fight Corruption is like pretending that death does not exist. Better to know it, and learn how to understand and use it as much as possible before everything meets its fated end. 
+To walk side by side with darkness is a precari�ous act of balance, to say the least. Not to give in to darkness is the key, for doing so would surely mean being completely devoured. Wise sorcerers accept Corruption, and exploit it, while still keeping a distance from its cold embrace, for as long as they possibly can. 
+at Karvosti, where the High Chieftain is advised by the Huldra, the foremost of all witches, whom outsiders generally call the Arch Witch. 
+POWERS 
+The chants of the witches include Bend Will, Curse, Entangling Vines, Inherit Wound, Larvae Boil, Lay on Hands, Maltransformation, Nature's Embrace, ShapeshifHng and Storm Arrow. 
+RITUALS 
+The rituals of witchcraft are often performed as dances and include Blood Bond, Borrow Beast, Familiar, Nature'sLullaby, Necromancy, Oracle, Quick Growth, Turn Weather and Witch Circle. 
+CORRUPTION 
+For practitioners of witchcraft Corruption is viewed as nature's way of seeking balance; what the witch does to the world strikes back against him or her. The Corruption must be weighed against the neces�sity of what the witch is about to do and be handled accordingly. Some witches will choose to sacrifice themselves to the Corruption in order to save their people; such is the fate of a witch according to the demands of life in the gloom oftDavokar. 
+
+128 
+Christian Rimmi (Order #41720700) 
+Wizardry 
+THE POWERS OF WIZARDRY come from disciplined studies into the fundamental laws of nature, and from insights regarding how these laws can be used and controlled by sheer will and reason. It is a strenuous education, even without the boring every�day tasks that the novices must perform for their masters. Only half of those who begin their studies with Ordo Magica see them through, but those who prevail are rewarded with a deep understanding of the mysteries of wizardry. 
+Wizardry grew out of early forms oftheurgy, in a time when the people of Alberetor still worshipped a pantheon of gods. Philosophers and scholars started to renounce the metaphysical ideas of the priesthood, instead regarding the laws of nature as independent from the machinations of deities. To the founders of Wizardry, the Old Gods were seen as the creators of the world, but not its shepherds. Instead the world is regarded as being profoundly magical and not in need of any Gods to function. Nor is the world meant to be worshiped, merely understood -and used. 
+THE TITLES OF ORDO MAGICA 
+The titles ofWizardry are closely linked to the com�petence and function, as well as the status, of the individual. The list of a novice's duties is a long one, and the commitments of the adept wizard are consid�erable, though their new title comes with a touch of authority and privilege. An adept who is experienced enough to teach carries the title Magistrate. 
+The Masters often have a specific area of exper�tise, and the few obligations they have can usually be delegated to a novice or adept under their rule. Each order chapter (commonly called "Wizards' guild") 
+Independent .Mystics 
+PARTICULARLY GIFTED INDIVIDUALS have always been able to bend and break seemingly inescapable laws of nature, and many scholars claim that it was through coalitions of such independent, or untamed, mystics that the traditions first arose. Whether this is true or not, there occasionally are individuals who either choose or are forced to study on their own, or in smaller groups. 
+Independent Mystics are not burdened with the theories of the traditions, which give them more freedom in their choice of powers. However, they are also much more vulnerable to Corruption. Many untamed mystics tend to evolve their own under�standing of the world and come to espouse theories that contradict those of the established traditions. 
+is governed by a Chapter Master, who represents Ordo Magica when dealing with local authorities. Ordo Magica as a whole is headed by the Grand Master, stationed at the chapter in Agrella. 
+The title of Arch Mage is no longer in use. Before The Great War the Grand Master of the organization was chosen from within the circle of Arch Mages. But since all Arch Mages perished in the war, the Grand Master is instead chosen by, and often from among, the acting Chapter Masters. 
+POWERS 
+The spells of wizardry include Anathema, Bend Will, Brimstone Cascade, Confusion, Flame Wall, Illusionary Correction, Levitate, Mind Throw, True Formand Unnoticeable. 
+RITUALS 
+The catalogue of wizards' rituals covers Clair�
+voyance, False Terrain, Flaming Servant, Illusion, 
+Magic Circle, Sanctum, Seven-league Stride, Soul 
+Stone, Tale ofAshesand Telepathic Interrogation. 
+CORRUPTION 
+According to Ordo Magica, Corruption is largely misunderstood, thanks to the sermons ofhot-headed theurgs and the fairy tales of witches. It all comes down to a regulated response; a reaction that appears when a mystic uses his or her power to affect nature. This is not that different from what happens when someone jumps off the stern of a boat, simultaneously pushing the boat forward with the same amount of force that goes into the jump. If the jumper is reckless, he will drop into the water; if the jumper is careful, he will land on the dock with dry shoes. 
+POWERS 
+The player may pick any mystical power for his or her independent mystic. 
+RITUALS 
+Independent mystics rarely learn rituals, but when they do the chosen rituals tend to be highly personal, without regard for traditional restrictions. 
+CORRUPTION 
+The gift of freedom is double-edged and darkness is drawn to the gifted as envy to those with talent. The power of Corruption cuts deep and must be kept under control; many a free mystic has accepted the darkness although it truly is a kiss of death. 
+V The Myth of Pure Magic Within all traditions there is a myth of the Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corruption. Then something hap�pened. Evil entered the world and with it came the blight. Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, by expelling evil, by slaying the World Serpent or reclaim�ing the long lost arch magic. However, most Mystics accept Corruption as a part of their trade and just something to be dealt with. 
+
+MYSTICAL POWERS are a manifestation of mystic energies that have been manipulated and guided by a trained or talented will. For some, these powers come naturally, as a gift of birth, but in most cases the powers are developed through many hard years of working together with a patient master, there to guide and make corrections. Whether the powers are a result of a gift, studies or dedication, they tend to define their users as much as being a tool in their hands. 
+THE FOLLOWING TERMS and rules are important when using powers in the world of Symbaroum. 
+Ongoing Effect: The effect of the power is active until the character fails a specific test, detailed in the description of the power. This test is repeated every turn on the character's Initiative. Keeping an ongoing effect running counts as a Free Action. 
+Ongoing Effect on Group: The power affects each target until the character fails a specific test, detailed in the description of the power. This test is made for each target and repeated every turn on the character's Initiative. Keeping an ongoing effect running counts as a Free Action. 
+Chain: The power may potentially hit more than one target, but a test has to be made for each target, one at a time, in an order decided by the player. The Chain continues until the player fails a test. 
+Concentration: If a mystic suffers damage while using a power with a potentially ongoing effect, he or she must make a successful roll against [Resolute -Damage] in order to stay focused. A test is made for every attack that hits the mystic and for every power that is ongoing at the moment. If the mystic fails any of these tests, then the ongoing effects of all powers are ended. In this case damage refers to the damage that the mystic suffers after the Armor value has been subtracted. 
+Corruption: Permanent Corruption is the cor�ruption that eats away at one's soul and cannot be washed away with anything but purging rituals. Temporary Corruption diminishes over time and disappears completely at the end of a scene. A character's Total Corruption is the sum ofboth its temporary and permanent Corruption. The Total Corruption is used to estimate just how affected the character is by the Corruption. 
+Material: The description of powers some�times lists either materials or an object. This is mainly intended to add flavor to the power, rather than being a strict requirement. If a player would rather have his character use another material instead of the suggested one, then he or she is of course allowed to make a change. An exception to this is powers that operate through the use of a weapon, in which case the weapon has to be available for the power to function. Holy /unholy symbols may be a sun symbol, an evil mark, a witch's medallion or a wizard's staff, for example. 
+
+130 
+ANATHEMA 
+Material: A small silver bell. 
+The mystic has studied the secrets of countering 
+magic and can dispel the effects of other powers. 
+Anathema does not affect rituals -their mystical 
+bonds are too thoroughly woven and can only be 
+dispelled by other rituals. 
+Novice Active. By making a successful roll against [Resolute<c--ResoluteJthe mystic can disperse a power's ongoing effects on a creature, or on himself provided that the mystic is fit to wield magic. The Resolute of the mystic who has unleashed the power is used as resistance when making the test. 
+Adept Active.The mystic can disperse ongoing effects on a Chain of creatures; tests are made for one target at a time, until one test fails. Master Active. By making a successful Resolute test the mystic is now powerful enough to dispel all currently ongoing mystical effects, including summoned effects and creatures. 
+BEND WILL 
+Material: A silver ring. 
+
+Free will is an illusion, but the power of the will is 
+unmistakable. The mystic has come to understand 
+these seemingly contradictory principles and can 
+use the insight to control the will of other creatures. 
+Novice Active. The mystic can seize control of a creature's will by making a successful [Resolute<c--Resolute]test. The control is considered active until the mystic breaks concentration or fails a [Resolute<c--Resolute] test. The controlled creature can only per�form one (1) Action each turn and cannot use any active abilities or powers while affected. 
+Adept Active. The mystic can seize control of a creature's will by making a successful [Resolute<c--ResoluteJtest. The mystic does not have to concentrate to sustain the control; it is ongoing and considered active until the mystic fails a [Resolute<c--Resolute] test. A controlled creature can only perform one (1) Action each turn and cannot use any active abilities or powers while affected. Master Active.The mystic can seize control of a creature's will by making a successful [Resolute<c--ResoluteJtest. The mystic does not have to concentrate to sustain the control; it is ongoing and considered active until the mystic fails a [Resolute<c--Resolute] test. The controlled creature can be forced to perform its two usual Actions each turn. 
+BLESSED SHIELD 
+Material: A holy symbol. 
+By faith and will, the mystic raises a holy shield 
+against the weapons of its enemies. The shield is 
+invisible until attacked, at which time it glitters 
+as if struck by sunlight. 
+Novice Active. With a successful roll against Resolute the mystic surrounds itself with a warm glow. This glow provides an addi�tional 104 Armor. Also. any abomination or undead who attacks the mystic with melee attacks suffers 104 damage from the glow, ignoring Armor. The blessed shield lasts until the end of the scene. 
+Adept Active. As at the novice level, but the extra Armor and the damage dealt is rolled with 
+106. Also, an ally within sight can be includ�ed in the effect of the blessed shield. 
+Master Active.As at the novice level, but the extra Armor and the damage dealt is rolled with 
+108. Two of the mystic's allies can be includ�ed in the effect of the blessed shield. 
+BRIMSTONE CASCADE 
+Material: A fistful of pure brimstone. 
+The mystic can unleash the rampaging spirit offire 
+and burn its enemies to cinders, or at least scorch 
+them severely. 
+Novice Active. The mystic lashes out with fire and brimstone against a target. If the mystic succeeds with a [Resolute<c--Quick] test, the cascade deals 1012 points of damage. If the mystic fails the test the cascade deals only lD6adamage. 
+Adept Active. The mystic unleashes a Chain of burning energy. If the mystic succeeds with a [Resolute<c--Quick] test. the cascade deals 1012 points of damage. If the mystic fails the test the cascade deals only 106 damage. If the target suffers the full 1012 damage, the mystic may try to steer the flaming energy towards an additional target, and so on until the mystic fails a [Resolute<c--Quick] test. 
+Master Active.The mystic unleashes a veritable storm of flaming and smoking energies. If the mystic passes a [Resolute<c--Quick] test. the cascade deals 1012 points of damage. If the mystic fail the test the cascade only deals 106 damage. Even if the mystic should fail a test the Chain does not stop; it continues to strike new oppenents until a second test is failed. 
+
+132 
+Christian Rimmi (Order #41720700) 
+CONFUSION 
+Material: A couple of drops of wine. 
+The mystic's understanding of the labyrinth of the senses can cause an enemy to lose itself inside its own mind. Confused enemies become paralyzed or 
+lose their ability to separate friend from foe. 
+Novice Active. The mystic can confuse an enemy with a successful [Resolute+...ResoluteJtest, making the enemy unaware of its actions. Roll 106 each turn until the mystic breaks concen�tration or fails a [Resolute+...Resolute] test: 1-2, the target stands still, blinking stupidly; 3-4, the target attacks whichever of its allies is closest; 5-6, the target attacks whichever of its ene�mies is closest. If there is any uncertainty regarding who is closest to the target, roll a die to decide. 
+Adept Active. The mystic can confuse an enemy without having to concentrate. The Confusion is ongoing until the mystic fails a [Resolute+...ResoluteJtest. A new test must be made each turn. Master Active. The mystic creates a Chain of Confusion. If the mystic manages to confuse a target with a [Resolute+...Resolute] test, then it may continue with another target and so on, until the mystic fails a test. Resolute is then tested each turn for each target to decide which of them remain confused. 
+CURSE 
+Material: None, a dark glare is enough. The mystic masters the stare of the Evil Eye and can curse enemies on the battlefield; a power often used by the disciples of the Dark Lords during The Great War. 
+Novice Free. Once per turn, the mystic's dark glare automatically gives an enemy a second chance to fail all success tests meant to affect the mystic (roll twice, the action fails if one of the tests is a failure). This effect is ongoing until the mystic fails a Resolute test. 
+Adept Free. Like novice, but the enemy has a second chance to fail all its success tests regardless of target. The effect is ongoing until the mystic fails a Resolute test. Master Active. The mystic puts a curse of death upon an enemy. The enemy suffers 106 dam�age, ignoring Armor, for all actions it tries to perform. The target suffers no damage if it remains still and passive. This effect is active until the mystic fails a Resolute test. 
+Table 7: Mystical Powers 
+POWER 
+Anathema Bend Will Blessed Shield Brimstone Cascade Confusion Curse Entangling Vines Flame Wall Holy Aura Illusory Correction Inherit Wound Larvae Boils Lay on Hands Levitate Ma/transformation Mind-Throw Nature's Embrace Prios� Burning Glass Revenant Strike Shapeshift Storm Arrow True Form Unholy Aura Unnoticeable Witch Hammer 
+TRADITION 
+Wizardry, Theurgy Wizardry, Sorcery, Witchcraft Theurgy Wizardry Wizardry Sorcery, Witchcraft Witchcraft Wizardry Theurgy Wizardry Theurgy, Witchcraft Sorcery, Witchcraft Theurgy, Witchcraft Wizardry, Theurgy Witchcraft Wizardry Witchcraft Theurgy Sorcery Witchcraft Witchcraft Wizardry, Theurgy Sorcery Wizardry, Theurgy Theurgy 
+
+ENTANGLING VINES 
+Material: A handful of seeds or a tangle of roots. The earth is bound by roots, while objects above ground are often covered by vines. All that the mystic does is uses its will to stimulate the already ongoing processes of nature. 
+Novice Active. By rolling a successful Resolute test, the mystic calls forth entangling vines or roots from out of the earth and can ensnare an enemy. The ensnared creature cannot move but can use ranged weapons and powers. The creature is ensnared until the mystic fails a [Resolute+...Strong] test, starting the following turn. 
+Adept Active. The mystic can ensnare a Chain of creatures. If the mystic manages to ensnare a target with a successful Resolute test, then he or she can attempt to snare another one, and so on until an attempt fails. Start�
+ing the following turn, a [Resolute+-Strong] 
+test is made for each target to determine 
+how many of them remain ensnared. 
+Master Active. The mystic creates an entangling Chain of thorns. Those ensnared with a [Resolute+-Strong] test also suffers 106 damage per turn from their thorny prison. The sharp thorns find gaps in the targets armor, so any Armor is ignored. 
+FLAME WALL 
+Material: A fistful of brimstone, with some mercury. The mystic has gained insights into the mysteries of fire and can summon fire to form it into a wall or a dome. 
+Novice Active. By making a successful Resolute test the mystic calls forth a wall of whirling flames just in front of it (melee combat distance). The wall is wide enough to cov�er most corridors and divide most rooms. When in larger rooms and when outside, one can get around the wall of flames by using two Movement Actions, but it can also be flown over with only one Move�ment Action. It is possible to pass through the wall with an ordinary Movement Action, but all who do suffer 1012 points of fire damage. Smaller flammable objects such as arrows and bolts are burned to cinder if shot through the burning wall. The wall can also be summoned direct�ly on a group of enemies who are then automatically wounded, provided that the targets form a line in front of the mystic. The Flame Wall is sustained until the mys�tic fails a Resolute test, made once each turn after the first. 
+Adept Active. The Flame Wall curves and closes into a burning circle around the mystic and its allies, as well as any enemy combatants within range of melee combat when this power is activated. The wall of flames can either be flown over or passed through, both with a Movement Action, but all who pass through the wall suffer 1012 points of fire damage. The Flame Wall is sustained until the mystic fails a Resolute test, made once each turn after the first. 
+Master Active. TheFlame Wall curves and bends until it forms a burning dome that covers the mystic and its allies, as well as any enemy combatants within range of melee combat when this power is activated. It is 
+134 
+possible to pass through the burning wall 
+with a Movement Action, but all who do so 
+suffer 1012 points of fire damage. The wall 
+of fire is sustained until the mystic fails a 
+Resolute test, made once each turn after 
+the first. 
+HOLY AURA Material: Holy symbol. 
+
+The mystic can send out a holy and life-affirming aura that harms abominations and the undead. At higher levels, this aura can also provide healing 
+powers for living creatures. 
+Novice Active. With a successful Resolute test the mystic envelops itself in an aura of holy energies that is harmful to abominations and undead. The target suffers 106 points of damage, ignoring Armor. This power affects all abominations and undead within sight of the mystic and is ongoing until the mystic fails a Resolute test or breaks con�centration. The mystic can exclude allied abominations or undead from the effect of theHoly Aura. 
+Adept Active. The aura now deals 108 damage to abominations and undead, while living creatures heal 104 points of Toughness each turn. Master Active. Same effect as at adept level, but the effect against abominations and undead is increased to 1010. Living allies now heal 106 points of Toughness each turn. 
+ILLUSORY CORRECTION Material: A shard of a mirror. 
+There is a gap between the world and the percep�
+tion of it. The mystic can use this gap to evade a 
+potentially horrible fate or to make alterations to 
+the flow and perception of reality. 
+Novice Reaction. The mystic can make a Resolute test once per turn to make a correction of reality -if successful the mystic may re-roll a failed Defense test. 
+Adept Reaction. Once per turn, the mystic can make a Resolute test in order to correct something that happened to him or her. This means that any test that somehow affected the mystic can be re-rolled. Master Reaction. Once per turn, the mystic can make a Resolute test in order to correct re�ality for someone else. This means that any one test that affected the intended target in any way may be re-rolled. 
+INHERIT WOUND 
+Material: A splash of blood. The mystic has closely studied the spirits of creation and death, and can use this knowledge to redistrib�ute damage between itself, its allies and its enemies. 
+Novice Free. By making a successful die roll against Resolute the mystic can attract the spirits of damage from another creature. The tar�get heals 106 points of Toughness while the mystic suffers an equal amount of damage. 
+Adept Free. As novice, but the effect heals 108 points of Toughness and also draws any ongoing effects of poison and bleeding to the mystic. The mystic suffers half the damage (rounded up), both from wounds and any poison/bleeding. 
+Master Active. The target heals 108 points of Tough�ness while the mystic suffers half as much damage. The mystic may also pass the other half of the damage on to another creature in sight. The chosen target's armor is ignored and it cannot defend itself in any way. 
+LARVAE BOIL 
+Material: A handful of larvae. Drawing from the force of wrath the mystic can infuse an enemy's body with larvae that then start to eat their way out. Although it is loudly refuted by members of the court, persistent rumors say that this is how the hero king Ynedar met his demise. 
+Novice Active. The mystic plants larvae inside the body of its enemy, which then start to eat their way out. The poor target suffers 104 damage each turn, ignoring Armor. The effect is automatic the first turn and continues until the mystic fails a [Resolute.strong] test. 
+Adept Active. The larval growth inside the body deals 106 damage each turn, ignoring Armor. The effect continues until the mystic fails a [Resolute.strong] test. 
+Master Active. The larvae swarm inside the target's body and deal 108 damage each turn, ignor�ing Armor. The effect continues until the mystic fails a [Resolute.Strong] test. 
+LAY ON HANDS 
+Material: A holy symbol. The secrets oflife lay bare for the mystic and with them follows the coveted power of healing, often interpreted as a gift from whichever deity the mystic adheres to. 
+Novice Active. The mystic can through touch, and by passing a Resolute test, heal 106 points of a target's Toughness. This power also works on the mystic itself. 
+Adept Active. The mystic's healing hands now heal 108 points of Toughness and stop the ongoing effect of poisons and bleeding. 
+Master Active. The mystic can heal a creature within sight, healing 108 Toughness and halting the ongoing effect of poisons and bleeding. The mystic now heals 1012 points of Toughness when touching the target. 
+LEVITATE 
+Material: A handful of feathers. 
+The binding force of the world can be manipulated, 
+and with that insight the mystic has gained the 
+capability to levitate, using nothing but the power 
+of the mind. 
+Novice Active. With a successful Resolute test the mystic can soar over the battlefield, out of reach of melee weapons. The mystic can move a distance equal to one stride per turn while levitating. Ranged attacks and flying enemies remain a problem. The mystic stays floating in the air until the mystic breaks con�centration or the scene ends. If concentra�tion is broken the mystic falls to the ground and suffers 106 damage, ignoring any Armor the mystic might be wearing. 
+Adept Active. With a passed [Resolute.Strong] test the mystic can levitate an ally and let him or her soar over the battlefield out of reach of the enemies' melee weapons. The mystic can move the soaring ally a distance equal to one stride per turn while it is levi�tating. Ranged attacks and flying enemies remain a problem. The mystic's ally stays soaring in the air until the mystic breaks concentration or the scene ends. If concen�tration is broken the ally falls to the ground and suffers 106 damage, ignoring Armor. 
+Master Active. The mystic can make itself and a Chain of allies [Resolute.strong] soar over the battlefield, out of reach of melee weap�ons. The mystic can move both itself and any soaring creature a distance equal to one stride per turn while levitating. Ranged at�tacks and flying enemies remain a problem. The mystic and its allies stay soaring in the air until the mystic breaks concentration or the scene ends. If concentration is broken, they all float down to the ground without taking any damage. 
+MALTRANSFORMATION Material: A pupa or an egg. 
+The mystic has grasped that physical appearance 
+is a dynamic concept, and knows how to use that 
+insight to transform its enemies into weaker forms. 
+Novice Active. With a successful roll against Resolute the mystic can turn a target into a harmless beast (mammal or reptile, the mystic decides which). The target stays in that form until the mystic breaks concentra�tion or fails a [Resolute.Resolute] test. This test is made each turn on the mystic's Initia�tive. The harmless animal keeps the target's original Attributes but none of its abilities or powers and can neither attack nor use items. 
+Adept Active. The mystic no longer has to con�centrate to keep the Ma/transformation active; it is ongoing until the mystic fails a [Resolute.Resolute] test. Master Active. The mystic can trigger a Chain of Maltransformations. If the mystic succeeds in transforming one target, he or she may attempt to transform another one, and so on until a transformation attempt fails. The Ma/transformation is ongoing until the mystic fails a Resolute test, made each turn for each target. 
+MIND-THROW 
+Material: A glass pearl. 
+The mystic can use its mind to move and throw 
+loose objects, or even enemies. 
+Novice Active/Reaction. The mystic can actively hurl objects in the surrounding area as weapons or use them reactively, to block incoming attacks. The mystic will have to make a [Resolute.Quick] test to attack this way and deals 108 damage if successful. If an object is used as a temporary shield, make a [Resolute.AccurateJtest to block incoming physical attacks or a [Reso�lute.Resolute] test for magic projectiles. The object is destroyed after one hit, either dealt or blocked. 
+Adept Active. The mystic is capable of using the power of his or her mind [Resolute.Strong] to lift, and throw, an enemy. A thrown enemy lands a Movement Action away and suffers 108 damage. The enemy lands on its back, unless it makes a successful Quick test. 
+Master Active. The mystic can throw a Chain of ene�mies if succeeding with a [Resolute.Strong] test. The mystic starts with the first target 
+
+136 
+and keeps making tests until one fails. The thrown enemies land a Movement Action away and suffer 108 damage. The enemies land on their back, unless they make a suc�cessful test against Quick. 
+NATURE'S EMBRACE 
+Material: A fistful of soil. The deep soil of the world is a safe place for the mys�tic, just as the mountain rock may become a shelter. The mystic can sink into the earth and thereby avoid attacks from its enemies. 
+Novice  Active. The mystic is able to sink into the  
+earth if a successful Resolute test is made.  
+There, the mystic is invulnerable but also  
+unable to take any Actions. The mystic must  
+succeed with another Resolute test each  
+turn to remain in the safe bosom of the  
+earth. If the mystic fails the test, then he or  
+she is returned to the surface.  
+Adept  Active. The mystic can use mystical powers  
+on itself while in the earth and does not have  
+to test Resolute in order to remain there.  
+Master  Active. The mystic can move by using its  
+Movement Action to appear in a different  
+spot than where it first sank into the ground.  
+The mystic can also use powers on its allies  
+while in the earth, as well as see the allies  
+through the protective layers of soil.  
+
+PRIOS' BURNING GLASS 
+Material: A holy symbol. The mystic can focus the light ofits soul into a burn�ing ray, which damages most beings and destroys the unholy. 
+Novice Active. With a Resolute test the mystic steers the holy light towards a target, dealing 106 damage. The damage increases to 108 if the target is an abomination or undead. 
+Adept Active. With a successful Resolute test, the mystic can let the holy light pass over all en�emies in sight. The burning energy deals 108 damage, 1012 on abominations and undead. 
+Master Active. With a Resolute test the mystic can let his or her inner light shine over all nearby enemies, dealing 108 damage, increased to 1012 if the enemies are abominations or undead. The mystic can also stun all thoroughly corrupt and undead enemies for one turn if he or she succeeds with a [Resolute.Resolute] test. 
+
+
+M Y S T I C A L P OW E R S 15 
+REVENANT STRIKE 
+"lif.�
+
+Material: A weapon tainted by a Desecrating Rite. 1' 
+.........
+
+The mystic's weapon is touched by dark energies, which increases the damage dealt against living creatures. Worse, those slain will rise again, as walking corpses controlled by the sorcerer. Undead created by revenant strikes have the same statistics ' (
+'
+J . 
+
+as the dragoul (see page 230). The undead returns to its state of true death at the end of the scene. Many are the tasteless jokes uttered in regards 
+Novice Active. The sorcerer ignites a malicious flame to this collection of around its melee weapon, which then deals signs, recovered on a 104 additional damage till the scene ends. ruin at the forest edge 
+Adept Reaction. As novice, and creatures slain by near the town of Kastor. the Revenant Strike rise again the following turn, loyal to the sorcerer. 
+Master Free. As Adept, but the effect is activated as a free action and a hit deals + 108 damage, instead of+ 104. 
+SHAPESHIFT 
+Material: A bit of fur or skin from the beast in question. 
+The mystic's understanding of the essence of nature 
+makes it possible to take the form ofbeasts -a talent 
+that the snake witches of clan Gaoia are particularly 
+renowned for. 
+Novice Active. With a successful Resolute test, the mystic can take the form of a small beast (mammal or reptile); practical when wanting to escape or when scouting, but useless in combat. The mystic's Attributes remain unchanged but he or she may re-roll all Discreet and Quicktests (including Defense). Also, enemies do not get any Free Attacks against the mystic when in beast form, even if it withdraws from melee combat or hurries past an enemy. The mystic does not have to test Resolute to remain in beast form, but has to pass a Resolute test to change back. For the duration of the transformation, the mys�tic counts as a beast. If the mystic becomes the victim of powers that affect beasts, then it may choose to remain in beast form -and hence suffer the effect of the power -or revert back to its original form. 
+Adept Active. The mystic can assume the form of a battle beast (wild boar or wolf are most common). The beast form has the Attri�butes of the mystic but also gains the traits Armored (I) and Natural Weapon (I). 
+Master Active. The mystic can now assume the form of a truly imposing battle beast, gain�ing the traits Regeneration (I) and Robust (I) in addition to those gained at the adept level. 
+137 
+STORM ARROW  Master Active. As adept, but the mystic can make  
+Material: Arrows or crossbow bolts.  transformed creatures reveal their true  
+The mystic can ask the wind to lift and carry  form and then force them to maintain their  
+arrows towards its enemies. The barbarian witch  original form. A Resolute test is required to  
+Yagaba, a friend ofLasifor Nightpitch, sometimes  make a target maintain its original form.  
+demonstrates this power, and is rarely seen with� The test is made on the targets' Initiative  
+out a handful of black-feathered arrows floating  when/if they try to transform again.  
+by her side.  
+UNHOLY AURA  
+Novice Active. The mystic enchants a handful of  Material: An unholy symbol.  
+arrows (up to five) with a successful Reso� The mystic can surround itself with an aura of  
+lute test. The arrows then float next to the  unholy energies that harms living enemies but  
+mystic for the rest of the scene and can  heals abominations and undead.  
+be fired, once per turn, as a Free Action  
+(one arrow can be fired the same turn that  Novice Active. With a successful Resolute test  
+the power is activated). The arrows hit  the mystic can send out an aura of unholy  
+their target automatically. Any quality or  energies that harms both cultural beings  
+special ability that the arrow might have  and beasts. It deals 106 damage, ignoring  
+is added to the effect. The arrow normally  Armor. The aura affects all cultural beings  
+deals 106 damage.  and beasts within sight of the mystic,  
+Adept Active. The arrows are enchanted as above,  whether they are friend or foe, and remains  
+but in the hands of the adept mystic they  active until the mystic fails a Resolute test  
+now deal 108 damage. As a Combat Action,  or breaks concentration.  
+the mystic can send two arrows against  Adept Active. As novice level, but the mystic can  
+either the same target or two different  choose to exclude living allies from the  
+targets. If the mystic performs this Action,  effect of the Unholy Aura. The power is  
+then he or she cannot fire another arrow as  active until the mystic fails a Resolute test.  
+a Free Action.  Master Active. As adept, but the effect is increased  
+Master Active. The mystic can use a Combat  to 108 and any nearby allied abominations  
+Action to fire three arrows against one or  and undead heal 108 points of Toughness  
+separate targets. If the mystic performs this  due to the spell's unholy energies.  
+Action, then he or she cannot fire another  
+arrow as a Free Action.  UNNOTICEABLE  
+Material: A strip from a thin veil.  
+TRUE FORM  The mystic can remain undetected by subtly turn� 
+Material: A pupa.  ing the enemy's attention elsewhere.  
+The mystic has spent many long nights closely study� 
+ing lies and false guises, and is capable of making the  Novice Active. With a successful [Resolute.  
+surrounding world reveal its true nature.  Resolute] test, the mystic can fade from  
+one creature's perception. The mystic  
+Novice Reaction. With a[Resolute.Resolute]atest,  remains invisible to this creature until the  
+the mystic's clarity allows him or her to  mystic makes an attack or takes any kind  
+see through every illusion, transformation  of damage.  
+or any other effect within sight that hides  Adept Active. With a successful Resolute test,  
+the true form of things. Revealed illusions  the mystic can fade from the perception  
+disappear, while transformations remain  of all nearby enemies and remain invisible  
+intact, although the mystic can see what is  until the mystic makes an attack or takes  
+behind them.  any kind of damage.  
+Adept Active. With a[Resolute.Resolute]atest,  Master Active. With a successful Resolute test,  
+the mystic can make a Chain of creatures  the mystic can make itself as well as an ally  
+return to their true form. If the first attempt  fade from the perception of their enemies.  
+succeeds the mystic can make another at� The mystic and the ally remain invisible  
+tempt for the next creature, and so on until  separately and can be detected or remain  
+a test is failed. Nothing stops the creatures  hidden separately, until they make an  
+from transforming again, though.  attack or take any kind of damage.  
+139  
+
+WITCH HAMMER 
+
+Material: A melee weapon blessed with the ritual 
+Sanctifying Rite. 
+
+The mystic has learned to shroud its melee weapon with holy and blight-hating fire, just like the leg�endary Lightbringer Ofelya Attio. 
+Novice  Free. Holy fire encircles the novice's melee  
+weapon and deals 104 additional damage,  
+or 106 additional damage if the target is an  
+abomination or an undead. This effect is  
+active for the remainder of the scene.  
+Adept  Free. As novice, but the melee weapon now  
+deals 104 additional damage or 108 addi� 
+tional damage if the target is an abomina� 
+tion or an undead.  
+Master  Free. As novice, but the melee weapon now  
+deals 104 additional damage or 1010 addi� 
+tional damage if the target is an abomina� 
+tion or an undead.  
+
+Rituals 
+
+RITUALS ARE TIME-CONSUMING spells that take at least one hour to perform. If properly used, a ritual can be a powerful problem-solving tool. Each tradition has developed a variety of distinc�tive practices and it can be difficult for members of other traditions to acquire the knowledge of specific rituals. 
+Like powers, rituals can cause Corruption; first when they are learned and then each time they are used. Each tradition has developed their own way of handling Corruption that comes from the use rituals, just like with the Corruption originating from using powers. Independent mystics lack the appropriate schooling and are therefore in an especially tough spot when it comes to suffering Corruption from all forms of mystical practices. 
+BLOOD BOND 
+Tradition: Witchcraft 
+
+The corrupting effect of magic is of course well known to mystics. Sometimes the Corruption is a necessary price to pay in order to succeed with whatever task the mystic has undertaken. In the same way, the tainting of a familiar can be a neces�sary sacrifice for the mystic to be able to continue serving its people or its calling. 
+By using this bond ofblood, the mystic can share Corruption with its familiar. The mystic has to make a Resolute test whenever a Blood Bond ritual is attempted. A successfully performed ritual decreases the mystic's permanent Corruption by 104 points, and increases the familiars permanent 
+Table 8: Rituals 
+RITUAL 
+Blood Bond Borrow Beast Break Link Clairvoyance Command Confession Desecrating Rite Enslave Exchange Shadow Exorcism False Terrain Familiar Flaming Servant Fortune-telling Heretica's Trail Holy Smoke Illusion Judging Bonds Magic Circle Nature 's Lullaby Necromancy Oracle Patron Saint Possess Purging Fire Quick Growth Sanctifying Rite Sanctum Seven-league Stride Soul Stone Summoning Tale of Ashes Telepathic Interrogation Turn Weather Witch Circle 
+TRADITION 
+Witchcraft Witchcraft Wizardry Wizardry Theurgy Sorcery Sorcery Sorcery Theurgy Wizardry Witchcraft Wizardry Witchcraft Theurgy Theurgy Wizardry Theurgy Wizardry Witchcraft Witchcraft Theurgy Theurgy Sorcery Theurgy Witchcraft Theurgy Wizardry Wizardry Wizardry Witchcraft Wizardry Wizardry Witchcraft Witchcraft 
+Corruption by rn6. The familiar suffers all the usual signs of corruption. Should the familiar turn into an abomination the mystic loses control and is immediately attacked by its former companion. 
+The ritual costs one (1) Experience to perform, whether it is successful or not. The mystic cannot perform the ritual for someone else. 
+
+140 
+Christian Rimmi (Order #41720700) 
+BORROW BEAST 
+Tradition: Witchcraft 
+By performing this ritual the mystic can possess the body of a small beast and have full control over it for a long period of time. The mystic's body is in a trance during the duration of the ritual. The mystic's mind is thrown back to its own body if the borrowed body is harmed. The same happens if the mystic's body is harmed or exposed to some kind of powerful interference (like being shoved, drenched in water or affected by heat and smoke). 
+A mystic can manage to remain in this trance for 24 hours, after which the mind returns to its body. After this, Borrow Beast cannot be performed again for a time period which is as long as the previous trance lasted. 
+A mystic who performs Borrow Beast and lets its body rest inside a Witch Circle has no limitation as to how long it can maintain the trance, since the body gets all the nutrition it needs from the ground inside the circle. 
+BREAK LINK 
+Tradition: Wizardry 
+The mystic can break any current mystical links and bonds to an object or a person by trapping the target in a circle of mystical runes and making a successful Resolute test. The magic of the object is not affected but the target can no longer be reached with rituals like Heretic's Trailand Summoning. In addition, any mystical bonds that may have been created by people visiting the location are negated, which can be used to prevent others from using Clairvoyanceand Seven-league Strideto view or reach the location until they have visited the location again. Finally, Break Link can be used to cut the bond between a creature and a mystical artifact (see more on artifacts on page 186). 
+CLAIRVOYANCE 
+Tradition: Wizardry 
+By using this ritual the mystic can observe and listen in on a faraway location, provided that the mystic has personally visited that location before. People at that location with the Witchsight ability can realize that they are being watched if they make a successful [Resolute.Discreet] test. Clairvoyance is blocked by the rituals Sanctum, Sanctifying Rite and Witch Circle. 
+COMMAND CONFESSION 
+Tradition: Theurgy 
+The ritual forces a victim to truthfully answer a number of yes/no questions asked by the mystic. Each question requires a [Resolute.ResoluteJ test, and the ritual is disrupted as soon as a test fails. The mystic may not continue to interrogate the victim after that, at least not through the use of this ritual. 
+DESECRATING RITE 
+Tradition: Sorcery 
+The mystic desecrates a specific site, tainting it and in effect punishing those who try to affect it from outside. A desecrated location corrupts those who use rituals like Clairvoyance, Summoning or Heretic's Trail on it. The desecration gives 106 temporary Corruption to those who perform said rituals and if they persist in trying to get information with rituals they will also suffer 106 permanent Corruption. 
+Abominations (creatures belonging to the Abomination monster category) and the undead are drawn to desecrated areas and heal 104 points of Toughnessfor each hour they remain on desecrated ground. Even creatures that are only tainted by corruption, but have not transformed into true abominations, feel a strong attraction to desecrated areas and objects. 
+The Desecrating Rite can also be performed over a weapon, which is a requirement for the Revenant Strike power. 
+ENSLAVE 
+Tradition: Sorcery 
+The mystic can use this ritual to enslave a creature. The enslavement is linked to a slave rune, carved into the skin somewhere on the victim (usually forehead, chest or neck). 
+The slave rune and its effect can be revealed by someone using the Witchsight ability or the Holy Smoke ritual. 
+The power of the slave rune may be broken with either Break Link or Exorcism. It is also possible to physically remove the rune from the victim, but not without inflicting 106 points of damage and 104 points of permanent Corruption. The slave will fight to remain in slavery. 
+The creature is not controlled by the mystic in every detail, but it will obey the mystic blindly to the best of its ability. The slave can partially reflect upon its situation, cry when it acts against its old nature and so on, but can in no way resist the mystic's latest command. 
+EXCHANGE SHADOW 
+Tradition: Sorcery 
+The mystic can exchange its Shadow with that of another creature by making a successful [Resolute.Resolute] test: the mystic's Shadow looks like the creature's Shadow and vice versa. The 
+ritual is active for 24 hours and requires a link to the victim for the mystic to even be able to attempt the exchange: a lock of hair, a splash of blood or an item which is important to the target. The target does not notice the switch but those who can see Shadows can of course perceive it (or be tricked by it). Exchange Shadow can be negated by Break 
+Linkor Exorcism. 
+EXORCISM 
+Tradition: Theurgy The mystic can banish a spirit possessing a creature or person. The mystic gets three attempts to succeed with a {Resolute.Resolute] test; the test's resistance being the Resolute of the possessing spirit. It only takes one successful test to banish the possessing force. If all three tests should fail, the spirit pos�sesses the mystic instead. 
+FALSE TERRAIN 
+Tradition: Wizardry The mystic can weave an illusion over a location and completely hide what is truly there. Any creature that comes close can see through the illusion with a successful {Resolute.Resolute] test. Any creature that either touches or passes through the illusion will, of course, automatically see through the deception. The illusion remains, even if revealed, but fades over time, if not maintained monthly by someone renewing the ritual. 
+FAMILIAR 
+Tradition: Witchcraft The mystic binds itself to a beast. This beast is not much smarter than others of its kind, but is fiercely loyal to the mystic and the bond between them is made up of mystical energies -they are soul mates. The spiritual bond is so strong that the two can communicate telepathically; the mystic can command the familiar from a distance and also 
+FAMILIAR 
+A familiar starts with the following statistics, or something similar depending on what seems suitable for the character's bestial friend: 
+Traits Armored (I),Natural Weapon (I) 
+Accurate 11, Persuasive 5, Cunning 7, Discreet 9, Quick 13, Resolute 10, Strong 15, Vigilant 10 
+Weapons  Tusks 106 (short)  
+Defense  13t(Dodge)  
+Armor  Animal skin 104 (flexible)  
+Toughness  15  Pain Threshold  8  
+
+experience whatever the familiar perceives with its senses. The depth of this union also makes it possible for the two to share wounds. If the familiar is wounded the mystic can choose to suffer half of the damage, or if the mystic is wounded half of the damage can be transferred to the familiar. The player decides when damage should be shared in this way. There is also a downside to the mystical bond: should the familiar die the mystic suffers m8 points of damage, ignoring Armor. 
+The familiar is managed by the player as if it was an additional character. It gains Experienceas a player character, but loses it if it dies (no death tests allowed). 
+FLAMING SERVANT 
+
+Tradition: Wizardry The mystic awakens a fierce fire creature and binds it to a suit of metal (medium or heavy armor). The servant then walks by the mystic's side like a smol�dering and steaming bodyguard, which flares up and turns into a burning warrior in battle. The mystic can only have one Flaming Servant bound to itself at any time, and if the Flaming Servant perishes in battle, then the suit of armor needs to be repaired by a blacksmith in order for the ritual to be placed on that same armor again. 
+The Flaming Servant is handled by the player as ifit was an additional character. It gains Experience as a player character, but loses it ifit dies (no death tests allowed). 
+FLAMING SERVANT 
+
+A Flaming Servant starts with the following statistics: 
+Accurate 13, Persuasive 5, Cunning 7. Discreet 9, Quick 11, Resolute 10, Strong 15, Vigilant 10 
+Weapons  Burning sword 108  
+Defense  9 (Shield)  
+Armor  Smoldering scale mail 106  
+(impeding)  
+Toughness  15  Pain Threshold  8  
+
+FORTUNE-TELLING 
+
+Tradition: Witchcraft With a successful Resolute test, the mystic may ask a yes/no question regarding the adventure. Fortune�
+telling can only be done once per adventure, and further attempts are only possible when something major has come to pass, potentially changing the 
+future (the Game Master decides if such an event has occurred). 
+142 
+143 
+
+The Chapter Circles of Ordo Magica 
+Each chapter of Ordo Magica keeps a magic circle and these are more or less always manned by a bored and/or studying novice, making it possible to always reach the chapter telepathically. 
+Magic circles are the only place where a Seven-league Stride can land, but there are also other criteria to be met (see Sev�en-league Stride). 
+A Telepathic Interrogation can be done 
+through a magic circle, which is one of the reasons why wizards are generally reluc�tant to overuse telepathic communication, especially with mystics that they do not know very well. Even with trusted col�leagues transmissions are kept as short as possible -on the crowded career ladder of 
+Ordo Magica there is no room to give even a close friend any competitive advantage, if you can avoid it. 
+Magic circles must be made physically manifest and can be destroyed by ruining the circle's physical form. The circles of Ordo Magica are usually chiseled into the stone floor and are then inlaid with silver, and yet such a circle can be destroyed in a minute if one has the right tools. It is fully possible to form a temporary circle of sand, but it is easily destroyed by just a couple of careless steps. 
+HERETIC'S TRAIL 
+
+Tradition: Theurgy With a successful Resolutetest the mystic cantrack an abomination or a taintedcreature that the mys�tic has met personally. The tracking is impeccable until the blighted one crosseswater -ifitdoes,the ritualmustbeperformedagain on the farside ofthe stream. Should the test fail, the mystic cannot try again until the next day. Also, it is harder to track blight-strickencreatureswithinlargersettlements and in Davokar, giving the mystic a second chance of failing the test;the player mustroll twice and if one of those fails, so does the ritual. 
+HOLY SMOKE 
+
+Tradition: Theurgy The mystic can reveal blight-stricken persons or creatures byusing incense and making a success�ful Cunning test. The smoke spreads among those present and gathers around objects andcreatures in relation to how corrupted they are: the closer the smoke gathers, the more tainted the creature in question is. The Game Master clearly states if objects or creatures are blight-stricken, blight�marked or thoroughly corrupt. 
+Holy Smoke can be countered by the Exchange Shadow ritual. 
+ILLUSION 
+
+Tradition: Wizardry The mystic creates a false image. This image can move andspeak butdissolves iftouched by intelli�gent creatures. The image is completely real until then;itboth sounds,smells andappearsdangerous. Yet,the image can neitherharm nor affect physical objects. The Illusion can only perform simple tasks such as guarda location or go towards a village and howl. The effect is active for one scene or one hour if not dissolved before then. 
+JUDGING BONDS 
+Tradition: Theurgy Themystic lets pacifyinglightflowthrough chains or shackles holding a person. This prevents the shackled person from using mystical powers and traits that require a Resolute test. The light evaporates from the shackles over time, so the effect must be maintained by a renewed ritual each month. 
+MAGIC CIRCLE 
+Tradition: Wizardry The mystic establishes a permanentmagical circle which can be used to communicate telepathically withpersons in other known magical circles. Only mystics with the Magic Circle ritual can initiate telepathic communication with anothercircle, but anyone can receive such a transmission. 
+The mystic needs not have visited these other circles to be able to communicate with them, but must know with certainty that there is another circle at a specific location to be able to reach it. Theremust also be a person in thereceiving circle for communication to be possible. All who stand within a receiving Magic Circle are aware of and may participate inthe communication; one cannot discriminate between recipients. 
+NATURE'S LULLABY 
+Tradition: Witchcraft By making a successfulResolutetest the mystic can sing an aspect of dark Davokar to sleep, and can therefore pass by a specific abomination without itreacting -the mystic andits allies becomesmore or less invisible to the blighted creature. 
+If the mystic or its allies behave aggressively, then the effect of the ritual is broken. The same happens if the mystic stops singing, to use a mys�tical power for example. 
+
+144 
+NECROMANCY 
+Tradition: Witchcraft The mystic can ask a dead person a number of questions, either by sitting next to its body (just a skull will do, as well) or its grave. Each question demands a successful Resolutetest, and the dead answers either 'yes' or 'no' by knocking: one knock for 'no' and two for 'yes'. In the case of a failure the mystic can still try to force an answer from the dead, but at the risk of becoming possessed by the spirit; roll [Resolute.Resolute]. If the test is failed the mystic becomes possessed and is forced to perform the last wish of the dead, often ofa vengeful nature. 
+ORACLE 
+Tradition: Theurgy A successful roll against Resolute allows the mystic to ask an open question about the future of the ongoing adventure. This ritual can only be used once per adventure, regardless of what happens. The Game Master's answer must be truthful, but not necessary easily interpreted or too revealing. 
+PATRON SAINT 
+Tradition: Theurgy The mystic is accompanied by a guardian spirit, the soul of a fallen Templar given the mission to once again serve one of the Sun God's chosen. The martyr man�ifests as a warrior oflight that normally is invisible but starts to shine when danger is close, and protects its ward until its second death. Only one Patron Saint can be bound to a mystic at a time, and should the saint be defeated a new one must be summoned. 
+A Patron Saint is handled by the player as if it was an additional character. It gains Experienceas a player character, but loses it if it dies (no death tests allowed). 
+PATRON SAINT 
+A Patron Saint has the trait Spirit Form (I), and 
+starts with the following statistics: 
+Accurate 13, Persuasive 5, Cunning 7, Discreet 9, Quick 15, Resolute 10, Strong 11, Vigilant 10 
+Weapons Flail of light 106 
+Defense 15 (Dodge) 
+Armor Half damage (see Spirit Form I) 
+Toughness 11 Pain Threshold 6 
+POSSESS 
+Tradition: Sorcery By performing this ritual, and making a successful 
+[Resolute.Resolute] test, the mystic can possess a creature's body and control it completely for a limited time (up to 24 hours). The ritual requires a link to the victim for the mystic to even be able to attempt the possession: a lock of hair, a splash of blood or an item that is important to the intended victim. The victim recalls everything that happens during the possession, but sees these events more as a surreal dream than an actual memory. The victim cannot be made to commit suicide while possessed, but can otherwise be made to go against all its principles. 
+The possession can be observed as a change in the Shadow, as the victim gains the Shadow of the mystic. The possession can be broken by either ExorcismorBreak Link. If done by using Exorcism,the mystic cannot possess the same creature ever again. 
+The mystic's own body remains in a trance during the possession. If the borrowed body is killed during the possession then the mystic's mind and spirit are thrown back into its own body. The same happens if the mystic's body is harmed or exposed to some kind of powerful interference (like being shoved, drenched in water or affected by heat and smoke, etc.). 
+PURGING FIRE 
+Tradition: Theurgy Corruption is extra dreadful to theurgs, since it represents the foremost proof of the power of darkness. Most theurgs do their utmost to not be tainted by Corruption, and should they fail they can always learn the ritual called Purging Fire. 
+When performing the ritual, the mystic prepares itself with song and prayers before climbing onto a burning pyre to cleanse its body of Corruption. For each turn the theurg stands in the fire, it suffers m6 damage, and if a [Resolute -Damage] test is passed, one (1) point of permanent Corruption is removed. If the test fails, the mystic throws itself from the pyre and the ritual is interrupted. 
+Performing the ritual costs one (1) point of Experience, whether it is successful or not. The mystic cannot perform the ritual for someone else; only he or she who performs the ritual may benefit from the purifying effect. 
+QUICK GROWTH 
+Tradition: Witchcraft The mystic can have a seed grow into a full sized plant by using this ritual. The form of the plant is partially under the control of the mystic, and a tree can become a bridge or smash a gate to splinters. However, the mystic has no control over the sea�sons; the plant takes the form that it naturally has during the current season. The location where this 
+On Patron Saints 
+Patron Saints cannot be equipped with other weapons and armor from the start. If the saint uses its experi�ence to gain an Ability related to some kind of weapon the Light Flail transforms accordingly. 
+Companions in Combat 
+When an encounter or combat scene suggests a quantity of opponents based on the number of player chatracters (e.g. [PC+2] Robbers), companions such as a Familiar, Flaming Servant or Patron Saint should be counted among the characters. This also pertains to longstanding NPCs who are effectively members of the adventuring party (e.g. guides, expedition leaders, hired sells�words), so long as they are equipped to affect the outcome of the 
+fight. 
+
+seed is planted must meet the conditions required for the plant to grow to full size under natural circumstances. In other words, an oak cannot be planted in a dark cave without light and soil, but maybe vines can take root there and grow into lianas for people to climb. 
+In a Witch Circle created by the same mystic, the ritual Quick Growth can be performed regardless of the season. 
+SANCTIFYING RITE 
+Tradition: Theurgy 
+The mystic sanctifies a location, thereby shielding it from outside mystical influence. A sacred loca�tion blocks rituals like Clairvoyance, Summoning, Heretic's Trail and the like, but should any of these rituals be tracking or hunting a person the block is gone as soon as the person leaves the sacred area. 
+Abominations (creatures that are members of the Abomination monster category) feel sick when getting close to an area that has been sanctified, and suffer 104 damage that ignores Armor each turn they remain on holy ground. Creatures that are tainted but have not yet turned into a true abomination experience a strong discomfort when around sacred locations and objects. 
+Sanctifying Rite can also be performed over a weapon, which is a requirement for the Witch Hammerpower. 
+SANCTUM 
+Tradition: Wizardry 
+The mystic can use this ritual to cover a loca�tion (one large or a couple of smaller rooms) in a magical shroud, making it impossible to peek inside or disturb it from outside with mystical powers. Sanctum blocks the effect oftrituals like Clairvoyance, Summoning or Heretic's Trail, but should any of these rituals be tracking or hunting a person the block is gone as soon as the person leaves the Sanctum. 
+If there is a Magic Circle within an area affected by Sanctum (regardless of which was there first), then no one but the mystic who performed the Sanctum can use the circle for communication or for the purpose of performing a Seven-league Stride. 
+SEVEN-LEAGUE STRIDE 
+Tradition: Wizardry 
+The mystic can create a temporary magic circle and use it to teleport itself and one of its allies standing in the circle to another Magic Circle that is well known to the mystic. A circle is considered known when the mystic has visited its location and taken some time to study it. 
+SOUL STONE 
+Tradition: Wizardry 
+
+Corruption was never a problem to wizards before The Great War, since their meticulous practices protected them from blackening their souls. During desperate moments of the war, the battle mages of Ordo Magica took increasingly greater risks in the name of necessity and thereby brought Corruption upon themselves. To counteract this evil they dusted off an ancient and shunned ritual, by which one can capture the soul of a dying creature in a crystal prepared for the purpose. That same ritual proved to work well in order to drain Corruption from a wizard and transfer it to the soul in the stone. 
+The ritual binds the mystic to the crystal, which then works as an extension of the wizard's soul. The ritual allows the mystic to move 104 points of permanent Corruption to the soul stone with a successful Resolutetest. The stone can hold up to half of the mystic's Resolute in Corruption; it darkens as it fills up and detonates if said limit is surpassed. The collected Corruption then rushes back to the mystic, often with a rather nasty result. In the unlikely case that he or she survives that wave of Corruption, it is possible for the mystic to bind itself to a new soul stone and start over. 
+The ritual costs one (1) point of Experience to perform, whether it is successful or not. A wizard that manages to learn the ritual receives a soul stone from its order chapter; other mystics must pay their own way. To buy a soul stone costs 100 thaler. 
+SUMMONING 
+Tradition: Witchcraft 
+
+The mystic summons a creature by making a suc�cessful Resolutetest. The creature must then make its way to the location of the summoning. The mystic must have something in its possession related to the summoned creature, either an object of great value to the creature, or an actual part of it, such as a drop of blood or a lock of hair. 
+The summoned creature will try to reach the location to the best of its abilities but does not necessarily know why it wants to go there, other than following an irresistible calling. The only way to protect a creature that has been summoned is to trick and lure it to step inside a mystically shielded area (the Sanctifying Rite, Witch Circle or Sanctum rituals) or use the Break Link ritual. 
+TALE OF ASHES 
+Tradition: Wizardry 
+
+The mystic can read the ashes of a burnt object and thereby discern what the object once was and what happened when it burned -the mystic experiences A lone and broken pillar standing on the island of Hael in the south of Lake Volgoma carries this inscription, believed to tell of the escape from something called 
+"Symbaroum's Bane�: all impressions from the fire, sees who was there and hears what was being said. A campfire can have much to tell about what happened around it. 
+TELEPATHIC INTERROGATION 
+Tradition: Wizardry 
+The mystic can stretch out its mind and read thoughts. The mystic can receive an answer to a yes/no question from the victim's subconscious by making a successful [Resolute.Resolute] test. A failed test severs the telepathic connection and no further attempts can be made with that creature during the adventure. The mystic must touch its victim, and the victim can notice the mind-reading if the mystic fails a [Discreet.Vigilant] test. Of course, a helpless and bound victim can do nothing to stop this, but other victims will react. Sleeping victims wake up if the test fails. 
+TURN WEATHER 
+Tradition: Witchcraft The mystic alters the local weather as he or she sees fit. Fog that obscures one's view, storms that prevent trips or the calming of such storms are all possible to achieve. The ritual takes one hour to perform and the effect remains active for half a day; after that the local weather returns to its natural form. 
+WITCH CIRCLE 
+Tradition: Witchcraft The mystic breathes new life into a beautiful loca�tion and turns it into a witch circle. Witch circles are protected from prying eyes and influences from outside, and the mystic has more or less complete control over what happens within the circle. The mystic decides how things grow and which season it is within, and can with the Quick Growth ritual create an environment to mirror its heart's delight. 
+It is hard to find a Witch Circle, even if you know where to look for it. It requires a [Vigilant.Discreet] test to even see the circle if encountered in the wilderness. Creatures that do not see the circle will simply walk around it, without knowing they have taken a short detour. 
+A mystic with both the Witch Circle ritual and the Alchemy ability can make an extra attempt at Alchemy tests when using the ability inside its circle. A mystic with Quick Growth, Witch Circle and Alchemy can make two extra attempts when using Alchemy. 
+A mystic who performs Borrow Beast and lets its body rest inside a Witch Circle has no limitation as to how long it can maintain the trance, since its body gets all the nutrition it needs from the ground inside the circle. 
+NO CHARACTER 1s COMPLETE until he or she is equipped with weapons, supplies and alchemical elixirs. This chapter starts with a description of weapons, armors and their respective qualities, and after that follows a collection of general goods that the characters may need during their adventures. The cost of living is also covered, as well as prices and compensations for common services in Ambria. 
+Weapons 
+EACH WEAPON DEALS a certain amount of basic damage to the target's Toughness, indicated by a specific die. Some weapons also have qualities that affect how they are used. Furthermore, some abilities can make it possible to use a weapon in other or more refined ways. In these cases, it is important to read the description of the ability thoroughly, to know exactly what the weapon can do in the hands of an experienced character. 
+HEAVY WEAPONS 
+Damage: 1010 
+Qualities: None. The Bastard Sword is Precise, the 
+Double Axe has the Deep Impact quality, the Heavy 
+Flail is Jointed. 
+Heavy weapons are distinguished by the fact that they have to be wielded with two hands in order to be used effectively. They have a superior damage effect in melee combat. Pole axe, war hammer and the mighty great sword are all examples of heavy weapons common in the Davokar region. 
+Bastard Sword: The master smiths of the Pansars forge the finest weapons in Ambria, and the bastard swords of the Queen's Guard are an exquisite testament to that fact, at least when wielded by the right warrior. The weapon is pref�erably handled with both hands (as a heavy weapon) but can also be used single-handedly with a shield. When wielded with just one hand, the bastard sword loses the Precise quality and instead deals damage like a single-handed weapon. 
+Double-axe: The barbarian double-axe (not to be confused with the more common pole axe with its single-edged axe head) is aptly named after its twin axe heads and is presumed to be a legacy from the fallen Symbaroum. In those days the double-axe was a weapon as well as a symbol of status and standing. Even though the knowl�edge of metallurgy has dwindled since the fall of 
+Symbaroum these powerful weapons can still be forged, often made for particularly prominent warriors. Ambrians consider the double-axe crude and savage, fit for barbarians and few else, but its shape is well known because of its similarity to the royal rune, Labrys. 
+Heavy Flail: The heavy flail is a Jointed weapon, where a metal ball -often spiked -attached to a two-handed shaft by a chain is swung against the enemy. It is not easy to parry a flail since the metal ball often strikes around the parrying weapon or shield to find its target. 
+The heavy flail comes in a number of shapes, like the traditional wooden two-handed shaft attached to a chain that ends in a spiked metal head. There are also variants with spiked pieces of metal that are linked together, as well as models where two or three chains and metal heads share the same shaft. Regardless of design, they all share the weight of the flail and the fact that they are difficult to block. 
+LONG WEAPONS 
+Damage:e108 Qualities: Long. The Halberd has Deep Impact. the Pike is Precise, and the Quarterstaff is Blunt 
+Long weapons have the advantage of superior reach and give the user Free Attacks against enemies that are not armed with Long weapons themselves. A Long weapon can be used in one hand, but then loses the Long quality since the user is forced to hold it higher up on the grip to control the weapon. Spear and staff are examples of Long weapons. 
+Halberd: The halberd, known as the pole axe among barbarians, has elements of both the Long and the Heavy weapon since it is combining the point of a spear with the head of an axe. It cannot thrust as quickly as the spear, but its sweeping chop can have a devastating effect. 
+Pike: The slender shaft and fire-tempered steel point of the Ambrian pike slides towards the target with great precision. 
+Quarterstaff: The simpler wooden staff, often made from heavy wood that has been hardened with fire, has the reach of a Long weapon but lacks the effect of steel-tipped weapons. 
+Table 9: Weapons 
+WEAPON 
+
+Heavy Weapon Bastard Sword, two-handed Double-axe Heavy Flail 
+Long Weapon Halberd Pike Quarterstaff 
+Projectile Weapon Crossbow Arbalest Bow Longbow 10 arrows or bolts 
+Single-Handed Weapon Crow's Beak Fencing Sword Flail 
+Shield 
+Buckler 
+Steel Shield 
+Short Weapon 
+Parrying Dagger 
+Stiletto 
+Throwing Weapon 
+Spear Sling 
+Unarmed Attack 
+Battle Claw 
+DAMAGE 
+1D10 
+1010+1 
+1D8 
+108+1 
+106 
+1010 1010+1 108 
+1D8 
+108+1 
+1D4 
+1D6 
+106+1 
+1D6 
+106+1 
+1D4 
+104+1 
+QUALITY  COST  
+lOethaler  
+Precise  50 thaler  
+Deep Impact  50 thaler  
+Jointed  50 thaler  
+Long  lthaler  
+Deep Impact  15athaler  
+Precise  15athaler  
+Blunt  !shilling  
+8thaler  
+Deep Impact  40athaler  
+5thaler  
+Precise  25athaler  
+1 thaler  
+5thaler  
+Deep Impact  25athaler  
+Precise  25athaler  
+Jointed  25athaler  
+lthaler  
+Flexible  15athaler  
+Balanced  15athaler  
+Short  1 thaler  
+Balanced  5thaler  
+Deep Impact  5thaler  
+2 thaler  
+Deep Impact  l0athaler  
+Short  
+Deep Impact  1 thaler  
+
+
+Where Ambrians prefer the sword the barbarian warrior favors the axe. 
+PROJECTILE WEAPONS 
+Damage: Crossbow 1010, bow 108, sling 106 
+Qualities: The Arbalest has the Deep Impact quality 
+and the Longbow is Precise. 
+Projectile weapons are meant to be used over greater distances and need some time to reload. 
+The crossbow is loaded with bolts, the bows fire arrows and slings throw sharpened rocks. A cross�bow requires a Movement Action to be reloaded, while reloading a bow or a sling counts as a Free Action. Bow, crossbow and sling are all examples of projectile weapons. 
+Arbalest: The arbalest is a heavy Ambrian crossbow with a bow oftfeather steel, which gives its bolts a bit of extra punch. 
+Longbow: The longbow is a reliable and proven weapon in the Ambrian army, and since The Great War it is often carried by farmers who make up the backbone of the kingdom's archer companies. 
+SHIELDS 
+
+Armor: Providest+ 1 in Defense 
+Qualities: None. Bucklers are Flexible, Steel Shields 
+are Balanced. 
+
+Shields make it difficult to hit the wielder with 
+melee, as well as ranged, attacks. They are often 
+combined with a single-handed weapon, or with a 
+single-handed weapon and a number ofadditional 
+throwing weapons. 
+
+Buckler: The buckler is a small shield commonly carried by elite archers and pikemen, since it is agile enough to be strapped to the arm while still allowing the use of both hands to wield a weapon. The Buckler is too light to be used with the Shield Fighter ability. 
+Steel Shield: The steel shield is as strong as the common wooden shields, but both thinner and more easily maneuvered. 
+SHORT WEAPONS 
+Damage:t106 
+
+Qualities: Short. The Parrying Dagger is Balanced 
+and the Stiletto has the Deep Impact quality. 
+Short weapons can be drawn quickly and are easily 
+hidden. Daggers and short swords are examples of Short weapons. 
+Parrying Dagger: The parrying dagger, with its wide and v-shaped cross-guard, has become very popular in Yndaros, and is often wielded together with a fencing sword. 
+Stiletto: The slender and agile stiletto is a dagger whose razor sharp point stabs deeply -the weapon of an assassin. 
+SINGLE-HANDED WEAPONS 
+Damage:t108 Qualities: None. A Crow's Beak has the Deep Impact 
+quality, a Fencing Sword is Precise, a Flail is Jointed. 
+The category of Single-handed weapons covers all kinds of weapons that can be wielded in one hand. Axe, saber, sword and war hammer are all examples of single-handed weapons. 
+Crow's Beak: A less elegant, but just as effec�tive weapon is the Crow's Beak, also known as a Kandarian War Pick after the city in Alberetor where it was first forged. The Crow's Beak is a club whose metal head is fitted with a spike or a beak of steel, in order to punch through armor more easily. After the escape to Yndaros, the smiths of the Kandarian War Pick settled down in the district of Old Kadizar where they have continued to craft their dreaded weapons. 
+Fencing Sword: In Yndaros, the Ambrian fenc�ing sword is considered to be of the highest fashion, an instrument with superior precision made from strong but flexible steel. It is often combined with the duelist's favorite, the parrying dagger, which gives the lightly armored fighter a stronger defense in combat. 
+Flail: The single-handed cousin of the heavy flail. 
+THROWING WEAPONS 
+Damage:t106 Qualities: None. Spear Sling has the Deep Impact 
+quality. 
+Throwing weapons are hurled single-handedly over short distances. They are usually used before melee combat is initiated, and are therefore often combined with a shield. Throwing axe, throwing knife and throwing spear are all examples of this weapon group. 
+Spear Sling: The barbarians of eastern Davokar, and especially the members of clan Karohar, prefer the use of spear slings -a throwing arm with a hook that is attached to the end of a short spear in order to throw it with tremendous force. 
+UNARMED ATTACKS 
+Damage:t104 Qualities: Short. The Battle Claw has the Deep 
+Impact quality. 
+Unarmed attacks are usually used as the last resort of cultural beings and are less effective than the natural weapons of beasts and abominations in almost all respects. Yet, with the Natural Warrior ability even an unarmed character can inflict 
+
+150 
+Christian Rimmi (Order #41720700) 
+considerable amounts of damage to its enemies. An elbow, a bite, a punch, a head-butt, a kick as well as the use of brass knuckles are examples of Unarmed Attacks. Battle Claw: The clan Karohar in southern Davokar has developed a clawed gauntlet that you wear on your hand and whose long claws simulate those of a mare cat.  
+Armor  
+EACH SUIT OF ARMOR provides a certain amount of protection, indicated by a specific die. Some armor also has qualities that affect how the armor works mechanically. Just like weapons, different cultures have developed a number of diverse kinds oftarmor, all with their respective advantages and disadvantages.  
+LIGHT ARMOR Armor:e104 Qualities: Impeding (-2). Many kinds of light armor have the Flexible quality, wolf skin armor has the Cumbersome quality.  
+Light armor is easy to come by and does not limit the wearer's capabilities substantially in acrobatic situations or when performing stealthy maneuvers. Yet it has a negative effect when using mystical powers. Hardened, ring and studded leather are all examples oftlight armor. Blessed Robe: The priest robes of the theurgs are blessed and protected by benevolent forces so that the Church's finest can travel safely throughout the kingdom, and beyond. Order Cloak: Most novice mag es of Ordo Magic a are given a protective cloak in time for their first  
+Table 10: Armor  
+ARMOR  PROTECTION  QUALITY  COST  
+Light  1D4  Impeding (-2)  2 thaler  
+Blessed Robe  Flexible  lOthaler  
+Order Cloak  Flexible  lOthaler  
+Witch Gown  Flexible  lOthaler  
+Wolf Skin  Cumbersome  1 thaler  
+Woven Silk  Flexible  lOthaler  
+Medium  1D6  Impeding (-3)  Sthaler  
+Crow Armor  Cumbersome  2 thaler  
+Lacquered Silk Cuirass Heavy  1D8  Flexible Impeding (-4)  25thaler lOethaler  
+Full Plate  Flexible  50thaler  
+
+long journey. These cloaks are embroidered with warding runes, which increases the chance of the novice surviving to complete its appointed task. 
+Witch Gown: Witches bind protective spirits in carved pieces of bone and the skulls of fallen enemies, and attach them to their clothing for effective protection. 
+Wolf Skin: For poor barbarian scouts the cheap, cumbersome wolf skin armor is a common alternative; skin that has been tanned in the most simple way and sewn together into some kind of passable protection. 
+Woven Silk: Woven silk is the finest light armor available, since the close weave of its threads with�stands stabs and cuts far better than its weight suggests. Woven silk has been used by both bar�barians and Ambrians for a long time and some scholars speculate that the technique originally comes from the elves, possibly dating as far back as the days of the Iron Pact. 
+MEDIUM ARMOR 
+Armor:e106 
+Qualities: Impeding (-3). Some have the Flexible 
+quality; Crow Armor has the Cumbersome quality. 
+Medium armor offers better protection than the light versions but at the cost of being more restrictive to the wearer's movements. However, this downside is considered an acceptable trade-offby most melee combatants. Scale-and chainmail are examples of medium armor. 
+Crow Armor: Medium armor is more expensive than light, which is the reason why many warriors have picked, riveted and bound together a so-called "Crow Armor" of their own. It is cheap, but far more difficult to move around in. 
+Lacquered Silk Cuirass: Barbarian warriors that have earned their place in the guard of a wealthy clan chieftain can sometimes be seen wearing a cuirass oflacquered silk, an armor that despite its apparent lightness protects like a breast plate. According to legend, the secret oflacquered silk was given to humankind by the elves, in a time when the Iron Pact was still strong and humans battled the parasitic darkness ofSymbaroum. 
+HEAVY ARMOR 
+Armor:e108 
+Qualities: Impeding (-4), Ambrian Full Plate has the 
+Flexible quality. 
+Those melee combatants that can afford it usu�ally chose increased protection at the cost of even greater restrictions to their movement. A self-respecting knight wears chainmail enforced by shoulder, knee and elbow plates, while those with the means tend to order themselves a personalized set oftfull plate armor. 
+Full Plate: Personalized full plate armor is available for those of sufficient means, and offers the best protection available with less restriction than many other kinds of heavy armor. 
+.alities 
+WEAPONS AND ARMOR have different qualities, described in the following. If the description of a quality ever comes into conflict with the rules of an ability, then the ability overrules the quality. 
+FLEXIBLE 
+The armor is unusually flexible and is less Impeding than its protective capability would suggest. For this reason a Flexible light armor has no penalty at all on Defense tests, sneaking and the use of mystic powers. A Flexible medium armor has a (-1) penalty and a Flexible heavy armor (-2). 
+A Flexible shield can be carried strapped to the arm, ready to use, while at the same time allow�ing the bearer to use both hands for wielding a Long or Heavy weapon. Even ranged weapons can be used without problem together with a Flexible shield. 
+BALANCED 
+The weapon is so well balanced that it is extra effective when parrying. The weapon provides +1 in Defense. 
+BLUNT 
+The weapon lacks either cutting or piercing abil�ities, and therefore uses one (1) Effect Die lower than other weapons of its kind. The quarterstaff, a Long weapon with the Blunt quality, deals 106 damage instead of 108, which is the usual damage for long weapons. 
+CUMBERSOME 
+It is difficult to move around in this armor and its Impeding effect is therefore one point higher than usual; a Cumbersome light armor has a penalty of (-3), a medium of (-4) and a heavy of (-5). 
+DEEP IMPACT 
+The weapon has qualities that makes it even more deadly. Maybe its blade can pierce armor more easily or the weapon itselfis so massive that it gets extra crushing power. Either way, the weapon deals +1 extra damage. 
+152 
+Whatdoyou get for a thaler, a shilling, an orteg? 
+A THALER 
+A simple weapon or an even simpler suit of armor, or a common tool such as a scythe, or a cow, a pig, a dozen chickens or half a dozen sheep. 
+A SHILLING 
+A meal and the most simple of lodgings in a city or town. 
+ANeORTEG 
+A meager meal in a town, a meal and a place on a hayloft in the countryside. 
+IMPEDING 
+The armor hampers any agile movements and gives a penalty to tests against Defense,sneaking and the use of mystic powers. The penalty depends on whether the armor is light (-2), medium (-3) or heavy (-4). 
+JOINTED 
+The weapon is jointed, letting the head of the weapon strike past or around blocking weapons or shields, making it harder to parry. The length of the chain also makes the attacks difficult to evade. Even if a parry is successful, the attack hits if the die lands on an odd number; in which case the weapon deals 106 damage. This secondary damage is not affected by any abilities -it remains 106 regardless of the attacker's other abilities. 
+Example: Grumpa defends herself against an attack from an enemy armed with a flail, a Jointed weapon. Her Defense is 6 and she rolls a 5, which should have been a successful parry -but Jointed weapons still hit on an odd number. Grumpa takes damage, though less than normal and none of the enemy's abilities can affect the damage, not even the passive ones. In the next turn, Grumpa is defending herself again and rolls 
+4. This defense is successful, since the result of her Defense test was an even number. 
+LONG 
+The weapon has the advantage of superior length and reach, giving the wielder one Free Attack each turn against an opponent that comes into range of melee combat, as long as said opponent is not also armed with a Long weapon. 
+PRECISE 
+The weapon is designed to be easy to wield and therefore gives +1to attack tests. 
+SHORT 
+The weapon can be drawn as a Free Action and can be used with the Feintability. 
+Goods & 1};ervices 
+HERE FOLLOWS EQUIPMENT that the characters may need to survive on the road, as well as goods and services they might seek for a comfortable existence during their travels and in between adventures. 
+ALCHEMICAL ELIXIRS 
+The peoples of the Davokar region possess a vast knowledge ofhow to transform the herbs, fruits and bodily organs of nature into useful elixirs. Among the barbarians it is usually the witches who create the elixirs, while Ambrian decoctions are often made by specialized craftsmen and artisans. 
+
+Antidote (Weak): A weak antidote lowers the effect of a poison by one degree; a strong poison becomes moderate, a moderate poison becomes weak and a weak poison is completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect. 
+Antidote (Moderate): A moderate antidote lowers the effect of a poison by two degrees; a strong poison becomes weak, while both moderate and weak poisons are completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect. 
+Antidote (Strong): A strong antidote lowers the effect of a poison by three degrees, which usually means that the poison is completely neutralized. The antidote does not affect any damage that a character has already suffered. Requires a passed Cunning test to take effect. 
+Choking Spores: Choking Spores are produced from Davokar's lichens and mushrooms. The elixir is used specifically with the Stranglerability. 
+Concentrated Magic: A dose of mystical essence, which gives a mystic a second chance to succeed with a Resolute test the next time he or she attempts to use a mystical power. 
+Eye Drops: These drops will immediately return the gift of sight to a temporarily blinded creature. 
+Elemental Essence: When applying a dose of ele�mental essence, either one weapon, four throwing weapons or all the arrows/bolts in a quiver deal 104 elemental damage for the duration of a scene. The alchemist must choose which element to prepare: fire, cold, acid or lightning. 
+Elixir ofLife: Consuming an Elixir of Life gives the drinker regenerative powers that heal m6 points of Toughness during m6 turns, on the character's initiative. Sadly the character also suffers 1 tempo�rary corruption for each turn the elixir is in effect. 
+Ghost Candle: The fumes from this candle make invisible things at a location or in a room visible. 
+Herbal Cure: An herbal cure consists of an alchemical poultice coupled with bandages. It smells vile but heals 1point of Toughness. The herbal cure has greater effect if used by a character with the Medicus ability. 
+Poison (Weak): A weak poison deals 104 damage each turn for 104 turns. Poison (Moderate): A moderate poison deals m6 damage each turn for m6 turns. Poison (Strong): A strong poison deals rn8 damage each turn for m8 turns. 
+Table 11: Alchemical elixirs 
+
+ALCHEMICAL ELIXIR COST 
+Antidote 
+
+Weak 1 thaler Moderate 2thaler Strong 3thaler Choking Spores 2thaler Concentrated Magic 1 thaler Eye Drops 2thaler Elemental Essence 2thaler Elixir of Life 6thaler Ghost Candle 2thaler Herbal Cure 1 thaler 
+Poison 
+
+Weak 2thaler Moderate 4thaler Strong 6thaler Protective Oil 2thaler Spore Bomb 3thaler Waybread 1 thaler Wraith Dust 2thaler 
+Protective Oil: The alchemical oil protects against elemental damage by providing rn4 addi�tional Armor against one of the elements for the duration of a scene. The alchemist must choose which of the elements that the oil shields against: fire, cold, acid or lightning. 
+Spore Bomb: The spore bomb is used together with the Stranglerability. Waybread: One loaf of this rich waybread cor�responds to a week's food supply for one person. 
+Wraith Dust: The wraith dust forces an incor�poreal being {a creature with the monstrous trait Spirit Form) to take physical form for the dura�tion ofta scene. The dust must be thrown with a {Accurate.Defense] test; if hit the spirit takes damage as living creatures do. 
+EQUIPMENT AND SERVICES 
+In the towns and cities of Ambria, a person with money in his or her pocket can purchase almost anything that adventurers and explorers might need. There is also the possibility to pay for numer�ous services, such as a bath and a shave, having a map drawn or hiring the protection ofbodyguards. 
+Goods and services grow scarcer both in the countryside and among the clans, so do not be sur�prised if the trader asks for a favor rather than coins as payment, should you actually find what you seek. 
+Table 12: Equipment Table 13: Buildings 
+Equipment and EQUIPMENT COST BUILDING COST 
+problem-solving Bandages 5ortegs Croft l0athaler 
+If a piece of equipment Bear trap 5shillings Farm lO0athaler can be used to facilitate 
+Blanket 2 ortegs Watch tower, wood l00athaler 
+problem-solving or Brass bell 6shillings Watch tower, stone 400thaler 
+make a certain task easier to perform, then Climbing equipment 1 thaler Fort, wood 500athaler 
+adda+ 1 to the active Crayons 1 orteg Estate l000athaler Attribute. Decide within 
+Drinking horn 2 ortegs Fort, stone 2000athaler the gaming group from 
+Drum 3shillings Keep 5000athaler 
+case to case. Field equipment, containing: 5 shillings* Castle 10 000+ thaler Bedroll 5ortegs Cooking pan 1 orteg 
+Table 14: Transport 
+
+Firewood 2 ortegs 
+TRANSPORT COST
+
+Flint and steel 2 ortegs Rope 1 shilling Canoe 2thaler Waterskin 3shillings Cart 1 thaler 
+Fishing line and hook 3ortegs Galley l000athaler Fishing net 1 shilling Mule 3thaler Flute 3shillings Riding horse Grappling hook 1 thaler Light 5thaler Horn 4ortegs Heavy 7thaler Houraglass 4 thaler Rowing boat 3thaler Ink and feather 1 shilling Riveraboat 200athaler Ladder 7 ortegs Sleigh 2thaler Lamp oil 1 orteg Wagon 5thaler Lantern 4ortegs Lockpicks 1 thaler 
+Table 15: Containers 
+
+Needle and thread 1 orteg 
+CONTAINER COST
+
+Paper 3ortegs Parchment 2 ortegs Backpack 1 thaler Pocket mirror 7thaler Barrel 4ortegs Rope ladder 3shillings Basket 2 ortegs 
+Snares 3shillings Belt pouch 5ortegs Snow shoes 5shillings Chest 
+Soap 5ortegs Small 3shillings Spyaglass l0athaler Large 1 thaler Tankard 1 orteg Clay pitcher 5ortegs Tent 3shillings Coin purse 3 ortegs Torch 1 orteg Decorated box 2-5athaler Wax candle 4ortegs Glass vial 1 shilling Weapon maintenance kit 5shillings Knapsack 1 shilling Whetstone 4ortegs Quiver 1 shilling Whistle 2 shillings Sack 2 ortegs 
+*Field equipment is free for new characters 
+154 
+Table 16: Farm Animals 
+FARM ANIMALS 
+Bull Chicken Cow Dog Donkey 
+Ox 
+Pig Rooster Sheep 
+Table 17: Income 
+OCCUPATION 
+Artisan Knight, freelance Laborer, countryside Laborer, town Medicus 
+Sellsword 
+Rider 
+Table 18: Clothing 
+CLOTHES 
+Torn rags Simple garb Artisan's garb Burgher's garb Noble's garb Boots Cap Cloak Coat Dress Gown Hat Mask Pants Robe Scarf Shirt Skirt Tunic 
+COST 
+lOathaler 8ortegs 1 thaler I shilling 3thaler 4thaler 1 thaler 5shillings 15 ortegs 
+DAILY INCOME 
+1 thaler 2thaler lorteg I shilling 1 thaler 
+1 shilling 
+1 thaler 
+COST 
+5 ortegs I shilling 5shillings 1 thaler 10+ thaler I shilling 2-4aortegs 2-6aortegs 5-lOaortegs 1-10 shillings 1-5aortegs 2-4aortegs 5-10 ortegs 1-5aortegs 1-5ashillings 1-2aortegs 1-4aortegs 5-lOaortegs 2-7aortegs 
+
+Table 19: Expenses 
+
+SERVICE  COST  
+Bed and two meals per day  
+Countryside hayloft  1 orteg  
+Inn, countryside  5ortegs  
+Inn, town  l+ shilling  
+Camp Life, per day  
+Foot soldier  5 ortegs  
+Rider  5 shillings  
+Knight  1 thaler  
+Feast, per person  
+Inn, countryside  1 shilling  
+Inn, town  1 thaler  
+Food & drink, countryside  (xl0 in a town)  
+Beer/Ale  2ortegs  
+Bread  1 orteg  
+Casserole  2ortegs  
+Cheese  2ortegs  
+Meat  5ortegs  
+Stew  1 orteg  
+Wine  3ortegs  
+
+Table 20: Services 
+
+SERVICE COST 
+Bath, at an inn 3 ortegs Bodyguard 1 shilling/day Cartographer 1 thaler Medicus 1 shillinga+ cost for any 
+alchemical preparations Mystic, ritual l0athaler Road/city toll 1 orteg Washing of clothes 7 ortegs 
+Table 21: Tools 
+
+TOOL COST 
+Artisan tool 1 thaler Chain 1 thaler Hammer 1 thaler Mining pick 5shilling Scythe 1 thaler Shovel 3shilling Sledgehammer 1 thaler 
+
+
+THE FOLLOWING SECTION covers the rules that you, as a player, are expected to know: the rules for combat, dying and healing. Problem-solving and social challenges are only discussed briefly, since it is the Game Master's job to handle the rules involving those kinds of situations within the game. Finally, there are rules describing how you as a player can use Experience to improve your character. 
+YOUR CHARACTER is often going to find him-or herself engaged in combat. The rules of combat are more detailed than other aspects of the rule set since it is your character's life that is on the line. If you are not tactical, committed and brave, then there is a risk that the battle will end with the death of you or your companions. 
+Combat in Symbaroum should be colorful, and there is a lot of room for you and your friends to describe your actions and to immerse yourself in the combat, the attacks and the escapes. The Game Master is there to decide how to realize your ideas and strategies so do not be afraid to get creative. 
+Example: In order to help illustrate specific rules, we will use the example character Grumpa, the ogre that was created by our imagined player Mira in the first part of The Player's Book. Grumpa the Ogre is a mem�ber of the White Dove, a theater company that travels through Davokar towards the high plateau of Karvosti. 
+On their way the company faces a band of brutal brigands, crude thugs who would rather steal the possessions of others than risk their own lives in the forest's blight-infested ruins. The company is not inter�ested in handing over their honestly stolen riches and so combat begins. Let us see how it goes for our ogrely heroine in the brawl ... 
+'iiturn Order 
+THE CHARACTER with the highest Quickcan choose to either act first or to wait. You may choose to place your Initiative later in the turn order, but once the order is established it cannot be changed. If two persons have the same Quickvalue, then compare Vigilant. If they still share the same value, roll 1020: the highest outcome goes first. 
+COMBAT WITH WEAPONS READY 
+When combat starts it is important to know whether the combatants have their weapons drawn or not. Also, remember that Long weapons get a Free Attack against one enemy during the first turn of melee combat, provided that the enemy does not have a Long weapon as well. 
+Example: The brigand has Quick 10, just like Grumpa, but he has Vigilant 11 against Grumpa�s 9, so he has the initiative. Yet. Grumpa is armed with a staff with the Long quality. One of the brigands approaches Grumpa with a drawn sword, but thanks to having the advan�tage of reach, Grumpa performs her Free Attack and attacks before the brigand. Then the Initiative goes to the brigand, and after that it is Grumpa's usual turn. In the second turn, Grumpa can no longer take advantage of her long staff, and so the brigand attacks first. 
+SURPRISE 
+It usually requires a successful [Discreet.Vigilant] test to surprise someone. If a group tries to surprise another group, instead ofindividual against indi�vidual, use the attackers' lowest Discreet modified by the defenders' highest Vigilant. He or she who surprises an enemy is allowed to make one Free Attack against said enemy at the start of the turn. After that, follow the regular turn order, based on the combatants' Quick values, as described above. 
+If any of the combatants are surprised at the start of combat, they must draw their weapons. All Short weapons can be unsheathed as a Free Action, thanks to their small weight and length. To unsheathe a weapon is otherwise considered a Movement Action. Another option is of course to not draw any weapons and instead choose to use punches and kicks; an individual's or creature's natural weapons are always considered ready and do not have to be drawn or unsheathed. 
+Example: Another brigand tries to sneak up on Grum pa from behind. Our ogre is in trouble! The sneaking brigand has Discreet 10 and Grumpa has Vigilant 10. Mira rolls 12 and our poor ogre is surprised. This works the same way as with a Long weapon, the enemy can make a Free Attack against Grumpa, and then the turn order continues as usual. 
+Actions in .ombat 
+IN COMBAT, your character will kick and fight, slash and stab, parry and dodge. The character does this with his or her two Actions per turn; one Combat Action and one Movement Action. The Combat Action can be replaced with an additional 
+Movement Action, and Movement Actions can be replaced by other kinds of Actions. 
+Besides Combat and Movement Actions, every combatant may perform Reactive Actions, such as performing Free Attacks and Defense tests. There are also Free Actions, Actions that are either brief or can be made in parallel with other Actions. All Actions, except Reactions, are performed on the character's Initiative. Reactions are performed as it sounds, as a reaction to an enemy's Action or other circumstances. 
+COMBAT ACTION 
+The most important Action that can be performed in a turn is the attack. It is with this Action that you character attacks its enemies and attempts to harm them with its weapon. The attack is preferably performed with an Active ability, if your character 
+The Character's Action Economy 
+DURING A TURN A CHARACTER MAY: 
+Perform a Combat Action, such as attacking, perform first aid or use an active ability. The Combat Action can be replaced with an additional Movement Action. 
+Perform a Movement Action, such as moving 10 paces, drawing a weapon, reloading a weapon or using an item or an elixir. 
+Perform an unlimited amount of Reactions, such as defending itself or performing Free Attacks. 
+Perform an unlimited amount of Free Actions, such as giving an order or calling out a warning. 
+Stand up from lying on the ground, which either costs a whole turn (two Movement Actions) or one Movement Action if the character succeeds with a Quick test. 
+masters such a skill. Passive abilities always act together with active ones. 
+The attack is made with [Accurate.Defense]. Note that some abilities can allow you to attack using other Attributes besides Accurate, and calculate Defense using something else than Quick. 
+A Combat Action does not have to be an attack. To provide first aid to someone or to use any other active ability also counts as a Combat Action. 
+A Combat Action can be replaced with an addi�tional Movement Action, but not the opposite: a Movement Action cannot be replaced with an additional Combat Action. 
+Example: When it is Grumpa 's turn to act, she choose to attack using the mystical power Confusion. It's per�formed with a [Resolute.Resolute] test. The enemy has Resolute 9 (+1) so Grumpa. who has Resolute 15. must roll 16 or lower (15+ 1) in order to Confuse the enemy. Mira rolls 11 and the enemy stops in his steps, confused. Maybe our ogre has a chance to survive her first combat! 
+MOVEMENT ACTION 
+The Movement Action represents a meaningful movement in combat. The Movement Action is done on a character's Initiative. Normally, the exact distance is not of any great importance. What does matter in combat is who can make a melee attack and who can use ranged attacks. 
+If a more exact distance needs to be calculated, then a Movement Action represents 10 paces (10 meters), but characters who engage an enemy in melee combat naturally stop by the enemy if the distance is shorter than that (in other words, the character does not have to move the full 10 paces). Movement Actions are used to: 
+� 
+Reach an enemy and engage it in melee combat. 
+
+� 
+Take up a flanking position next to an enemy already fighting an ally. 
+
+� 
+Move past an enemy to reach another one that stands further away (enemies that are bypassed may perform a Free Attack). 
+
+� 
+Withdraw from melee combat (which allows the enemy to perform a Free Attack against the character). If fighting multiple enemies, then each enemy is allowed a Free Attack. 
+
+� 
+Create a clear line of sight to an obscured enemy. Instead of moving, the Movement Action can be used to perform other kinds of Actions: 
+
+� 
+Switch weapons 
+
+� 
+Stand up from a prone position (requires a Quick test). 
+
+� 
+Drink/apply an elixir to yourself. 
+
+
+
+Example: Our dear ogre is considered flanked, since she is standing between two brigands -meaning that the brigands have an Advantage against the big brute. Grumpa solves this with a Movement Action, which trig�gers a Free Attack from each of her enemies (lucky that Grumpa confused one of them!). The ogre moves around the confused enemy, and receives a Free Attack from the other brigand. After making her move, the ogre has both the brigands in front of her. and is no longer flanked. 
+REACTIONS 
+Reactions are quick responses or follow-ups to other Actions or circumstances. They can be performed at any time during the turn and are not tied to the character's Initiative. The character can perform as many Reactions as is called for per turn, as long as there are triggers to react to. Reactions can use the effect of passive abilities, but not ofactive ones. 
+FREE ATTACK 
+There are situations when your character will have the opportunity to make a Free Attack with his or her weapon. This most commonly happens when the character is armed with a Long weapon, when an enemy tries to flee from an ongoing melee combat or when an opponent tries to run past the character in order to reach someone or something behind it. There are also some abilities which trigger Free Attacks under special circumstances. 
+Free attacks can use the effect of passive abilities but not of active ones, and normally the charac�ter can only gain one Free Attack per triggering factor and turn -if two enemies try to withdraw from melee only 1 Free Attack is gained, but if one withdraws and one runs past, the character gains one Free Attack on each. 
+Example: Let's go back to the Free Attack our ogre Grumpa was allowed to make against one of the brig�ands at the start of the battle. Grumpa had no abilities that affected her use of the staff, but if she had (like the Polearm Mastery ability) then the passive parts of that ability (e.g. the 108 damage at novice level) would have come into play when Grumpa performed her Free Attack. 
+Make the Combat Come Alive 
+How an attack looks depends on the situation and the location where the battle takes place. Maybe the character is swinging an axe and hits its enemy both in the arm and in the stomach, or a crossbow is being fired from the top of a wall and the bolt slams into the chest of its target. It is important to make the attacks come alive for the battle to be perceived as dramatic. 
+
+Death test (rn20) 
+1 
+The character's damage looked much worse than it actually was: the character wakes up with 104 Toughness left. The character can act the next turn. 
+2-10 
+The character remains at death's threshold. 
+11-19 
+The character is a step closer to death. The third time the roll has this outcome, the character dies. 
+20 
+The character dies, but may say some last harsh words if the player wants to. 
+DEFENSE 
+
+You are allowed to attempt to defend yourself against any attacks that your character is aware of. The character's Defense is usually based on Quick, then modified by such things as armor qualities and whether or not the character carries a shield. 
+When a character is attacked, defense is tested as [Defense.Accurate}. If the test is successful the char�acter has avoided the attack by either parrying or dodging it. If this test fails, the attack hits and deals damage if the weapon's damage value is higher than the outcome of the roll for the character's Armor. 
+Damage & Healing 
+DAMAGE LOWERS the victim's Toughness and a creature dies when its Toughness reaches zero �unless it is a player character, in which case he or she is regarded as being dying instead. Damage and wounds can be healed in a number of ways, described in this section. 
+TOUGHNESS 
+
+The character's Toughnessis equal to his or her value in the Strong Attribute. However, it can never be lower than 10. 
+PAIN THRESHOLD 
+
+A character's Pain Threshold is half of its Strong value, rounded up. The actual Strong value is used to calculate this figure, even if it is lower than 10. 
+When a creature suffers damage that exceeds its Pain Threshold, from a single attack and after Armor has been subtracted from the damage value, one of the following things happens. Note that it is the player who decides between the two, both for the character when it suffers the damage, as well as the enemy if it is the character that inflicts the pain. 
+� 
+The affected creature is knocked down and has to get up (see Special Actions). 
+
+� 
+The one who deals the damage is allowed to perform an immediate Free Attack against the affected creature. 
+
+
+Example: Our ogre Grumpa has Strong 11, and therefore Toughness 11 and Pain Threshold 6. Grumpa fights savagely against two brigands and both brigands manage to land a hit on our heroine. The damage, after Armor. is 7(4+3). Grumpa's Threshold has not been exceeded, since none of these hits dealt 7 damage on its own. It takes a lot for a pair of brigands to bring our robust heroine down. The fight continues! 
+Later in the adventure, Grumpa encounters a blight-stricken Aboar. Now the danger is for real, since Example: Our brave ogre heroine is relentlessly attacked by brigands and has to defend herself. Luckily enough, Defense is a Reaction, so Grumpa may defend herself an unlimited number of times each turn. Grumpa's Defense is 6[10, -2 for her leather apron and -2 for her Robust trait]. The Game Master tells her that the attacking enemy's Accurate is -1: this is bad since it leaves Grumpa with an effective Defense of5 [6-1]. The attack comes and Mira rolls 9 on 1020 -Grumpa is hit. It is good that Grumpa is an ogre and hence much tougher than most when it comes to withstanding damage. 
+a corrupted behemoth like that is capable of bringing down even the mightiest warrior. Grumpa is hit by an attack and suffers 8 points of damage after her Armor has been subtracted. This surpasses her Pain Threshold value of 7. and Grum pa's player decides that the ogre falls butt-first into the mud as a consequence of such a splendid hit. 
+DYING CHARACTERS Monsters and non-player characters die as soon as their Toughnessreaches o, unless the Game Master wants something else to happen. In any case, the rules for player characters are different. 
+When a character reaches o Toughnessit collapses and is considered to be dying. At this point, it cannot help itself in any way. Each turn thereafter the player is forced to make a Death Test with m20 on the character's Initiative. This testis repeated until someone else either stabilizes the dying character with an herbal cure, the Medicus ability or mystical healing -or until the player rolls a 1 and wakes up, or a 20 and dies. 
+Example: It is not easy for Grumpa when the tainted aboar rams the fallen ogre once more and beats her Toughness down to 0. This looks bad! Grumpa is out of the fight and Mira the player is now forced to make a Death Test each turn to see if Grumpa succumbs to her wounds. The turn after Grumpa was brought down Mira rolls a 3, and so the ogre remains at death �s threshold. Mira rolls a 13 in turn two, so Grumpa is one step closer to death. Two more rolls like that and she is gone. 
+DEAD PLAYER CHARACTERS 
+Dead player characters may not remain in the game, but the player who creates a new character may do so using all the Experienceaccumulated by the last 
+
+160 
+character. This way, the new character does not have to start too far behind the others. 
+HEALING WOUNDS 
+Healing can happen naturally, by the use of alchemy and medicine or with the help of mystical powers. Performing first aid on a dying person requires the Medicus ability, an herbal cure or powers of healing. 
+1};pecial Actions 
+THE CONDITIONS of the combat situation and the weapons of the combatants will affect the course of events. Special rules for line of sight, the use of shields as well as different kinds of advantages are covered in this section. 
+BLIND FIGHTING 
+To fight blinded is hard, and the same goes for fighting under bad lighting conditions such as in darkness, smoke or thick fog. If both parties in a battle are affected, then no adjustments are needed. Otherwise, the affected party gets two chances to fail its success tests -if the character is affected, the player rolls twice and picks the worst result; if only the enemy is affected the player rolls twice and picks the best result. 
+DISENGAGE FROM MELEE COMBAT 
+Disengaging from a melee combat is done on the character's Initiative and costs a Movement Action. The enemy is allowed a Free Attack against the character. This also applies to situations when the character is facing multiple opponents, in which case each opponent is allowed a Free Attack against the character when he or she chooses to disengage. 
+USE/APPLY ELIXIR 
+To use or apply an elixir on either yourself or your equipment counts as a Movement Action. To use or apply it on somebody else counts as a Combat Action. 
+FIRST AID 
+To perform first aid on a wounded person counts as a Combat Action and requires a herbal cure, the Medicus ability or other healing powers. The effect of first aid is described in Damage & Healing. 
+STAND UP 
+Fighting while lying down is possible, but not rec�ommended, because each enemy that has engaged the character in close combat gets an Advantage against a prone character. See rules for Advantage below. If the character makes a successful test 
+� 
+Natural healing happens at a rate of one (1) point of Toughness per day. 
+
+� 
+Alchemical herbal cures heal one (1) point of Toughness immediately. 
+
+� 
+The Medicus ability heals 104 Toughness, even more when combined with herbal cures. 
+
+� 
+Mystical powers, such as Lay on Hands, and the Recovery ability both heal Toughness; see their respective descriptions for details. 
+
+
+against Quick it only takes a Movement Action for the character to get back on its feet. Otherwise, it takes an entire turn, meaning that the character cannot perform a Combat Action while getting up. 
+LINE OF SIGHT 
+Ranged weapons cannot shoot past other combat�ants, meaning that the shooter (or the mystic) may need to use Movement Actions to maneuver for them to have line of sight. A rule of thumb is that if a shooter or a mystic stands behind an ally so that the targeted enemy is forced to trigger a Free Attack to reach the shooter, then the target is obscured from view by the shooter's ally. 
+SHIELD 
+Anyone can defend themselves with a shield, pro�viding +1 to Defense. 
+The use of a shield makes it impossible to use ranged and Heavy weapons and neutralizes the reach advantage gained from a Long weapon, since the wielder must use it in one hand. The buckler is an exception to this, allowing the use ofboth hands, as well as giving the user +1 to Defense. 
+FLANKING 
+To surround the enemy is an effective combat strat�egy. If two persons flank an enemy, both of them gain an Advantage against the target. A maximum of four persons can surround a person or creature; any combatant beyond that will be unable to reach the target and can only step forward if one of its allies retreats or goes down. 
+Terrain and the movement of the combatant decide what is possible to achieve. Doors, corri�dors and narrow passages can be used to prevent enemies from flanking. 
+Remember that attempting to move past an enemy triggers a Free Attack. The Free Attack can be avoided if the combatant opts to trade its Combat Action that turn for an additional Movement Action, making it possible to go around the enemy without entering into melee. 
+Abilities & Special Actions 
+Note that there are many abilities that affect the character's capacity to perform Special Actions. For example, an adept in Acrobaticscan get up from lying down as a Free Action, provided that he or she succeeds with a Quicktest. And the master level of Sixth Sense removes any negative modifications from Blind Fighting �which can be used when attacking opponents in the dark. 
+
+Combat Map 
+It can help to have a map of the battle�field in order to get a better overview 
+of the combat situation. Draw the surrounding area on a piece of paper and mark where everybody stands with an "X" or simple 
+markers or tokens. 
+Even objects and 
+terrain -such as trees, boulders and buildings -should be drawn on the map. Then it quickly becomes much more 
+obvious where the combatants stand, who can shoot, who is flanked and so on. A combat map is even more recommended for battles with many combatants, such as in combat situations where the charac�ters face the same number of enemies as themselves. 
+SURPRISED 
+
+To sneak up on an enemy or prepare an ambush is an active Action and requires a successful [Discreet.Vigilant] test. Attacking an enemy that is unaware of the incoming attack allows the attacker to make a Free Attack in the first turn of combat. Then the combat follows the usual turn order, based on the combatants Quick. 
+ADVANTAGE 
+
+Sometimes one side of a melee combat gets an advan�tage over the other. A character sneaking up on an enemy to attack it from behind has the Advantage. Another situation where you are at an Advantage is when you attack a target lying on the ground or a target that is climbing towards you. To create advantages when fighting on plain and even ground requires the use of Actions, attacks or movements. 
+If your character has the Advantage in a combat situation, it receives a +2 modification to the rel�evant Attribute when making a Success test, and its attacks deal 104 extra damage. 
+Other Important Rules 
+THE GAME MASTER handles most things regarding problem-solving and social challenges, but here follows a description of the basic idea of how those situations are dealt with. This section also describes how to develop your character. These improvements are made using Experience,which is a reward gained from partaking in and surviving adventures. The Game Master awards the Experience, while the player uses it to improve his or her character. 
+PROBLEM-SOLVING 
+Problem-solving refers to situations where your character attempts to achieve something that requires dice rolls and Success tests, but which is not a combat-situation: tracking a fleeing enemy, picking a lock, persuading a guard to let you in or researching the answer to a riddle in a library. The Game Master handles most of this; as a player you only have to be ready to describe how your character attempts to solve the problem, and then roll the dice to make the test asked for by the Game Master. 
+SOCIAL CHALLENGES 
+Social challenges consist ofimportant negotiations, often involving the great and powerful personas, groups and monsters of the game worldt-situations that are unfit for combat and cannot be solved with a mere Persuasive test. In short, the social challenge is solved by your and your friends' roleplaying, where you will have to persuade, deceive and bargain 
+The following situations provide advantages: 
+� 
+Attacking an enemy that is unaware of the pending attack. For this situation to occur, a successful [Discreet.Vigilant] test is normally required by the attacker. 
+
+� 
+All melee attacks against a flanked enemy counts as providing an Advantage. A target is considered flanked if two enemies stand on opposite sides oftit. It usually takes a Movement Action to get around an enemy and flank it. In the same way a character can use a Movement Action to get away from a flanked position -but with the consequence of receiving a Free Attack from each enemy. 
+
+� 
+All melee attacks against an enemy lying down. Note that ranged attacks do not get any advantage from this. 
+
+� 
+All attacks against enemies standing on lower ground than the attacker, such as attacking down from a wall against enemies climbing a ladder. This applies to both me lee and ranged attacks. 
+
+
+your way to a solution. The Game Master handles the parameters for the social challenge, while you portray your character and together with your fellow players try to carry through a successful negotiation around the gaming table. 
+Social challenges are often preceded by scenes of problem-solving, where the character gathers information, secrets and rumors that can be used against the one they need to persuade. 
+IMPROVING YOUR CHARACTER 
+Experienceis awarded by the Game Master after a completed adventure. Experience is traded in for higher levels in the character's abilities, or used to purchase new ones. Purchasing a new ability at novice level costs 10 Experience, to increase from novice to the adept level costs 20 Experience and increasing from adept to master costs 30 Experience. 
+Example: Grumpa the ogre survives her first adven�ture and is rewarded with 12 points of Experience. To purchase a new ability at novice level costs 10 Experience, but Mira decides to save her Experience: she already has five novice abilities and wants to increase one of them to adept level. 
+After another adventure, Grumpa is awarded with an additional 9 points, to a total of 21 Experience. Mira increases one of her abilities to adept level (at a cost of 20 Experience) after which she only has one 
+(1) point of Experience left. 
+
+162 
+or Combat This guide can be used to keep track of the different phases of a turn. 
+Initiative Defense 
+The Initiative decides the Move & Combat Actions turn order in combat. mea�Each combatant has two actions: 
+t 
+� 
+
+ning the order in which the one Movement Action and one Combat characters and enemies act. Action. These can be used as follows: 
+A. Defense: All attacks made during the turn can be met with Defense tests, where the effective defense value is based on [Defense.Accurate]. If the 
+
+A. Long weapons: A. Movement Action 
+Defense test is successful, then the The Long weapon is 
+
+I. Move into melee: To move towards attack misses completely. Should the allowed to make a Free 
+an enemy in order to attack. This attack hit. proceed to Damage. Attack at first contact 
+gives an enemy with a Long weapon with one enemy that is 
+a Free Attack, but not if the attacker not armed with a Long wields a Long weapon as well. 
+Weapon. 
+surprise, make a 
+t
+
+flanking allies the Advantage against 
+II. To flank an enemy already engaged 
+Surprised: If there 
+in melee with a combatant allied to 
+is any possibility of 
+the flanking person. This gives both 
+Damage 
+�
+
+[Discreet. Vigilant] 
+their enemy. 
+test to see if the target 
+Ill. Move around an enemy: A circular A.
+is caught off guard. 
+Weapon damage: The damage 
+
+movement in order to reach another dealt by the character is rolled by 
+The one that performs 
+enemy combatant standing further the player. Their enemies have fixed 
+a successful surprise attack can make a Free away. This gives the bypassed enemy damage values, announced by the a Free Attack. Game Master when a character 
+Attack at the start of 
+suffers a hit. 
+
+the turn against one IV. Disengage from melee combat: surprised enemy. To withdraw from melee allows B. Protection granted by Armor: every engaged enemy combatant The Armor is subtracted from the 
+C. Quick: The combatant 
+to perform a Free Attack. weapon damage. The character's 
+with the highest Quick starts to act when 
+Armor is rolled by the player; the 
+
+Create free line of sight: To Move in 
+fixed value of the enemies' Armor 
+
+neither Long weapons 
+nor surprise attacks are in play. 
+D. Vigilant: If two or more combatants have the same Quick, then Vigilant is used as a tie breaker to determine the turn order (highest goes first). 
+E. 1D20: If two or more combatants also have the same Vigilant, roll 1020 until one of them rolls higher than the other, and therefore wins the Initiative. 
+F. Delay Action: It is possible to delay one's Initiative and let others act first, but then the combatant must keep this delayed Initiative for the rest of the battle. 
+order to get an obscured enemy into your line of sight. 
+VI. Draw weapon 
+VII. Switch weapons: Sheath one weap�on and draw another one. 
+VIII. Stand up (requires a successful Quick test): Get back up on your feet after being knocked prone or other�wise falling down. 
+Drink/apply elixir: To apply an elixir 
+IX. to either yourself or your equipment. 
+B. Combat Action 
+I. Attack: An ordinary attack using a weapon. 
+II. Active Ability: An attack with, or the use of, an active ability. 
+Ill. First aid: To apply an herbal cure on a wounded or dying companion. 
+IV. 
+Additional Movement Action: Replace your Combat Action with another Movement Action. 
+
+V. 
+Pass on elixir: To use an elixir on an ally or its equipment. 
+
+
+is handled by the Game Master. 
+C. Actual damage: The target suffers as much damage as [Weapon�s damage -Armor] 
+D. Pain Threshold: The attacker determines whether the actual damage is higher than the target's Pain Threshold; if so, the target is either knocked to the ground or the attacker is allowed to perform a Free Attack. 
+E. Death test: Should the actual damage suffered be greater than the character's remaining Toughness the character is either incapacitated or dying. The player must make a Death Test each turn to see if the character survives or dies. 
+
+
+
+
+
+
+
